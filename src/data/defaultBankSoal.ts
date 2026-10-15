@@ -1,0 +1,6957 @@
+import { QuizSet } from "../types/index";
+
+export const DEFAULT_QUIZ_SETS: QuizSet[] = [
+  {
+  "id": "quiz-upload-1791697864789",
+  "title": "Latihan Soal BI KLS 5 BAB 3",
+  "description": "Paket 38 butir soal diimpor dari dokumen (BI KLS 5 BAB 3.pdf)",
+  "category": "Bahasa Indonesia",
+  "grade": "SD",
+  "targetClass": "Kelas 5 SD",
+  "difficulty": "Sedang",
+  "icon": "BookOpen",
+  "color": "from-indigo-600 to-sky-700",
+  "questions": [
+    {
+      "id": "imported-q-2-1791697778130",
+      "type": "multiple_choice",
+      "question": "Teks prosedur dilaksanakan secara . . . .",
+      "options": [
+        "Acak",
+        "Urut",
+        "Mundur",
+        "Lompat - lompat"
+      ],
+      "correctIndex": 1,
+      "isTrue": true,
+      "correctAnswer": "Urut",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-3-1791697778131",
+      "type": "multiple_choice",
+      "question": "Berikut kalimat prosedur untuk membuat es sirup adalah . . . .",
+      "options": [
+        "Lipatlah kertas untuk membungkus makanan tersebut",
+        "Putar blender dengan kecepatan sedang",
+        "Tambahkan sirup secukupnya",
+        "Tuangkan bumbu dan aduk perlahan"
+      ],
+      "correctIndex": 2,
+      "isTrue": true,
+      "correctAnswer": "Tambahkan sirup secukupnya",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-4-1791697778131",
+      "type": "multiple_choice",
+      "question": "Jono memiliki hobi tulis.\nPenulisan kata bercetak tebal seharusnya . . . .",
+      "options": [
+        "Mengtulis",
+        "Menulis",
+        "menyulis",
+        "Memnulis"
+      ],
+      "correctIndex": 1,
+      "isTrue": true,
+      "correctAnswer": "Menulis",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-5-1791697778132",
+      "type": "multiple_choice",
+      "question": "Surat pribadi ditujukan kepada . . . .",
+      "options": [
+        "Teman",
+        "Instansi",
+        "Kantor kabupaten",
+        "Kantor polisi"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Teman",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-7-1791697778132",
+      "type": "multiple_choice",
+      "question": "Penggunaan imbuhan 'me-' pada kata dasar dengan huruf pertama d dan g yang benar adalah . . .",
+      "options": [
+        "menderita dan mengiling",
+        "mendaftar dan menggenggam",
+        "medesak dan menggoreng",
+        "memderma dan memgiling"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "menderita dan mengiling",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-8-1791697778132",
+      "type": "multiple_choice",
+      "question": "Kalimat dengan kata berimbuhan '-kan' yang tepat adalah . . . .",
+      "options": [
+        "tidak perlu sungkan bermain ke rumahku",
+        "ayah Nila bukan polisi tetapi tentara",
+        "tuangkan santan ke dalam adonan",
+        "adi memakan roti cokelat di sofa"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "tidak perlu sungkan bermain ke rumahku",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-9-1791697778132",
+      "type": "multiple_choice",
+      "question": "Berikut kata dengan imbuhan '-lah' adalah . . . .",
+      "options": [
+        "Sekolah",
+        "Lelah",
+        "Bungkuslah",
+        "Belah"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Sekolah",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-10-1791697778132",
+      "type": "multiple_choice",
+      "question": "Udin menggunting kertas di sekolah.\nMakna yang dihasilkan dari kata berimbuhan me di atas adalah . . . .",
+      "options": [
+        "Mengerjakan sesuatu dengan alat",
+        "Menjadikan sesuatu",
+        "Menuju suatu tempat",
+        "Seperti atau dalam keadaan"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Mengerjakan sesuatu dengan alat",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-20-1791697778134",
+      "type": "multiple_choice",
+      "question": "mor . . . .",
+      "options": [
+        "1, 2, 3, dan 4",
+        "1, 2, 4, dan 5",
+        "1, 2, 3, dan 7",
+        "4, 5, 7, dan 8"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "1, 2, 3, dan 4",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-21-1791697778134",
+      "type": "multiple_choice",
+      "question": "Bagian surat yang ditunjukkan oleh nomor 11 merupakan....",
+      "options": [
+        "salam penutup",
+        "kalimat pembuka",
+        "Identitas pengirim",
+        "alamat penerima"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "salam penutup",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-29-1791697778134",
+      "type": "true_false",
+      "question": "Imbuhan '-lah' dan '-kan' berfungsi untuk menekankan perintah",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Benar",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-30-1791697778134",
+      "type": "true_false",
+      "question": "Sejarah pembuatan komputer merupakan teks prosedur\nHai Sinta, apa kabar? Merupakan kalimat penutup dalam surat",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Benar",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-31-1791697778134",
+      "type": "true_false",
+      "question": "18.\npribadi",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Benar",
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-11-1791697778132",
+      "type": "fill_blank",
+      "question": "Perhatikan kata - kata berikut!",
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Jawaban Tepat",
+      "acceptableAnswers": [
+        "Jawaban Tepat",
+        "jawaban tepat"
+      ],
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    },
+    {
+      "id": "imported-q-12-1791697778133",
+      "type": "fill_blank",
+      "question": "dalam",
+      "correctIndex": 0,
+      "isTrue": true,
+      "correctAnswer": "Jawaban Tepat",
+      "acceptableAnswers": [
+        "Jawaban Tepat",
+        "jawaban tepat"
+      ],
+      "explanation": "Pembahasan materi konsep pembelajaran.",
+      "hint": "Pahami kata kunci utama pada pertanyaan.",
+      "anagramWord": "KUIS"
+    }
+  ],
+  "playCount": 1,
+  "isCustom": true,
+  "createdAt": "11/10/2026",
+  "updatedAt": "2026-10-11T05:59:12.121Z"
+},
+  {
+  "id": "custom-quiz-bi-kls-5-bab-3",
+  "title": "Latihan Bahasa Indonesia BAB 3 Kelas 5 SD",
+  "description": "Teks Prosedur, Imbuhan \"me-\", Akhiran \"-kan\" dan \"-lah\", Surat Pribadi",
+  "category": "Bahasa Indonesia",
+  "grade": "SD",
+  "targetClass": "Kelas 5 SD",
+  "difficulty": "Sedang",
+  "icon": "BookOpen",
+  "color": "from-indigo-600 to-sky-700",
+  "isCustom": true,
+  "questions": [
+    {
+      "id": "ai-q-1790634474085-0",
+      "type": "multiple_choice",
+      "question": "Teks yang berisi petunjuk serta langkah-langkah dalam membuat atau melakukan sesuatu secara berurutan disebut teks ....",
+      "options": [
+        "deskripsi",
+        "prosedur",
+        "narasi",
+        "fantasi"
+      ],
+      "correctIndex": 1,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "prosedur"
+      ],
+      "correctAnswer": "prosedur",
+      "explanation": "Teks prosedur adalah teks yang memuat panduan, petunjuk, atau langkah-langkah kerja untuk membuat atau mencapai suatu tujuan secara berurutan dan sistematis.",
+      "hint": "Teks ini sering dijumpai pada resep masakan atau cara merakit mainan.",
+      "anagramWord": "PROSEDUR",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474085-4",
+      "type": "multiple_choice",
+      "question": "Manakah di antara kalimat berikut yang menggunakan akhiran -kan sebagai instruksi kalimat perintah?",
+      "options": [
+        "Ibu membelikan adik buku cerita baru.",
+        "Kakak sedang mendengarkan lagu di kamar.",
+        "Tuangkan air hangat ke dalam cangkir perlahan-lahan.",
+        "Ayah membersihkan halaman depan rumah."
+      ],
+      "correctIndex": 2,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "Tuangkan air hangat ke dalam cangkir perlahan-lahan."
+      ],
+      "correctAnswer": "Tuangkan air hangat ke dalam cangkir perlahan-lahan.",
+      "explanation": "Kalimat 'Tuangkan air hangat ke dalam cangkir perlahan-lahan' menggunakan kata dasar 'tuang' ditambah akhiran '-kan' yang berfungsi menyatakan instruksi atau perintah pengerjaan.",
+      "hint": "Cari kalimat yang berisi instruksi untuk bertindak.",
+      "anagramWord": "TUANGKAN",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474086-8",
+      "type": "multiple_choice",
+      "question": "Ciri khas ragam bahasa yang digunakan ketika menulis surat pribadi kepada teman sebaya adalah ....",
+      "options": [
+        "akrab, santai, dan tetap sopan",
+        "sangat kaku dan menggunakan bahasa kedinasan",
+        "menggunakan istilah ilmiah kedokteran",
+        "berupa kode rahasia bernomor"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "akrab, santai, dan tetap sopan"
+      ],
+      "correctAnswer": "akrab, santai, dan tetap sopan",
+      "explanation": "Surat pribadi ditujukan untuk keperluan kekerabatan atau persahabatan, sehingga bahasanya lebih santai, hangat, akrab, namun tetap menjaga kesopanan.",
+      "hint": "Gaya bicara saat mengobrol akrab bersama kawan baik.",
+      "anagramWord": "AKRAB",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474086-10",
+      "type": "multiple_choice",
+      "question": "Bagian pada teks prosedur yang berisi daftar hal-hal atau benda yang harus disiapkan sebelum memulai langkah pembuatan disebut...",
+      "options": [
+        "Tujuan",
+        "Alat dan bahan",
+        "Langkah-langkah",
+        "Penutup"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "Alat dan bahan"
+      ],
+      "correctAnswer": "Alat dan bahan",
+      "explanation": "Alat dan bahan adalah bagian penting dalam teks prosedur yang merinci segala sesuatu yang diperlukan agar tujuan pembuatan dapat tercapai.",
+      "hint": "Cari bagian yang merinci benda atau material yang dibutuhkan.",
+      "anagramWord": "KUIS",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474086-14",
+      "type": "multiple_choice",
+      "question": "Perhatikan kalimat berikut: 'Ibu me_____ pakaian yang baru dicuci di jemuran.' Kata yang tepat untuk melengkapi kalimat dengan akhiran -kan adalah...",
+      "options": [
+        "jemurkah",
+        "jemurlah",
+        "jemurkan",
+        "jemurkanlah"
+      ],
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "jemurkan"
+      ],
+      "correctAnswer": "jemurkan",
+      "explanation": "Akhiran -kan pada kalimat tersebut membentuk kata kerja perintah atau tindakan untuk orang lain, yaitu menjemurkan pakaian.",
+      "hint": "Gunakan kata dasar jemur ditambah akhiran yang sesuai konteks.",
+      "anagramWord": "KUIS",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474085-2",
+      "type": "fill_blank",
+      "question": "Kata dasar 'tulis' jika diberi awalan me- akan luluh dan membentuk kata berimbuhan _____.",
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "menulis",
+        "Menulis"
+      ],
+      "correctAnswer": "menulis",
+      "explanation": "Awalan me- bertemu kata berawalan huruf 't' (tulis) akan meluluhkan huruf t menjadi bunyi sengau 'n', sehingga terbentuk kata 'menulis'.",
+      "hint": "Huruf pertama 't' luluh menjadi bunyi sengau 'n'.",
+      "anagramWord": "MENULIS",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474085-6",
+      "type": "fill_blank",
+      "question": "Agar menjadi kalimat perintah yang halus dan santun dalam teks prosedur, kata dasar 'tutup' diberi akhiran -lah sehingga menjadi _____.",
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "tutuplah",
+        "Tutuplah"
+      ],
+      "correctAnswer": "tutuplah",
+      "explanation": "Kata dasar 'tutup' yang mendapat akhiran '-lah' menjadi 'tutuplah', yang berfungsi memperhalus instruksi atau perintah pada kalimat teks petunjuk.",
+      "hint": "Gabungkan kata dasar tutup langsung dengan akhiran -lah tanpa spasi.",
+      "anagramWord": "TUTUPLAH",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474086-9",
+      "type": "fill_blank",
+      "question": "Pada teks prosedur pembuatan jus jeruk, blender dan pisau termasuk bagian _____ sedangkan jeruk dan gula termasuk bagian bahan.",
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "alat",
+        "peralatan",
+        "Alat",
+        "Peralatan"
+      ],
+      "correctAnswer": "alat",
+      "explanation": "Dalam teks prosedur, benda atau peranti yang digunakan untuk membantu proses pembuatan dan tidak habis terpakai disebut alat.",
+      "hint": "Benda pemotong atau wadah pemroses pembuatan sesuatu.",
+      "anagramWord": "ALAT",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474086-12",
+      "type": "fill_blank",
+      "question": "Kata dasar 'sapu' jika diberi imbuhan awalan me- dan mengalami peluluran huruf pertama akan menjadi _____.",
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "Menyapu"
+      ],
+      "correctAnswer": "menyapu",
+      "explanation": "Awalan me- jika bertemu dengan kata dasar yang diawali huruf S, P, T, K akan mengalami peluluran. Huruf S pada 'sapu' luluh dan digantikan oleh bunyi ny-, sehingga menjadi menyapu.",
+      "hint": "Awalan me- bertemu huruf S berubah menjadi meny-.",
+      "anagramWord": "KUIS",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    },
+    {
+      "id": "ai-q-1790634474086-16",
+      "type": "fill_blank",
+      "question": "Kata 'prosedur' di dalam Kamus Besar Bahasa Indonesia (KBBI) memiliki arti tahap kegiatan untuk menyelesaikan suatu _____.",
+      "correctIndex": 0,
+      "isTrue": true,
+      "acceptableAnswers": [
+        "aktivitas",
+        "kegiatan",
+        "pekerjaan"
+      ],
+      "correctAnswer": "aktivitas",
+      "explanation": "Prosedur adalah serangkaian tahapan atau langkah-langkah tetap yang diikuti untuk merampungkan suatu aktivitas atau pekerjaan.",
+      "hint": "Sinonim dari kegiatan atau pekerjaan.",
+      "anagramWord": "KUIS",
+      "subject": "Bahasa Indonesia",
+      "grade": "SD",
+      "targetClass": "Kelas 5 SD",
+      "difficulty": "Sedang"
+    }
+  ]
+},
+  {
+    "id": "custom-quiz-1790494135282",
+    "title": "Latihan BAB 3 BI Kelas 6",
+    "description": "Latihan soal interaktif untuk menguji pemahaman siswa kelas 6 SD dalam mengidentifikasi, membedakan, dan mengubah kalimat langsung dan kalimat tidak langsung.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 6 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "27/9/2026",
+    "questions": [
+      {
+        "id": "ai-q-1790494074724-0",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut! Ibu berkata, \"Jangan lupa membawa payung ke sekolah.\" Kalimat tersebut merupakan contoh dari...",
+        "options": [
+          "Kalimat langsung",
+          "Kalimat tidak langsung",
+          "Kalimat perintah",
+          "Kalimat majemuk"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kalimat langsung"
+        ],
+        "correctAnswer": "Kalimat langsung",
+        "explanation": "Kalimat langsung adalah kalimat yang menirukan ucapan seseorang tanpa mengubah isinya, ditandai dengan penggunaan tanda petik dua (\").",
+        "hint": "Perhatikan penggunaan tanda baca petik dua dalam kalimat tersebut.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074724-1",
+        "type": "true_false",
+        "question": "Kalimat tidak langsung biasanya ditandai dengan penggunaan kata sambung seperti 'bahwa', 'agar', atau 'supaya'.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Dalam mengubah kalimat langsung menjadi tidak langsung, kita sering menggunakan konjungsi seperti bahwa, agar, untuk, atau supaya.",
+        "hint": "Pikirkan ciri khas kata sambung yang menghubungkan bagian ucapan dalam kalimat tidak langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-2",
+        "type": "fill_blank",
+        "question": "Ibu berkata bahwa aku harus belajar dengan giat. Kalimat tersebut diubah ke dalam bentuk _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kalimat tidak langsung",
+          "tidak langsung"
+        ],
+        "correctAnswer": "kalimat tidak langsung",
+        "explanation": "Kalimat tersebut tidak menggunakan tanda petik dua dan memakai kata sambung 'bahwa', sehingga disebut sebagai kalimat tidak langsung.",
+        "hint": "Kebalikan dari kalimat langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-3",
+        "type": "matching",
+        "question": "Jodohkan ciri-ciri berikut dengan jenis kalimat yang sesuai.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan konsep masing-masing"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Menggunakan tanda petik dua",
+            "right": "Kalimat langsung"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Menggunakan kata sambung 'bahwa'",
+            "right": "Kalimat tidak langsung"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Intonasi pembaca agak meninggi pada ucapan",
+            "right": "Kalimat langsung"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan konsep masing-masing",
+        "explanation": "Kalimat langsung menggunakan tanda petik dan diucapkan langsung, sedangkan kalimat tidak langsung menceritakan kembali ucapan orang lain dengan kata sambung.",
+        "hint": "Cocokkan tanda baca dan kata sambung yang menjadi ciri khas.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-4",
+        "type": "multiple_choice",
+        "question": "Budi berkata, \"Aku akan datang ke rumahmu sore nanti.\" Jika diubah menjadi kalimat tidak langsung, kalimat yang tepat adalah...",
+        "options": [
+          "Budi berkata bahwa ia akan datang ke rumahku sore nanti.",
+          "Budi berkata, \"Aku akan datang ke rumahmu sore nanti.\"",
+          "Budi mengatakan bahwa kamu akan datang ke rumahku.",
+          "Budi menyuruhku datang ke rumahnya sore nanti."
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Budi berkata bahwa ia akan datang ke rumahku sore nanti."
+        ],
+        "correctAnswer": "Budi berkata bahwa ia akan datang ke rumahku sore nanti.",
+        "explanation": "Pada kalimat tidak langsung, kata ganti 'aku' berubah menjadi 'ia' atau 'dia', dan 'rumahmu' berubah menjadi 'rumahku', serta menggunakan kata sambung 'bahwa'.",
+        "hint": "Perhatikan perubahan kata ganti orang (aku menjadi ia, rumahmu menjadi rumahku).",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-5",
+        "type": "true_false",
+        "question": "Tanda petik dua (\") tetap digunakan saat kita menuliskan kalimat tidak langsung.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah. Tanda petik dua hanya digunakan pada kalimat langsung. Kalimat tidak langsung tidak menggunakan tanda petik dua.",
+        "hint": "Ingat kembali aturan tanda baca untuk kalimat tidak langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-6",
+        "type": "fill_blank",
+        "question": "Tanda baca yang wajib digunakan untuk mengapit kutipan pada kalimat langsung adalah tanda petik _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "dua",
+          "2"
+        ],
+        "correctAnswer": "dua",
+        "explanation": "Dalam ejaan Bahasa Indonesia, kalimat langsung diapit dengan menggunakan tanda petik dua (\", \").",
+        "hint": "Jumlah garis lengkung pada tanda petik tersebut ada dua.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-7",
+        "type": "multiple_choice",
+        "question": "Siti berkata kepada Ani, \"Tolong ambilkan buku itu!\" Kalimat langsung tersebut berisi...",
+        "options": [
+          "Pertanyaan",
+          "Perintah",
+          "Berita",
+          "Kaguman"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Perintah"
+        ],
+        "correctAnswer": "Perintah",
+        "explanation": "Kalimat langsung dapat berupa berita, tanya, atau perintah. Kalimat yang diakhiri tanda seru (!) dan berisi permintaan tolong adalah kalimat perintah.",
+        "hint": "Perhatikan tanda seru di akhir ucapan Siti.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-8",
+        "type": "matching",
+        "question": "Jodohkan bentuk perubahan kata ganti orang dari kalimat langsung ke kalimat tidak langsung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan perubahan kata ganti yang tepat"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-8-0",
+            "left": "Saya / Aku",
+            "right": "Ia / Dia / -nya"
+          },
+          {
+            "id": "mp-8-1",
+            "left": "Kamu / Kalian",
+            "right": "Saya / Kami / Mereka"
+          },
+          {
+            "id": "mp-8-2",
+            "left": "Kami",
+            "right": "Mereka"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan perubahan kata ganti yang tepat",
+        "explanation": "Perubahan kata ganti orang sangat penting saat mengubah kalimat langsung menjadi tidak langsung agar maknanya tetap akurat.",
+        "hint": "Pikirkan bagaimana sudut pandang pencerita berubah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-9",
+        "type": "fill_blank",
+        "question": "Kalimat yang melaporkan atau menceritakan kembali pembicaraan seseorang tanpa mengutip persis ucapan aslinya disebut kalimat tidak _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "langsung"
+        ],
+        "correctAnswer": "langsung",
+        "explanation": "Kalimat tidak langsung berfungsi untuk menceritakan kembali isi percakapan orang lain tanpa meniru persis teks aslinya.",
+        "hint": "Lawan kata dari 'langsung'.",
+        "anagramWord": "LANGSUNG",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-10",
+        "type": "multiple_choice",
+        "question": "Perubahan kalimat langsung 'Ibu berkata, \"Jangan lupa membawa payung karena hari ini akan hujan.\"' menjadi kalimat tidak langsung yang paling tepat adalah...",
+        "options": [
+          "Ibu berkata bahwa jangan lupa membawa payung karena hari ini akan hujan.",
+          "Ibu mengatakan agar aku tidak lupa membawa payung karena hari itu akan hujan.",
+          "Ibu menyuruhku jangan lupa membawa payung karena hari ini akan hujan.",
+          "Ibu berkata supaya jangan lupa membawa payung karena hari itu akan hujan."
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu mengatakan agar aku tidak lupa membawa payung karena hari itu akan hujan."
+        ],
+        "correctAnswer": "Ibu mengatakan agar aku tidak lupa membawa payung karena hari itu akan hujan.",
+        "explanation": "Dalam mengubah kalimat langsung menjadi tidak langsung, kata 'Jangan' berubah menjadi 'agar tidak', tanda petik dihilangkan, dan keterangan waktu 'hari ini' berubah menjadi 'hari itu'.",
+        "hint": "Perhatikan perubahan kata ganti orang dan keterangan waktu.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-11",
+        "type": "true_false",
+        "question": "Kata 'bahwa' atau 'agar' sering digunakan sebagai kata penghubung saat mengubah kalimat langsung menjadi kalimat tidak langsung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Benar, kata sambung seperti 'bahwa', 'agar', atau 'supaya' digunakan untuk menggabungkan induk kalimat dan anak kalimat pada kalimat tidak langsung.",
+        "hint": "Pikirkan kata penghubung apa yang biasa dipakai untuk melaporkan ucapan seseorang.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074725-12",
+        "type": "fill_blank",
+        "question": "Keterangan waktu 'kemarin' dalam kalimat langsung akan berubah menjadi _____ dalam kalimat tidak langsung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "sehari sebelumnya",
+          "hari sebelumnya"
+        ],
+        "correctAnswer": "sehari sebelumnya",
+        "explanation": "Dalam aturan pengubahan kalimat, keterangan waktu 'kemarin' berubah menjadi 'sehari sebelumnya' atau 'pada hari sebelumnya'.",
+        "hint": "Pikirkan padanan waktu lampau yang lebih formal untuk laporan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-13",
+        "type": "matching",
+        "question": "Jodohkan perubahan keterangan waktu dari kalimat langsung ke kalimat tidak langsung berikut ini:",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan keterangan waktu langsung dan tidak langsung"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Sekarang",
+            "right": "Saat itu"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Besok",
+            "right": "Keesokan harinya"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Di sini",
+            "right": "Di situ"
+          }
+        ],
+        "correctAnswer": "Menjodohkan keterangan waktu langsung dan tidak langsung",
+        "explanation": "Perubahan keterangan waktu mutlak diperlukan agar makna waktu dalam kalimat tidak langsung tetap akurat sesuai sudut pandang pelapor.",
+        "hint": "Perhatikan perubahan waktu sekarang, masa lalu, dan masa depan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-14",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Andi bertanya kepada Roni apakah ia akan ikut bermain sepak bola sore ini.' Kalimat tersebut merupakan bentuk dari...",
+        "options": [
+          "Kalimat langsung",
+          "Kalimat tidak langsung",
+          "Kalimat perintah",
+          "Kalimat seru"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kalimat tidak langsung"
+        ],
+        "correctAnswer": "Kalimat tidak langsung",
+        "explanation": "Kalimat tersebut menggunakan kata penghubung 'apakah' dan tidak menggunakan tanda petik, sehingga disebut kalimat tidak langsung.",
+        "hint": "Ciri utamanya tidak menggunakan tanda petik dan berisi laporan pertanyaan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-15",
+        "type": "true_false",
+        "question": "Kalimat langsung selalu menggunakan tanda kurung siku [...] untuk mengutip ucapan seseorang.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Salah, kalimat langsung menggunakan tanda petik ganda (\"...\"), bukan tanda kurung siku.",
+        "hint": "Ingat kembali tanda baca apa yang mengapit dialog dalam cerita.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-16",
+        "type": "fill_blank",
+        "question": "Kalimat langsung yang berupa kalimat tanya, ketika diubah menjadi kalimat tidak langsung, biasanya menggunakan kata sambung 'apakah' atau _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kata tanya",
+          "mengapa",
+          "bagaimana"
+        ],
+        "correctAnswer": "kata tanya",
+        "explanation": "Untuk kalimat tanya dalam kalimat tidak langsung, kita bisa menggunakan kata 'apakah' (jika jawabannya ya/tidak) atau menggunakan kata tanya asalnya seperti 'apa', 'siapa', atau 'mengapa'.",
+        "hint": "Gunakan kata tanya yang sesuai dengan pertanyaan aslinya jika jawabannya bukan ya atau tidak.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-17",
+        "type": "multiple_choice",
+        "question": "Ubah kalimat langsung berikut ke bentuk tidak langsung yang benar: \nSiti berkata, \"Saya akan pergi ke perpustakaan besok.\"",
+        "options": [
+          "Siti berkata bahwa saya akan pergi ke perpustakaan besok.",
+          "Siti berkata bahwa ia akan pergi ke perpustakaan keesokan harinya.",
+          "Siti mengatakan bahwa saya akan pergi ke perpustakaan keesokan harinya.",
+          "Siti menyuruh pergi ke perpustakaan keesokan harinya."
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Siti berkata bahwa ia akan pergi ke perpustakaan keesokan harinya."
+        ],
+        "correctAnswer": "Siti berkata bahwa ia akan pergi ke perpustakaan keesokan harinya.",
+        "explanation": "Kata 'Saya' berubah menjadi 'ia' (menyesuaikan subjek), dan 'besok' berubah menjadi 'keesokan harinya'.",
+        "hint": "Perhatikan kata 'Saya' dan 'besok'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-18",
+        "type": "true_false",
+        "question": "Intonasi atau nada bicara saat melaporkan kalimat tidak langsung biasanya bernada datar sebagai sebuah berita atau laporan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Benar, karena sifatnya melaporkan kembali ucapan orang lain, intonasi pembacaannya bernada berita, bukan seperti menirukan dialog asli.",
+        "hint": "Bayangkan seorang wartawan yang sedang melaporkan informasi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-19",
+        "type": "fill_blank",
+        "question": "Nama lain dari kalimat langsung dalam istilah percakapan atau dialog adalah kalimat _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "dialog",
+          "kutipan"
+        ],
+        "correctAnswer": "dialog",
+        "explanation": "Kalimat langsung sering ditemukan dalam bentuk dialog atau percakapan langsung antar tokoh dalam cerita fiksi.",
+        "hint": "Biasanya ditemukan pada teks naskah drama atau percakapan cerita.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-20",
+        "type": "multiple_choice",
+        "question": "Ibu berkata kepada Andi, \"Tolong ambilkan piring di dapur!\" Jika diubah menjadi kalimat tidak langsung yang tepat adalah...",
+        "options": [
+          "Ibu berkata bahwa Andi mengambilkan piring di dapur.",
+          "Ibu meminta Andi agar mengambilkan piring di dapur.",
+          "Ibu menyuruh Andi untuk mengambilkan piring di dapur saya.",
+          "Ibu bertanya apakah Andi mengambil piring di dapur?"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu meminta Andi agar mengambilkan piring di dapur."
+        ],
+        "correctAnswer": "Ibu meminta Andi agar mengambilkan piring di dapur.",
+        "explanation": "Kalimat perintah dalam kalimat langsung diubah menjadi kalimat tidak langsung dengan menggunakan kata kerja 'meminta' atau 'menyuruh' diikuti konjungsi 'agar' atau 'supaya', serta tanda petik dihilangkan.",
+        "hint": "Perhatikan bahwa kalimat aslinya adalah kalimat perintah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-21",
+        "type": "true_false",
+        "question": "Kalimat tidak langsung ditandai dengan penggunaan tanda petik dua (\") pada bagian kutipannya.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena tanda petik dua (\") hanya digunakan pada kalimat langsung untuk mengapit petikan langsung. Kalimat tidak langsung tidak menggunakan tanda petik.",
+        "hint": "Ingat kembali ciri tanda baca penulisan kalimat langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-22",
+        "type": "fill_blank",
+        "question": "Ayah bertanya kepada Dika, \"Kapan kamu akan membersihkan sepeda?\" Jika diubah menjadi kalimat tidak langsung, kata 'kapan' dalam kalimat tersebut berfungsi sebagai _____ penanya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "konjungsi",
+          "penghubung",
+          "kata"
+        ],
+        "correctAnswer": "kata",
+        "explanation": "Dalam mengubah kalimat tanya langsung menjadi tidak langsung, kata tanya seperti 'kapan', 'apa', atau 'siapa' tetap dipertahankan dan berfungsi sebagai kata penghubung (konjungsi) penanya.",
+        "hint": "Kata tanya tetap dibawa ke dalam bentuk tidak langsung sebagai penghubung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-23",
+        "type": "matching",
+        "question": "Jodohkan bentuk kalimat langsung berikut dengan jenis kalimat tidak langsung yang sesuai perubahannya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pernyataan berdasarkan variasi kalimat"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-23-0",
+            "left": "Kalimat Berita: \"Saya membaca buku.\"",
+            "right": "Menjadi: ...bahwa ia membaca buku."
+          },
+          {
+            "id": "mp-23-1",
+            "left": "Kalimat Tanya: \"Di mana rumahmu?\"",
+            "right": "Menjadi: ...menanyakan di mana rumahku."
+          },
+          {
+            "id": "mp-23-2",
+            "left": "Kalimat Perintah: \"Pergilah sekarang!\"",
+            "right": "Menjadi: ...menyuruh agar pergi saat itu."
+          }
+        ],
+        "correctAnswer": "Pernyataan berdasarkan variasi kalimat",
+        "explanation": "Setiap jenis kalimat (pernyataan, perintah, pertanyaan) memiliki aturan dan kata sambung yang berbeda saat diubah ke bentuk tidak langsung.",
+        "hint": "Sesuaikan jenis kalimat awal dengan kata pengantar kalimat tidak langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-24",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat tidak langsung berikut: \"Rani mengatakan bahwa ia telah menyelesaikan tugas sekolahnya.\" Kalimat langsung yang tepat untuk kalimat tersebut adalah...",
+        "options": [
+          "Rani berkata, \"Ia telah menyelesaikan tugas sekolahnya.\"",
+          "Rani berkata, \"Aku telah menyelesaikan tugas sekolahku.\"",
+          "Rani berkata, \"Kamu telah menyelesaikan tugas sekolahmu.\"",
+          "Rani berkata, \"Dia sudah selesai tugasnya.\""
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Rani berkata, \"Aku telah menyelesaikan tugas sekolahku.\""
+        ],
+        "correctAnswer": "Rani berkata, \"Aku telah menyelesaikan tugas sekolahku.\"",
+        "explanation": "Kata 'ia' pada kalimat tidak langsung merujuk pada pembicara, sehingga ketika dikembalikan ke kalimat langsung berubah menjadi 'aku' atau 'saya', dan menggunakan kepemilikan 'ku'.",
+        "hint": "Ubah kata ganti orang ketiga (ia) kembali menjadi kata ganti orang pertama (aku).",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-25",
+        "type": "true_false",
+        "question": "Perubahan kata ganti orang sangat penting diperhatikan saat mengubah kalimat langsung menjadi kalimat tidak langsung agar maknanya tetap akurat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Kata ganti seperti 'saya/aku' sering berubah menjadi 'ia/dia/mereka' atau sebaliknya tergantung siapa yang berbicara dan kepada siapa kalimat itu dilaporkan.",
+        "hint": "Pikirkan bagaimana sudut pandang pencerita berubah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-26",
+        "type": "fill_blank",
+        "question": "Paman berkata, \"Jangan membuang sampah sembarangan!\" Kalimat tidak langsung dari kalimat tersebut adalah Paman melarang _____ agar tidak membuang sampah sembarangan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kami",
+          "kita",
+          "anak-anak"
+        ],
+        "correctAnswer": "kami",
+        "explanation": "Kalimat perintah larangan ('jangan') dalam kalimat tidak langsung biasanya diubah menggunakan kata kerja 'melarang' diikuti kata ganti orang yang diajak bicara.",
+        "hint": "Kata 'jangan' diubah menjadi kata kerja larangan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-27",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan ciri khas dari struktur kalimat langsung?",
+        "options": [
+          "Selalu menggunakan kata penghubung 'bahwa'.",
+          "Bagian kutipan dipisahkan dengan tanda koma dari kalimat pengantar.",
+          "Tidak pernah menggunakan tanda petik sama sekali.",
+          "Menggunakan intonasi tanya di akhir kalimat berita."
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Bagian kutipan dipisahkan dengan tanda koma dari kalimat pengantar."
+        ],
+        "correctAnswer": "Bagian kutipan dipisahkan dengan tanda koma dari kalimat pengantar.",
+        "explanation": "Dalam struktur kalimat langsung, kalimat pengantar dan bagian kutipan dipisahkan menggunakan tanda koma (,), serta menggunakan tanda petik dua (\") untuk mengapit kutipan.",
+        "hint": "Perhatikan tanda baca khusus yang wajib ada pada kalimat langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-28",
+        "type": "true_false",
+        "question": "Kalimat tanya langsung yang menggunakan kata tanya 'apakah' akan berubah menjadi menggunakan konjungsi 'jika' atau 'apakah' saat diubah ke kalimat tidak langsung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Jika kalimat tanya langsung tidak menggunakan kata tanya khusus (seperti apa, siapa, di mana), melainkan diawali pertanyaan 'apakah', maka dalam kalimat tidak langsung menggunakan kata 'jika' atau 'apakah'.",
+        "hint": "Perhatikan kata sambung untuk pertanyaan tertutup.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790494074726-29",
+        "type": "fill_blank",
+        "question": "Kata penghubung atau konjungsi yang paling sering digunakan untuk mengubah kalimat langsung berita (pernyataan) menjadi kalimat tidak langsung adalah _____",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "bahwa",
+          "Bahwa",
+          "BAHWA"
+        ],
+        "correctAnswer": "bahwa",
+        "explanation": "Konjungsi 'bahwa' berfungsi sebagai penghubung antara kalimat pengantar dan isi pernyataan yang dilaporkan dalam kalimat tidak langsung.",
+        "hint": "Kata sambung ini diawali dengan huruf b.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      }
+    ]
+  },
+  {
+    "id": "custom-quiz-1790493677200",
+    "title": "Kuis Bahasa Indonesia Kelas 6: Kosakata Khusus dan Informasi Teks",
+    "description": "Latihan soal interaktif untuk menguji kemampuan mengidentifikasi kosakata khusus, objek teks, menyusun ikhtisar, dan informasi tersurat.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 6 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "27/9/2026",
+    "questions": [
+      {
+        "id": "ai-q-1790493552839-0",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Petani melakukan reboisasi di lahan kritis untuk mencegah erosi tanah.' Kata 'reboisasi' termasuk ke dalam kosakata khusus bidang...",
+        "options": [
+          "Peternakan",
+          "Kehutanan",
+          "Kelautan",
+          "Perdagangan"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kehutanan"
+        ],
+        "correctAnswer": "Kehutanan",
+        "explanation": "Reboisasi adalah penanaman kembali hutan yang gundul. Istilah ini merupakan kosakata khusus dalam bidang kehutanan dan lingkungan.",
+        "hint": "Pikirkan tentang kegiatan penanaman hutan kembali.",
+        "anagramWord": "Kehutanan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552839-1",
+        "type": "true_false",
+        "question": "Kosakata umum adalah kata-kata yang maknanya sudah dipahami oleh masyarakat luas dan tidak terbatas pada bidang keahlian tertentu.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Kosakata umum sering digunakan sehari-hari, sedangkan kosakata khusus hanya digunakan dalam bidang tertentu.",
+        "hint": "Bandingkan kata 'makan' (umum) dengan 'fotosintesis' (khusus).",
+        "anagramWord": "Kosakata",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552839-2",
+        "type": "fill_blank",
+        "question": "Singkatan atau ringkasan dari keseluruhan isi teks yang disajikan secara singkat dan padat disebut dengan nama _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ringkasan",
+          "Ikhtisar"
+        ],
+        "correctAnswer": "Ikhtisar",
+        "explanation": "Ikhtisar adalah bentuk ringkasan informasi dari sebuah teks tanpa harus mengikuti urutan asli teks tersebut secara ketat, asalkan intinya tersampaikan.",
+        "hint": "Dimulai dengan huruf I, artinya adalah ringkasan.",
+        "anagramWord": "Ikhtisar",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-3",
+        "type": "matching",
+        "question": "Jodohkan istilah khusus berikut dengan bidang yang sesuai.",
+        "options": [
+          "Kedokteran",
+          "Kebencanaan",
+          "Keuangan"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan istilah khusus dengan bidangnya."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Diagnosis",
+            "right": "Kedokteran"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Evakuasi",
+            "right": "Kebencanaan"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Devisa",
+            "right": "Keuangan"
+          }
+        ],
+        "correctAnswer": "Menjodohkan istilah khusus dengan bidangnya.",
+        "explanation": "Diagnosis berkaitan dengan kedokteran, evakuasi berkaitan dengan bencana alam, dan devisa berkaitan dengan keuangan negara.",
+        "hint": "Pasangkan kata dengan konteks penggunaannya sehari-hari.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-4",
+        "type": "multiple_choice",
+        "question": "Di dalam teks laporan hasil observasi tentang ekosistem laut, ditemukan objek yang diamati berupa terumbu karang, ikan, dan rumput laut. Objek tersebut termasuk dalam kategori...",
+        "options": [
+          "Abiotik",
+          "Sosial",
+          "Biotik",
+          "Kultural"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Biotik"
+        ],
+        "correctAnswer": "Biotik",
+        "explanation": "Terumbu karang, ikan, dan rumput laut adalah komponen makhluk hidup atau disebut juga komponen biotik dalam ekosistem.",
+        "hint": "Komponen makhluk hidup dalam ekosistem disebut...",
+        "anagramWord": "Biotik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-5",
+        "type": "true_false",
+        "question": "Informasi tersurat adalah informasi yang disampaikan secara tersembunyi dan pembaca harus menebak sendiri makna di balik paragraf.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah. Informasi tersurat adalah informasi yang tertulis secara jelas dan terang-terangan di dalam teks, tidak tersembunyi.",
+        "hint": "Ingat perbedan tersurat (tertulis jelas) dan tersirat (tersembunyi).",
+        "anagramWord": "Tersurat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-6",
+        "type": "fill_blank",
+        "question": "Bagan atau diagram yang digunakan untuk menyajikan informasi dari teks secara visual dan terstruktur disebut peta _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pikiran",
+          "Konsep"
+        ],
+        "correctAnswer": "Pikiran",
+        "explanation": "Peta pikiran (mind map) adalah cara menyusun informasi dari teks ke dalam bentuk bagan atau diagram agar lebih mudah dipahami.",
+        "hint": "Kata keduanya adalah 'Pikiran'.",
+        "anagramWord": "Mindmap",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-7",
+        "type": "matching",
+        "question": "Jodohkan kalimat tanya (5W+1H) dengan fungsi informasi tersurat yang dicarinya.",
+        "options": [
+          "Peristiwa atau benda",
+          "Tokoh atau pelaku",
+          "Tempat kejadian"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan kata tanya dengan fungsinya."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Apa",
+            "right": "Peristiwa atau benda"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Siapa",
+            "right": "Tokoh atau pelaku"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Di mana",
+            "right": "Tempat kejadian"
+          }
+        ],
+        "correctAnswer": "Menjodohkan kata tanya dengan fungsinya.",
+        "explanation": "Kata tanya 'Apa' menanyakan benda/peristiwa, 'Siapa' menanyakan tokoh, dan 'Dimana' menanyakan tempat.",
+        "hint": "Perhatikan kata tanya di sebelah kiri.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-8",
+        "type": "multiple_choice",
+        "question": "Bacalah kalimat berikut: 'Gawai canggih itu dibeli ayah di pusat elektronik.' Objek utama yang dibicarakan dalam kalimat tersebut berdasarkan kosakatanya adalah...",
+        "options": [
+          "Gawai",
+          "Ayah",
+          "Pusat elektronik",
+          "Uang"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Gawai"
+        ],
+        "correctAnswer": "Gawai",
+        "explanation": "Objek utama yang dibahas dalam kalimat tersebut adalah 'Gawai' (smartphone/gadget), yang ditandai sebagai benda yang dibeli.",
+        "hint": "Cari benda yang menjadi pusat pembicaraan dalam kalimat.",
+        "anagramWord": "Gawai",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-9",
+        "type": "true_false",
+        "question": "Dalam membuat ikhtisar dari sebuah teks nonfiksi, kita tidak boleh mengubah gagasan pokok atau inti informasi dari penulis aslinya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Ikhtisar harus merangkum isi asli secara akurat tanpa menyimpang atau mengubah pesan utama penulis.",
+        "hint": "Ringkasan yang baik harus tetap setia pada ide pokok teks asli.",
+        "anagramWord": "Ikhtisar",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-10",
+        "type": "multiple_choice",
+        "question": "Dalam sebuah artikel kesehatan, ditemukan kalimat: 'Penderita demam berdarah disarankan memperbanyak konsumsi cairan untuk menghindari dehidrasi.' Kosakata khusus bidang kesehatan dalam kalimat tersebut adalah...",
+        "options": [
+          "Konsumsi",
+          "Dehidrasi",
+          "Pemberantasan",
+          "Suplemen"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Dehidrasi"
+        ],
+        "correctAnswer": "Dehidrasi",
+        "explanation": "Dehidrasi adalah istilah atau kosakata khusus dalam bidang kesehatan/kedokteran yang merujuk pada kondisi kekurangan cairan tubuh.",
+        "hint": "Cari kata yang berkaitan erat dengan dunia medis atau kesehatan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-11",
+        "type": "true_false",
+        "question": "Kata 'ekosistem' merupakan contoh kosakata khusus yang sering digunakan dalam bidang ilmu pengetahuan alam.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar karena 'ekosistem' adalah istilah baku dalam bidang biologi dan ilmu pengetahuan alam untuk menggambarkan hubungan timbal balik antara makhluk hidup dan lingkungannya.",
+        "hint": "Pikirkan apakah kata ekosistem sering muncul di buku IPA.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552840-12",
+        "type": "fill_blank",
+        "question": "Ringkasan padat yang diambil dari pokok-pokok isi teks tanpa mengubah gagasan utama disebut juga dengan istilah _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ringkasan",
+          "Sinopsis",
+          "Ikhtisar"
+        ],
+        "correctAnswer": "Ikhtisar",
+        "explanation": "Ikhtisar adalah bentuk ringkasan dari suatu teks yang mengambil intisari atau pokok-pokok penting dari bacaan tanpa harus berurutan seperti rangkuman.",
+        "hint": "Dimulai dengan huruf I, sinonim dari ringkasan atau garis besar.",
+        "anagramWord": "IKHTISAR",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-13",
+        "type": "matching",
+        "question": "Jodohkan istilah kosakata bidang khusus berikut dengan kelompok bidang ilmunya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan istilah khusus dengan bidangnya."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Inflasi",
+            "right": "Ekonomi"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Habitat",
+            "right": "Biologi"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Gravitasi",
+            "right": "Fisika"
+          }
+        ],
+        "correctAnswer": "Menjodohkan istilah khusus dengan bidangnya.",
+        "explanation": "Setiap bidang ilmu memiliki kosakata khusus yang membedakannya dengan bidang lain, seperti inflasi (ekonomi), habitat (biologi), dan gravitasi (fisika).",
+        "hint": "Perhatikan konteks makna setiap kata dengan ilmu terkait.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-14",
+        "type": "multiple_choice",
+        "question": "Bacalah kalimat berikut: 'Petani di Desa Sukamaju menggunakan traktor modern untuk membajak sawah lebih cepat.' Objek utama yang dibahas dalam teks tersebut adalah...",
+        "options": [
+          "Desa Sukamaju",
+          "Traktor modern",
+          "Petani",
+          "Sawah"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Petani"
+        ],
+        "correctAnswer": "Petani",
+        "explanation": "Objek utama atau subjek pelaku yang dibahas dalam kalimat tersebut adalah petani yang sedang melakukan aktivitas membajak sawah menggunakan traktor.",
+        "hint": "Siapa atau apa pelaku utama dalam kalimat tersebut?",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-15",
+        "type": "true_false",
+        "question": "Informasi tersurat adalah informasi yang disampaikan secara tersembunyi dan pembaca harus menebak sendiri makna di balik paragraf.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah. Informasi tersurat adalah informasi yang tertulis secara jelas dan terang-terangan dalam teks, sehingga pembaca dapat langsung menemukannya tanpa harus menebak.",
+        "hint": "Ingat kembali arti kata 'tersurat' lawan kata dari 'tersirat'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-16",
+        "type": "fill_blank",
+        "question": "Penyusunan informasi dari teks fiksi atau nonfiksi ke dalam bentuk visual berupa kotak-kotak yang saling dihubungkan garis disebut pembuatan _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Diagram",
+          "Peta konsep",
+          "Bagan"
+        ],
+        "correctAnswer": "Bagan",
+        "explanation": "Bagan atau diagram adalah bentuk penyajian informasi secara visual berupa skema, tabel, atau kotak terhubung agar lebih mudah dipahami.",
+        "hint": "Bentuk visual berupa skema atau peta konsep.",
+        "anagramWord": "BAGAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-17",
+        "type": "multiple_choice",
+        "question": "Dalam teks nonfiksi tentang tata surya, ditemukan kalimat: 'Planet Venus memiliki suhu permukaan paling panas karena atmosfernya dipenuhi gas karbon dioksida.' Informasi tersurat yang dapat diambil dari kalimat tersebut adalah...",
+        "options": [
+          "Venus adalah planet dengan suhu permukaan paling panas.",
+          "Semua planet memiliki atmosfer karbon dioksida.",
+          "Suhu di bumi sama panasnya dengan Venus.",
+          "Karbon dioksida membuat planet menjadi dingin."
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Venus adalah planet dengan suhu permukaan paling panas."
+        ],
+        "correctAnswer": "Venus adalah planet dengan suhu permukaan paling panas.",
+        "explanation": "Informasi tersurat adalah informasi yang benar-benar tertulis di teks. Kalimat tersebut secara jelas menyatakan bahwa Venus memiliki suhu permukaan paling panas.",
+        "hint": "Pilih pernyataan yang langsung sesuai dengan teks tanpa perlu menyimpulkan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-18",
+        "type": "true_false",
+        "question": "Kosakata bidang seni meliputi kata-kata seperti melodi, ritme, kanvas, dan koreografi.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Melodi dan ritme adalah istilah musik, kanvas adalah istilah seni rupa, dan koreografi adalah istilah seni tari yang semuanya masuk dalam bidang seni.",
+        "hint": "Apakah istilah-istilah tersebut sering dipakai dalam pelajaran seni budaya?",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-19",
+        "type": "fill_blank",
+        "question": "Informasi yang tidak tertulis secara langsung di dalam teks, melainkan harus disimpulkan sendiri oleh pembaca disebut informasi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Implisit",
+          "Tersirat"
+        ],
+        "correctAnswer": "Tersirat",
+        "explanation": "Informasi tersirat adalah makna tersembunyi yang harus dicari tahu oleh pembaca melalui analisis isi teks, berbeda dengan informasi tersurat yang jelas tertulis.",
+        "hint": "Kebalikan dari kata 'tersurat'.",
+        "anagramWord": "TERSIRAT",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-20",
+        "type": "multiple_choice",
+        "question": "Dalam sebuah teks laporan tentang ekosistem laut, terdapat kalimat: 'Terumbu karang menjadi habitat bagi berbagai jenis ikan hias.' Kosakata khusus bidang biologi/lingkungan dalam kalimat tersebut adalah...",
+        "options": [
+          "Tempat",
+          "Jenis",
+          "Habitat",
+          "Ikan"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Habitat"
+        ],
+        "correctAnswer": "Habitat",
+        "explanation": "Habitat adalah kosakata khusus dalam bidang biologi/lingkungan yang berarti tempat tinggal khas bagi organisme hidup.",
+        "hint": "Cari kata yang berkaitan erat dengan ilmu pengetahuan alam atau lingkungan.",
+        "anagramWord": "HABITAT",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-21",
+        "type": "true_false",
+        "question": "Ikhtisar atau ringkasan teks harus memuat seluruh kalimat penjelas dan pengembang secara lengkap tanpa ada yang diringkas.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Ikhtisar adalah bentuk ringkas dari suatu teks yang hanya mengambil gagasan pokok atau informasi penting saja, bukan memuat seluruh kalimat pengembang secara lengkap.",
+        "hint": "Ingat kembali arti dari meringkas atau membuat ikhtisar.",
+        "anagramWord": "IKHTISAR",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-22",
+        "type": "fill_blank",
+        "question": "Informasi yang secara jelas tertulis di dalam teks dan tidak perlu disimpulkan kembali disebut sebagai informasi tersurat atau informasi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "terbuka",
+          "jelas",
+          "langsung"
+        ],
+        "correctAnswer": "langsung",
+        "explanation": "Informasi tersurat adalah informasi yang tertulis secara terang-terangan dan jelas (langsung) dalam teks.",
+        "hint": "Lawan kata dari tidak langsung atau tersirat.",
+        "anagramWord": "LANGSUNG",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552841-23",
+        "type": "matching",
+        "question": "Jodohkan istilah kosakata bidang khusus di sebelah kiri dengan arti atau bidang yang sesuai di sebelah kanan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan bidang dan arti masing-masing"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-23-0",
+            "left": "Inflasi",
+            "right": "Bidang Ekonomi"
+          },
+          {
+            "id": "mp-23-1",
+            "left": "Diagnosis",
+            "right": "Bidang Kedokteran"
+          },
+          {
+            "id": "mp-23-2",
+            "left": "Fertilisasi",
+            "right": "Bidang Pertanian/Biologi"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan bidang dan arti masing-masing",
+        "explanation": "Kosakata khusus disesuaikan dengan bidang keahliannya masing-masing seperti ekonomi, kedokteran, dan pertanian.",
+        "hint": "Perhatikan bidang ilmu yang berkaitan dengan kata-kata tersebut.",
+        "anagramWord": "KOSAKATA",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552843-24",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Pemerintah menyalurkan subsidi pupuk kepada kelompok tani di desa.' Objek utama yang dibicarakan dalam kalimat tersebut berdasarkan kosakata yang digunakan adalah...",
+        "options": [
+          "Pemerintah desa",
+          "Subsidi pupuk",
+          "Kelompok tani",
+          "Penyaluran dana"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Subsidi pupuk"
+        ],
+        "correctAnswer": "Subsidi pupuk",
+        "explanation": "Objek yang dibicarakan secara spesifik dalam kalimat tersebut adalah subsidi pupuk yang disalurkan kepada petani.",
+        "hint": "Fokus pada apa yang disalurkan oleh pemerintah dalam kalimat.",
+        "anagramWord": "SUBSIDI",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552843-25",
+        "type": "true_false",
+        "question": "Untuk menyusun sebuah bagan informasi dari teks nonfiksi, kita perlu menentukan gagasan pokok dari setiap paragraf terlebih dahulu.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Penyusunan bagan informasi atau peta pikiran bersumber dari gagasan pokok di tiap-tiap paragraf agar runtut.",
+        "hint": "Pikirkan langkah awal membuat ringkasan visual atau bagan.",
+        "anagramWord": "BAGAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552843-26",
+        "type": "fill_blank",
+        "question": "Pernyataan atau fakta yang dapat langsung ditemukan pembaca pada kalimat pertama suatu paragraf dinamakan informasi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "langsung",
+          "jelas",
+          "tersurat"
+        ],
+        "correctAnswer": "tersurat",
+        "explanation": "Informasi tersurat adalah informasi yang dapat ditemukan secara langsung pada teks tanpa harus menerka-nerka.",
+        "hint": "Cocokkan dengan istilah kebalikan dari tersirat.",
+        "anagramWord": "TERSURAT",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552843-27",
+        "type": "multiple_choice",
+        "question": "Dalam teks astronomi, ditemukan kalimat: 'Planet Venus memiliki atmosfer yang sangat padat oleh karbon dioksida.' Kosakata khusus bidang sains/astronomi dalam kalimat tersebut adalah...",
+        "options": [
+          "Atmosfer",
+          "Sangat",
+          "Padat",
+          "Memiliki"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Atmosfer"
+        ],
+        "correctAnswer": "Atmosfer",
+        "explanation": "Atmosfer adalah lapisan gas yang melingkupi sebuah planet, merupakan kosakata khusus bidang astronomi/sains.",
+        "hint": "Pilih kata yang menunjuk pada lapisan udara di luar bumi atau planet.",
+        "anagramWord": "ATMOSFER",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552843-28",
+        "type": "matching",
+        "question": "Jodohkan bentuk penyajian informasi ulang di sebelah kiri dengan definisi yang tepat di sebelah kanan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan definisi bentuk penyajian informasi"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-28-0",
+            "left": "Ikhtisar",
+            "right": "Ringkasan teks tanpa harus berurutan"
+          },
+          {
+            "id": "mp-28-1",
+            "left": "Bagan",
+            "right": "Penyajian informasi dalam bentuk diagram/skema"
+          },
+          {
+            "id": "mp-28-2",
+            "left": "Ringkasan",
+            "right": "Penyaripatian teks sesuai urutan asli"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan definisi bentuk penyajian informasi",
+        "explanation": "Ikhtisar, bagan, dan ringkasan adalah bentuk-bentuk penyajian informasi kembali dari teks asli.",
+        "hint": "Pahami bentuk visual maupun naratif dari ringkasan.",
+        "anagramWord": "INFORMASI",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790493552843-29",
+        "type": "true_false",
+        "question": "Kosakata umum adalah kata-kata yang ruang lingkupnya sempit dan hanya dipahami oleh kalangan ahli tertentu saja.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Kosakata umum adalah kata-kata yang ruang lingkupnya luas dan biasa digunakan oleh masyarakat sehari-hari, sedangkan kosakata khususlah yang ruang lingkupnya terbatas pada bidang tertentu.",
+        "hint": "Bedakan antara kata sehari-hari (umum) dan kata istilah khusus (khusus).",
+        "anagramWord": "KOSAKATA",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      }
+    ]
+  },
+  {
+    "id": "custom-quiz-1790493038909",
+    "title": "Mengenal Surat Pribadi - Bahasa Indonesia Kelas 5 SD",
+    "description": "Uji pemahaman mengenai pengertian, tujuan, ciri-ciri bahasa, serta struktur atau bagian-bagian surat pribadi untuk siswa kelas 5 SD.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "27/9/2026",
+    "questions": [
+      {
+        "id": "ai-q-1790492999663-0",
+        "type": "multiple_choice",
+        "question": "Apa yang dimaksud dengan surat pribadi?",
+        "options": [
+          "Surat yang dikirim oleh instansi pemerintah kepada warga",
+          "Surat yang ditulis seseorang untuk kepentingan pribadi kepada orang lain",
+          "Surat undangan resmi dari kepala sekolah kepada wali murid",
+          "Surat perjanjian jual beli tanah dan bangunan instansi resmi"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Surat yang ditulis seseorang untuk kepentingan pribadi kepada orang lain"
+        ],
+        "correctAnswer": "Surat yang ditulis seseorang untuk kepentingan pribadi kepada orang lain",
+        "explanation": "Surat pribadi adalah bentuk komunikasi tertulis yang dibuat oleh seseorang untuk orang lain (seperti teman atau keluarga) dan membahas urusan pribadi atau kekeluargaan.",
+        "hint": "Surat ini biasanya ditujukan untuk teman, sahabat, atau anggota keluarga.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999663-1",
+        "type": "true_false",
+        "question": "Surat pribadi wajib memiliki nomor surat, lampiran, dan kop surat (kepala surat) dinas.",
+        "options": [],
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Salah. Kop surat, nomor surat, dan perihal hanya terdapat pada surat dinas atau resmi. Surat pribadi tidak memerlukan bagian tersebut karena sifatnya non-formal.",
+        "hint": "Pikirkan apakah surat untuk sahabat memerlukan nomor surat seperti surat dari kantor.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-2",
+        "type": "multiple_choice",
+        "question": "Manakah contoh salam pembuka yang paling tepat untuk surat pribadi yang ditujukan kepada sahabat akrab?",
+        "options": [
+          "Dengan hormat,",
+          "Salam manis dan rindu,",
+          "Bersama surat dinas ini kami sampaikan,",
+          "Sehubungan dengan surat keputusan kepala sekolah,"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Salam manis dan rindu,"
+        ],
+        "correctAnswer": "Salam manis dan rindu,",
+        "explanation": "Salam manis dan rindu atau Halo sahabatku yang baik merupakan contoh salam pembuka yang akrab, hangat, dan santai khas surat pribadi.",
+        "hint": "Pilih kalimat sapaan yang terasa akrab, santai, dan penuh kehangatan persahabatan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-3",
+        "type": "fill_blank",
+        "question": "Bagian pembuka surat yang menunjukkan kota serta waktu penulisan dinamakan tempat dan _____ surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "tanggal",
+          "tgl",
+          "tanggal surat"
+        ],
+        "correctAnswer": "tanggal",
+        "explanation": "Bagian tempat dan tanggal surat memberitahukan kepada penerima di mana dan kapan pengirim menulis surat tersebut, misalnya 'Bandung, 10 Mei 2024'.",
+        "hint": "Menunjukkan hari, bulan, dan tahun saat surat dibuat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-4",
+        "type": "matching",
+        "question": "Jodohkan bagian-bagian surat pribadi berikut dengan contoh kalimat atau format yang sesuai!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pasangan bagian surat yang sesuai"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-4-0",
+            "left": "Tempat dan tanggal surat",
+            "right": "Surabaya, 14 Agustus 2024"
+          },
+          {
+            "id": "mp-4-1",
+            "left": "Salam pembuka",
+            "right": "Hai Dina, apa kabar?"
+          },
+          {
+            "id": "mp-4-2",
+            "left": "Isi surat",
+            "right": "Aku ingin bercerita tentang pengalaman seruku saat liburan di pantai."
+          },
+          {
+            "id": "mp-4-3",
+            "left": "Salam penutup",
+            "right": "Sahabat karibmu,"
+          }
+        ],
+        "correctAnswer": "Pasangan bagian surat yang sesuai",
+        "explanation": "Setiap bagian memiliki peran masing-masing: Tempat dan tanggal menerangkan waktu penulisan, salam pembuka menyapa penerima, isi memuat inti kabar, dan penutup mengakhiri surat dengan hangat.",
+        "hint": "Perhatikan fungsi dari setiap bagian teks surat mulai dari waktu pembuatan hingga salam penutup.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-5",
+        "type": "true_false",
+        "question": "Salah satu tujuan dibuatnya surat pribadi adalah untuk menjalin tali silaturahmi, bertukar kabar, atau menceritakan pengalaman pribadi kepada orang terdekat.",
+        "options": [],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Benar. Tujuan utama surat pribadi adalah untuk komunikasi personal, seperti menanyakan kabar keluarga, menceritakan liburan kepada teman, atau mengucapkan selamat ulang tahun.",
+        "hint": "Apakah kamu pernah menulis surat atau kartu ucapan untuk teman dekatmu?",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-6",
+        "type": "multiple_choice",
+        "question": "Bagaimanakah ciri bahasa yang umum digunakan dalam penulisan surat pribadi?",
+        "options": [
+          "Sangat kaku, resmi, dan memakai istilah hukum yang rumit",
+          "Santun, luwes, komunikatif, dan lebih santai",
+          "Harus menggunakan bahasa daerah kuno tanpa tanda baca",
+          "Menggunakan singkatan acak yang membingungkan dan tidak sopan"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Santun, luwes, komunikatif, dan lebih santai"
+        ],
+        "correctAnswer": "Santun, luwes, komunikatif, dan lebih santai",
+        "explanation": "Bahasa dalam surat pribadi bersifat luwes, santun, komunikatif, dan akrab karena ditujukan untuk orang dekat, berbeda dengan surat dinas yang kaku dan formal.",
+        "hint": "Bahasa untuk teman biasanya akrab dan ramah, tetapi tetap sopan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-7",
+        "type": "fill_blank",
+        "question": "Bagian utama dalam surat pribadi yang memuat maksud, berita, kabar, atau pesan yang ingin disampaikan oleh pengirim disebut bagian _____ surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "isi",
+          "isi surat",
+          "bagian isi"
+        ],
+        "correctAnswer": "isi",
+        "explanation": "Bagian isi surat memuat inti cerita, maksud, atau pokok pembicaraan utama yang ingin disampaikan oleh pengirim kepada si penerima surat.",
+        "hint": "Ini adalah bagian pokok yang terletak di antara pembuka dan penutup.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-8",
+        "type": "matching",
+        "question": "Jodohkan unsur penulisan surat pribadi berikut dengan peran atau fungsinya yang tepat!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pasangan unsur surat yang cocok"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-8-0",
+            "left": "Pengirim",
+            "right": "Orang yang menulis dan menyampaikan pesan"
+          },
+          {
+            "id": "mp-8-1",
+            "left": "Penerima",
+            "right": "Orang atau kerabat yang dituju dalam surat"
+          },
+          {
+            "id": "mp-8-2",
+            "left": "Tanda tangan dan nama terang",
+            "right": "Tanda pengenal identitas penulis di bagian akhir"
+          }
+        ],
+        "correctAnswer": "Pasangan unsur surat yang cocok",
+        "explanation": "Pengirim adalah pihak yang menulis surat, penerima adalah orang yang dituju, dan tanda tangan beserta nama terang membuktikan identitas penulis di akhir surat.",
+        "hint": "Pahami siapa yang membuat surat, siapa pembacanya, dan tanda pengenalnya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-9",
+        "type": "true_false",
+        "question": "Surat pribadi harus dibubuhi stempel instansi dan cap garuda agar dianggap sah dan dapat dikirimkan.",
+        "options": [],
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Salah. Stempel instansi atau cap dinas hanya dipakai pada surat resmi lembaga. Surat pribadi ditulis oleh perseorangan dan sama sekali tidak memerlukan stempel.",
+        "hint": "Stempel kantor hanya digunakan oleh organisasi atau instansi resmi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-10",
+        "type": "multiple_choice",
+        "question": "Bagian pada surat pribadi yang terletak di pojok kanan atas dan menunjukkan kapan surat tersebut ditulis adalah...",
+        "options": [
+          "Salam pembuka",
+          "Alamat tujuan",
+          "Tanggal surat",
+          "Nama pengirim"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tanggal surat"
+        ],
+        "correctAnswer": "Tanggal surat",
+        "explanation": "Tanggal surat pada surat pribadi selalu ditulis di bagian kanan atas atau kiri atas tanpa menyertakan nama kota karena biasanya sudah tersirat atau tidak resmi.",
+        "hint": "Unsur ini menunjukkan waktu penulisan surat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-11",
+        "type": "true_false",
+        "question": "Surat pribadi wajib menggunakan kop surat atau kepala surat di bagian paling atas.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Kop surat atau kepala surat hanya digunakan pada surat resmi yang dikeluarkan oleh instansi, organisasi, atau perusahaan. Surat pribadi tidak menggunakan kop surat.",
+        "hint": "Pikirkan apakah surat untuk temanmu memiliki logo sekolah atau instansi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-12",
+        "type": "fill_blank",
+        "question": "Bahasa yang digunakan dalam menulis surat pribadi kepada teman akrab bersifat santai, akrab, dan menggunakan ragam bahasa _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "informal",
+          "nonformal",
+          "bahasa pergaulan",
+          "sehari-hari"
+        ],
+        "correctAnswer": "sehari-hari",
+        "explanation": "Dalam surat pribadi, karena ditujukan kepada orang yang sudah dikenal dekat seperti teman atau keluarga, bahasa yang digunakan adalah bahasa percakapan sehari-hari yang tidak kaku.",
+        "hint": "Bahasa yang biasa kita pakai untuk berbicara dengan orang rumah atau teman.",
+        "anagramWord": "seharihari",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-13",
+        "type": "matching",
+        "question": "Jodohkan bagian struktur surat pribadi dengan fungsinya yang tepat!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan struktur dan fungsinya"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Salam pembuka",
+            "right": "Contohnya: Salam rindu atau Halo sahabatku"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Isi surat",
+            "right": "Bagian utama yang menyampaikan maksud atau kabar"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Salam penutup",
+            "right": "Contohnya: Sahabatmu atau Salam manis dari jauh"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan struktur dan fungsinya",
+        "explanation": "Setiap bagian dalam surat pribadi memiliki fungsi masing-masing, mulai dari salam pembuka hingga penutup.",
+        "hint": "Perhatikan letak dan isi dari setiap bagian surat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-14",
+        "type": "multiple_choice",
+        "question": "Berikut ini yang merupakan salah satu tujuan utama dari penulisan surat pribadi adalah...",
+        "options": [
+          "Mengundang warga untuk kerja bakti desa",
+          "Menyampaikan kabar atau menanyakan keadaan seseorang",
+          "Memesan barang dalam jumlah besar untuk toko",
+          "Melaporkan hasil kegiatan rapat kantor"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menyampaikan kabar atau menanyakan keadaan seseorang"
+        ],
+        "correctAnswer": "Menyampaikan kabar atau menanyakan keadaan seseorang",
+        "explanation": "Surat pribadi umumnya bertujuan untuk menjalin silaturahmi, menyampaikan kabar pribadi, atau menanyakan kabar teman dan sanak saudara.",
+        "hint": "Tujuan surat pribadi bersifat kekeluargaan dan persahabatan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-15",
+        "type": "true_false",
+        "question": "Meskipun surat pribadi bersifat santai, kita tetap harus memperhatikan kesopanan dan norma kesusilaan dalam menulisnya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Walaupun santai dan tidak terikat aturan baku seperti surat resmi, menulis surat pribadi tetap harus sopan terutama jika dikirim kepada orang yang lebih tua.",
+        "hint": "Kesopanan tetap penting kepada siapapun kita menulis.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-16",
+        "type": "fill_blank",
+        "question": "Bagian akhir dari sebuah surat pribadi biasanya ditutup dengan tanda tangan dan nama _____ pengirim.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "lengkap",
+          "asli",
+          "terang"
+        ],
+        "correctAnswer": "terang",
+        "explanation": "Nama terang diletakkan di bagian paling bawah surat setelah tanda tangan agar penerima tahu secara jelas siapa pengirim surat tersebut.",
+        "hint": "Lawan dari nama samaran atau nama panggilan.",
+        "anagramWord": "terang",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-17",
+        "type": "multiple_choice",
+        "question": "Mana yang paling tepat menunjukkan ciri-ciri bahasa surat pribadi?",
+        "options": [
+          "Menggunakan sapaan akrab seperti panggilan sayang atau nama panggilan",
+          "Menggunakan bahasa baku sesuai EYD secara kaku",
+          "Menggunakan nomor surat dan lampiran resmi",
+          "Menggunakan cap stempel basah instansi"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menggunakan sapaan akrab seperti panggilan sayang atau nama panggilan"
+        ],
+        "correctAnswer": "Menggunakan sapaan akrab seperti panggilan sayang atau nama panggilan",
+        "explanation": "Ciri khas surat pribadi adalah adanya kata sapaan yang akrab sesuai kebiasaan pengirim dengan penerimanya.",
+        "hint": "Cari pilihan yang menunjukkan keakraban.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-18",
+        "type": "true_false",
+        "question": "Penerima surat pribadi bebas siapa saja, bisa kepada orang tua, guru, teman, maupun instansi pemerintah.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Surat pribadi hanya dikirim kepada perorangan (pribadi) seperti teman, keluarga, atau sanak saudara. Surat untuk instansi pemerintah termasuk surat resmi.",
+        "hint": "Ingat kembali perbedaan sasaran antara surat pribadi dan surat resmi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790492999664-19",
+        "type": "fill_blank",
+        "question": "Sebelum masuk ke isi surat, biasanya pengirim menuliskan bagian _____ pembuka untuk menyapa penerima surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kata",
+          "salam"
+        ],
+        "correctAnswer": "salam",
+        "explanation": "Salam pembuka adalah bagian awal setelah tanggal surat yang berisi sapaan ramah seperti 'Halo' atau 'Salam rindu'.",
+        "hint": "Kata yang diawali huruf S untuk menyapa.",
+        "anagramWord": "salam",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      }
+    ]
+  },
+  {
+    "id": "custom-quiz-1790634495615",
+    "title": "Bahasa Indonesia Kelas 5: Teks Prosedur, Surat Pribadi, dan Imbuhan",
+    "description": "Latihan pemahaman teks prosedur, bagian surat pribadi, imbuhan me-, -lah, -kan, serta kosakata baru untuk kelas 5 SD.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1790634474085-0",
+        "type": "multiple_choice",
+        "question": "Teks yang berisi petunjuk serta langkah-langkah dalam membuat atau melakukan sesuatu secara berurutan disebut teks ....",
+        "options": [
+          "deskripsi",
+          "prosedur",
+          "narasi",
+          "fantasi"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "prosedur"
+        ],
+        "correctAnswer": "prosedur",
+        "explanation": "Teks prosedur adalah teks yang memuat panduan, petunjuk, atau langkah-langkah kerja untuk membuat atau mencapai suatu tujuan secara berurutan dan sistematis.",
+        "hint": "Teks ini sering dijumpai pada resep masakan atau cara merakit mainan.",
+        "anagramWord": "PROSEDUR",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-1",
+        "type": "true_false",
+        "question": "Bagian 'Sahabatku, Rina yang baik,' pada surat pribadi merupakan contoh dari salam penutup.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena ungkapan sapaan kepada penerima surat di bagian awal termasuk ke dalam salam pembuka, bukan salam penutup.",
+        "hint": "Perhatikan posisi sapaan tersebut, berada di awal sebelum isi surat.",
+        "anagramWord": "SALAM",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-2",
+        "type": "fill_blank",
+        "question": "Kata dasar 'tulis' jika diberi awalan me- akan luluh dan membentuk kata berimbuhan _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menulis",
+          "Menulis"
+        ],
+        "correctAnswer": "menulis",
+        "explanation": "Awalan me- bertemu kata berawalan huruf 't' (tulis) akan meluluhkan huruf t menjadi bunyi sengau 'n', sehingga terbentuk kata 'menulis'.",
+        "hint": "Huruf pertama 't' luluh menjadi bunyi sengau 'n'.",
+        "anagramWord": "MENULIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-3",
+        "type": "matching",
+        "question": "Jodohkan bagian-bagian surat pribadi berikut dengan contoh kalimat atau penulisannya yang tepat!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pasangan bagian surat pribadi yang tepat"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Tempat dan tanggal surat",
+            "right": "Bandung, 10 Oktober 2024"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Salam pembuka",
+            "right": "Halo sahabatku apa kabar?"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Salam penutup",
+            "right": "Sahabat eratmu,"
+          },
+          {
+            "id": "mp-3-3",
+            "left": "Isi surat",
+            "right": "Aku ingin bercerita tentang liburanku di desa nenek."
+          }
+        ],
+        "correctAnswer": "Pasangan bagian surat pribadi yang tepat",
+        "explanation": "Tempat dan tanggal diletakkan di bagian atas, salam pembuka menyapa rekan, isi memuat kabar utama, dan salam penutup mengakhiri surat sebelum tanda tangan.",
+        "hint": "Cocokkan nama bagian surat dengan perannya dalam teks surat.",
+        "anagramWord": "SURAT",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-4",
+        "type": "multiple_choice",
+        "question": "Manakah di antara kalimat berikut yang menggunakan akhiran -kan sebagai instruksi kalimat perintah?",
+        "options": [
+          "Ibu membelikan adik buku cerita baru.",
+          "Kakak sedang mendengarkan lagu di kamar.",
+          "Tuangkan air hangat ke dalam cangkir perlahan-lahan.",
+          "Ayah membersihkan halaman depan rumah."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tuangkan air hangat ke dalam cangkir perlahan-lahan."
+        ],
+        "correctAnswer": "Tuangkan air hangat ke dalam cangkir perlahan-lahan.",
+        "explanation": "Kalimat 'Tuangkan air hangat ke dalam cangkir perlahan-lahan' menggunakan kata dasar 'tuang' ditambah akhiran '-kan' yang berfungsi menyatakan instruksi atau perintah pengerjaan.",
+        "hint": "Cari kalimat yang berisi instruksi untuk bertindak.",
+        "anagramWord": "TUANGKAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-5",
+        "type": "true_false",
+        "question": "Langkah-langkah dalam teks prosedur harus disajikan secara urut dan sistematis agar hasilnya sesuai dengan yang diharapkan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar karena urutan langkah yang sistematis dan tidak terbalik-balik merupakan ciri khas utama teks prosedur agar pembaca dapat mempraktikkannya dengan berhasil.",
+        "hint": "Apakah resep kue berhasil jika langkah memasak diacak?",
+        "anagramWord": "URUTAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-6",
+        "type": "fill_blank",
+        "question": "Agar menjadi kalimat perintah yang halus dan santun dalam teks prosedur, kata dasar 'tutup' diberi akhiran -lah sehingga menjadi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "tutuplah",
+          "Tutuplah"
+        ],
+        "correctAnswer": "tutuplah",
+        "explanation": "Kata dasar 'tutup' yang mendapat akhiran '-lah' menjadi 'tutuplah', yang berfungsi memperhalus instruksi atau perintah pada kalimat teks petunjuk.",
+        "hint": "Gabungkan kata dasar tutup langsung dengan akhiran -lah tanpa spasi.",
+        "anagramWord": "TUTUPLAH",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474085-7",
+        "type": "matching",
+        "question": "Jodohkan kosakata baru berikut ini dengan makna atau pengertiannya yang tepat!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pasangan kosakata dan maknanya yang tepat"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Sistematis",
+            "right": "Teratur menurut urutan atau aturan tertentu"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Bahan",
+            "right": "Zat atau benda yang digunakan untuk diolah"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Petunjuk",
+            "right": "Arahan atau panduan dalam melakukan sesuatu"
+          }
+        ],
+        "correctAnswer": "Pasangan kosakata dan maknanya yang tepat",
+        "explanation": "Sistematis berarti teratur menurut aturan, bahan berarti barang yang dipakai untuk diolah, dan petunjuk adalah arahan cara melakukan kegiatan.",
+        "hint": "Hubungkan kata teknis dengan definisi yang paling pas.",
+        "anagramWord": "KOSAKATA",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-8",
+        "type": "multiple_choice",
+        "question": "Ciri khas ragam bahasa yang digunakan ketika menulis surat pribadi kepada teman sebaya adalah ....",
+        "options": [
+          "akrab, santai, dan tetap sopan",
+          "sangat kaku dan menggunakan bahasa kedinasan",
+          "menggunakan istilah ilmiah kedokteran",
+          "berupa kode rahasia bernomor"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "akrab, santai, dan tetap sopan"
+        ],
+        "correctAnswer": "akrab, santai, dan tetap sopan",
+        "explanation": "Surat pribadi ditujukan untuk keperluan kekerabatan atau persahabatan, sehingga bahasanya lebih santai, hangat, akrab, namun tetap menjaga kesopanan.",
+        "hint": "Gaya bicara saat mengobrol akrab bersama kawan baik.",
+        "anagramWord": "AKRAB",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-9",
+        "type": "fill_blank",
+        "question": "Pada teks prosedur pembuatan jus jeruk, blender dan pisau termasuk bagian _____ sedangkan jeruk dan gula termasuk bagian bahan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "alat",
+          "peralatan",
+          "Alat",
+          "Peralatan"
+        ],
+        "correctAnswer": "alat",
+        "explanation": "Dalam teks prosedur, benda atau peranti yang digunakan untuk membantu proses pembuatan dan tidak habis terpakai disebut alat.",
+        "hint": "Benda pemotong atau wadah pemroses pembuatan sesuatu.",
+        "anagramWord": "ALAT",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-10",
+        "type": "multiple_choice",
+        "question": "Bagian pada teks prosedur yang berisi daftar hal-hal atau benda yang harus disiapkan sebelum memulai langkah pembuatan disebut...",
+        "options": [
+          "Tujuan",
+          "Alat dan bahan",
+          "Langkah-langkah",
+          "Penutup"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Alat dan bahan"
+        ],
+        "correctAnswer": "Alat dan bahan",
+        "explanation": "Alat dan bahan adalah bagian penting dalam teks prosedur yang merinci segala sesuatu yang diperlukan agar tujuan pembuatan dapat tercapai.",
+        "hint": "Cari bagian yang merinci benda atau material yang dibutuhkan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-11",
+        "type": "true_false",
+        "question": "Salam pembuka dalam surat pribadi biasanya bersifat resmi dan menggunakan bahasa baku seperti 'Dengan hormat'.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena surat pribadi menggunakan bahasa yang santai, akrab, dan kekeluargaan. Contoh salam pembuka surat pribadi adalah 'Salam rindu', 'Halo, temanku', atau 'Salam kangen'.",
+        "hint": "Ingat kembali sifat dari surat pribadi yang dikirim untuk orang terdekat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-12",
+        "type": "fill_blank",
+        "question": "Kata dasar 'sapu' jika diberi imbuhan awalan me- dan mengalami peluluran huruf pertama akan menjadi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menyapu"
+        ],
+        "correctAnswer": "menyapu",
+        "explanation": "Awalan me- jika bertemu dengan kata dasar yang diawali huruf S, P, T, K akan mengalami peluluran. Huruf S pada 'sapu' luluh dan digantikan oleh bunyi ny-, sehingga menjadi menyapu.",
+        "hint": "Awalan me- bertemu huruf S berubah menjadi meny-.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-13",
+        "type": "matching",
+        "question": "Jodohkan istilah atau bagian surat pribadi di sebelah kiri dengan penjelasannya yang tepat di sebelah kanan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tanggal surat menunjukkan waktu penulisan, Salam penutup menandai akhir surat dengan akrab, Alamat tujuan menunjukkan kepada siapa surat dikirim."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Tanggal surat",
+            "right": "Menunjukkan waktu dan tempat saat surat ditulis"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Salam penutup",
+            "right": "Menandai akhir surat dengan kalimat akrab"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Alamat tujuan",
+            "right": "Menunjukkan nama penerima surat"
+          }
+        ],
+        "correctAnswer": "Tanggal surat menunjukkan waktu penulisan, Salam penutup menandai akhir surat dengan akrab, Alamat tujuan menunjukkan kepada siapa surat dikirim.",
+        "explanation": "Setiap bagian surat pribadi memiliki fungsi masing-masing untuk memperjelas pesan, waktu pembuatan, dan kepada siapa surat tersebut ditujukan.",
+        "hint": "Perhatikan fungsi dari setiap elemen dalam struktur surat pribadi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-14",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Ibu me_____ pakaian yang baru dicuci di jemuran.' Kata yang tepat untuk melengkapi kalimat dengan akhiran -kan adalah...",
+        "options": [
+          "jemurkah",
+          "jemurlah",
+          "jemurkan",
+          "jemurkanlah"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "jemurkan"
+        ],
+        "correctAnswer": "jemurkan",
+        "explanation": "Akhiran -kan pada kalimat tersebut membentuk kata kerja perintah atau tindakan untuk orang lain, yaitu menjemurkan pakaian.",
+        "hint": "Gunakan kata dasar jemur ditambah akhiran yang sesuai konteks.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-15",
+        "type": "true_false",
+        "question": "Langkah-langkah dalam teks prosedur harus disajikan secara berurutan atau sistematis agar pembaca tidak bingung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut benar. Urutan yang sistematis sangat krusial dalam teks prosedur agar proses pembuatan atau petunjuk dapat dilakukan dengan sukses oleh pembaca.",
+        "hint": "Pikirkan apakah membuat kue bisa melompat dari adonan ke penyajian tanpa dipanggang.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-16",
+        "type": "fill_blank",
+        "question": "Kata 'prosedur' di dalam Kamus Besar Bahasa Indonesia (KBBI) memiliki arti tahap kegiatan untuk menyelesaikan suatu _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "aktivitas",
+          "kegiatan",
+          "pekerjaan"
+        ],
+        "correctAnswer": "aktivitas",
+        "explanation": "Prosedur adalah serangkaian tahapan atau langkah-langkah tetap yang diikuti untuk merampungkan suatu aktivitas atau pekerjaan.",
+        "hint": "Sinonim dari kegiatan atau pekerjaan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-17",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan ciri bahasa yang sering digunakan dalam teks prosedur?",
+        "options": [
+          "Menggunakan kalimat perintah (imperatif)",
+          "Menggunakan bahasa yang puitis dan bertele-tele",
+          "Berisi kisah fiksi dan khayalan pengarang",
+          "Hanya berisi dialog antartokoh"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menggunakan kalimat perintah (imperatif)"
+        ],
+        "correctAnswer": "Menggunakan kalimat perintah (imperatif)",
+        "explanation": "Teks prosedur biasanya menggunakan kalimat perintah seperti 'potonglah', 'campurkan', atau 'aduklah' untuk mengarahkan pembaca.",
+        "hint": "Teks prosedur bersifat memberi instruksi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-18",
+        "type": "matching",
+        "question": "Jodohkan jenis imbuhan di sebelah kiri dengan contoh kata berimbuhan yang tepat di sebelah kanan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Awalan me- menjadi menulis, Akhiran -lah menjadi bacalah, Akhiran -kan menjadi ambilkan."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-18-0",
+            "left": "Awalan me-",
+            "right": "menulis"
+          },
+          {
+            "id": "mp-18-1",
+            "left": "Akhiran -lah",
+            "right": "bacalah"
+          },
+          {
+            "id": "mp-18-2",
+            "left": "Akhiran -kan",
+            "right": "ambilkan"
+          }
+        ],
+        "correctAnswer": "Awalan me- menjadi menulis, Akhiran -lah menjadi bacalah, Akhiran -kan menjadi ambilkan.",
+        "explanation": "Awalan me- mengubah kata dasar menjadi kata kerja aktif, akhiran -lah berfungsi untuk memperhalus penekanan perintah, dan akhiran -kan menyatakan perbuatan untuk orang lain.",
+        "hint": "Cocokkan bentuk awalan dan akhiran pada kata dasarnya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790634474086-19",
+        "type": "fill_blank",
+        "question": "Bagian surat pribadi yang berisi inti pesan, kabar, atau perasaan pengirim kepada penerima disebut bagian _____ surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "isi",
+          "Isi"
+        ],
+        "correctAnswer": "isi",
+        "explanation": "Bagian isi surat pribadi merupakan bagian utama di mana pengirim mencurahkan segala informasi, kabar, atau maksud penulisan surat tersebut.",
+        "hint": "Bagian yang berada di tengah-tengah antara salam pembuka dan salam penutup.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "29/9/2026"
+  },
+  {
+    "id": "custom-quiz-1791503241979",
+    "title": "Latihan BAB 3 BI Kelas 6",
+    "description": "Paket soal Bahasa Indonesia jenjang Kelas 6 SD",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 6 SD",
+    "difficulty": "Tantangan",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "manual-q-1791502599689",
+        "type": "multiple_choice",
+        "question": "Dia berlari secepat kilat, meninggalkan semua orang di belakangnya.\nKalimat di atas merupakan kalimat dengan majas ….",
+        "options": [
+          "Hiperbola",
+          "Asosiasi",
+          "Metafora",
+          "Personifikasi"
+        ],
+        "correctIndex": 0,
+        "correctAnswer": "Hiperbola",
+        "explanation": "Dia berlari secepat kilat, merupakan pernyataan berlebih-lebihan yang merupakan ciri majas hiperbola",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "manual-q-1791502704145",
+        "type": "multiple_choice",
+        "question": "Di bawah ini yang merupakan salah satu contoh kalimat dengan majas metafora adalah ….",
+        "options": [
+          "Kakak beradik ini seperti pinang dibelah dua",
+          "Air matanya mengalir berderai-derai tiada henti",
+          "Dia dikenal sebagai kutu buku di sekolah",
+          "Daun-daun menari riang diiringi hembusan angin "
+        ],
+        "correctIndex": 2,
+        "correctAnswer": "Dia dikenal sebagai kutu buku di sekolah",
+        "explanation": "Pembahasan materi pembelajaran.",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "manual-q-1791502784124",
+        "type": "multiple_choice",
+        "question": "Laporan hasil pengamatan adalah teks berisi informasi tentang sesuatu berdasarkan hasil pengamatan secara langsung. Ciri-ciri laporan hasil pengamatan adalah objektif, faktual, dan sistematik. Maksud dari sistematik adalah ....",
+        "options": [
+          "teks laporan disusun dengan urutan",
+          "laporan disusun berdasarkan objek yang diamati secara langsung yang baik",
+          "laporan ditulis sesuai dengan fakta yang sudah terbukti kebenarannya",
+          "teks laporan disusun secara keseluruhan dan lengkap"
+        ],
+        "correctIndex": 0,
+        "correctAnswer": "teks laporan disusun dengan urutan",
+        "explanation": "Pembahasan materi pembelajaran.",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "manual-q-1791502880755",
+        "type": "multiple_choice",
+        "question": "Berikut ini salah satu contoh kalimat tidak langsung yang tepat adalah ….",
+        "options": [
+          "A.\tLinda berkata, “Burung-burung di hutan ini cantik sekali.”",
+          "C.\tReno bertanya kepadaku sudah lapar belum.",
+          "B.\tAdit mengatakan bahwa pemandangan pantai itu sangat indah.",
+          "D.\t\"Apakah kamu suka sepak bola?\" tanya Dio kepadaku."
+        ],
+        "correctIndex": 2,
+        "correctAnswer": "B.\tAdit mengatakan bahwa pemandangan pantai itu sangat indah.",
+        "explanation": "Pembahasan materi pembelajaran.",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "manual-q-1791502977144",
+        "type": "multiple_choice",
+        "question": "Berikut ini salah satu contoh kalimat langsung yang tepat adalah ….",
+        "options": [
+          "Rudi berkata \"kita harus rajin membaca buku agar pintar\"",
+          "C.\tMade berkata bahwa kemarin dia lupa membawa uang jajan.\t",
+          "B.\t\"IPA adalah pelajaran yang menyenangkan\", ucap Windu",
+          "D.\tBapak bertanya apakah aku sudah membuat PR."
+        ],
+        "correctIndex": 2,
+        "correctAnswer": "B.\t\"IPA adalah pelajaran yang menyenangkan\", ucap Windu",
+        "explanation": "Pembahasan materi pembelajaran.",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "manual-q-1791503094159",
+        "type": "multiple_choice",
+        "question": "Berikut ini salah satu ciri dari kalimat langsung yaitu ….",
+        "options": [
+          "menggunakan kata hubung bahwa, agar, dan untuk",
+          "menggunakan tanda petik dua",
+          "tidak menggunakan tanda petik dua",
+          "menggunakan tanda seru pada akhir kalimat"
+        ],
+        "correctIndex": 1,
+        "correctAnswer": "menggunakan tanda petik dua",
+        "explanation": "Pembahasan materi pembelajaran.",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "manual-q-1791503237422",
+        "type": "multiple_choice",
+        "question": "Kalimat berikut ini menggunakan majas hiperbola, kecuali ….",
+        "options": [
+          "Suaranya menggelegar memekakkan telinga",
+          "Hampir saja jantungnya copot akibat perbuatanku",
+          "Hatinya panas terbakar api cemburu",
+          "Dedaunan menunduk hormat atas kehadiran sang Raja Rimba"
+        ],
+        "correctIndex": 1,
+        "correctAnswer": "Hampir saja jantungnya copot akibat perbuatanku",
+        "explanation": "Pembahasan materi pembelajaran.",
+        "hint": "Petunjuk soal.",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Tantangan"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "9/10/2026"
+  },
+  {
+    "id": "custom-quiz-1791421130533",
+    "title": "Tantangan Bahasa Indonesia Kelas 5: Teks Prosedur, Surat Pribadi, dan Imbuhan",
+    "description": "Uji pemahaman mendalam tentang struktur teks prosedur, kaidah surat pribadi, serta penggunaan imbuhan me-, -lah, dan -kan.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Tantangan",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1791420927726-0",
+        "type": "multiple_choice",
+        "question": "Kata dasar 'sapu' apabila diberi awalan imbuhan 'me-' akan mengalami peluluhan bunyi menjadi ....",
+        "options": [
+          "mesapu",
+          "mensapu",
+          "menyapu",
+          "memengsapu"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menyapu"
+        ],
+        "correctAnswer": "menyapu",
+        "explanation": "Huruf 's' pada kata dasar 'sapu' akan luluh menjadi bunyi sengau 'ny' ketika digabungkan dengan awalan 'me-', sehingga membentuk kata 'menyapu'.",
+        "hint": "Huruf K, T, S, P di awal kata dasar luluh saat bertemu awalan me-.",
+        "anagramWord": "MENYAPU",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-1",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Campurkan adonan hingga merata!' Ciri teks prosedur yang paling menonjol pada kalimat tersebut adalah penggunaan kata kerja ....",
+        "options": [
+          "imperatif",
+          "deklaratif",
+          "interogatif",
+          "pasif"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "imperatif"
+        ],
+        "correctAnswer": "imperatif",
+        "explanation": "Kata 'campurkan' adalah kata kerja imperatif (kata kerja perintah), yang merupakan ciri khas bahasa dalam langkah-langkah teks prosedur.",
+        "hint": "Kata ini berfungsi untuk meminta atau memerintahkan seseorang melakukan tindakan.",
+        "anagramWord": "IMPERATIF",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-2",
+        "type": "true_false",
+        "question": "Surat pribadi wajib mencantumkan kop surat resmi dan nomor surat agar sah.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Kop surat dan nomor surat hanya digunakan dalam surat dinas atau resmi. Surat pribadi bersifat kekeluargaan dan tidak memerlukan nomor maupun kop surat.",
+        "hint": "Ingat perbedaan surat untuk teman/keluarga dengan surat resmi dari lembaga.",
+        "anagramWord": "PRIBADI",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-3",
+        "type": "true_false",
+        "question": "Partikel/akhiran '-lah' berfungsi untuk memperhalus nada kalimat perintah atau memberikan penegasan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Akhiran atau partikel '-lah' berfungsi untuk memperhalus intonasi kalimat perintah (contoh: 'Dengarkanlah') atau menegaskan suatu tindakan.",
+        "hint": "Coba bandingkan kata 'duduk' dengan 'duduklah'.",
+        "anagramWord": "PENEGAS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-4",
+        "type": "fill_blank",
+        "question": "Buku petunjuk pembuatan mainan origami termasuk ke dalam jenis teks _____.",
+        "options": [
+          "prosedur",
+          "teks prosedur"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "prosedur"
+        ],
+        "correctAnswer": "prosedur",
+        "explanation": "Teks yang berisi panduan, langkah-langkah, atau instruksi untuk membuat atau melakukan sesuatu secara runtut disebut teks prosedur.",
+        "hint": "Jenis teks yang memuat langkah-langkah bertahap.",
+        "anagramWord": "PROSEDUR",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-5",
+        "type": "fill_blank",
+        "question": "Salam seperti 'Halo Sahabatku,' atau 'Salam rindu,' pada surat pribadi diletakkan pada bagian _____ surat.",
+        "options": [
+          "pembuka",
+          "salam pembuka"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "pembuka"
+        ],
+        "correctAnswer": "pembuka",
+        "explanation": "Salam pembuka adalah bagian awal surat pribadi yang menyapa penerima surat secara akrab sebelum masuk ke inti surat.",
+        "hint": "Bagian awalan sebelum menuliskan isi pesan.",
+        "anagramWord": "PEMBUKA",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-6",
+        "type": "multiple_choice",
+        "question": "Manakah pembentukan kata dengan akhiran '-kan' yang tepat dan bermakna membuat atau menyebabkan sesuatu terjadi?",
+        "options": [
+          "tidurkan",
+          "bersihkan",
+          "ambilkan",
+          "bawakan"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "bersihkan"
+        ],
+        "correctAnswer": "bersihkan",
+        "explanation": "Kata 'bersihkan' berasal dari kata sifat 'bersih' ditambah akhiran '-kan', yang bermakna 'menyebabkan menjadi bersih'.",
+        "hint": "Berasal dari kata sifat yang diubah menjadi tindakan.",
+        "anagramWord": "BERSIHKAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-7",
+        "type": "matching",
+        "question": "Jodohkan bagian surat pribadi berikut dengan contoh kalimat atau fungsinya yang sesuai!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tempat dan Tanggal Surat berpasangan dengan Bandung, 12 Oktober 2024; Salam Pembuka berpasangan dengan Hai Budi, bagaimana kabarmu?; Isi Surat berpasangan dengan Aku ingin menceritakan pengalamanku saat liburan kemarin; Penutup Surat berpasangan dengan Sekian dulu ceritaku, sampai jumpa lagi ya!"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Tempat dan Tanggal Surat",
+            "right": "Bandung, 12 Oktober 2024"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Salam Pembuka",
+            "right": "Hai Budi, bagaimana kabarmu?"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Isi Surat",
+            "right": "Aku ingin menceritakan pengalamanku saat liburan kemarin"
+          },
+          {
+            "id": "mp-7-3",
+            "left": "Penutup Surat",
+            "right": "Sekian dulu ceritaku, sampai jumpa lagi ya!"
+          }
+        ],
+        "correctAnswer": "Tempat dan Tanggal Surat berpasangan dengan Bandung, 12 Oktober 2024; Salam Pembuka berpasangan dengan Hai Budi, bagaimana kabarmu?; Isi Surat berpasangan dengan Aku ingin menceritakan pengalamanku saat liburan kemarin; Penutup Surat berpasangan dengan Sekian dulu ceritaku, sampai jumpa lagi ya!",
+        "explanation": "Struktur surat pribadi terdiri dari tempat dan tanggal penulisan, salam pembuka yang ramah, isi yang memuat inti percakapan, serta penutup yang diakhiri harapan atau salam pamit.",
+        "hint": "Perhatikan letak dan maksud pesan pada masing-masing bagian surat.",
+        "anagramWord": "STRUKTUR",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-8",
+        "type": "matching",
+        "question": "Jodohkan kata dasar dan imbuhan berikut dengan hasil pembentukan kata yang benar!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "me- + potong berpasangan dengan memotong; me- + tulis berpasangan dengan menulis; goreng + -lah berpasangan dengan gorenglah; siap + -kan berpasangan dengan siapkan"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-8-0",
+            "left": "me- + potong",
+            "right": "memotong"
+          },
+          {
+            "id": "mp-8-1",
+            "left": "me- + tulis",
+            "right": "menulis"
+          },
+          {
+            "id": "mp-8-2",
+            "left": "goreng + -lah",
+            "right": "gorenglah"
+          },
+          {
+            "id": "mp-8-3",
+            "left": "siap + -kan",
+            "right": "siapkan"
+          }
+        ],
+        "correctAnswer": "me- + potong berpasangan dengan memotong; me- + tulis berpasangan dengan menulis; goreng + -lah berpasangan dengan gorenglah; siap + -kan berpasangan dengan siapkan",
+        "explanation": "Awalan me- bertemu huruf p luluh menjadi mem-, bertemu t luluh menjadi men-. Akhiran -lah dan -kan langsung digabungkan pada kata dasarnya.",
+        "hint": "Cermati hukum peluluhan fonem dan penambahan akhiran secara langsung.",
+        "anagramWord": "IMBUHAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-9",
+        "type": "true_false",
+        "question": "Urutan langkah-langkah dalam teks prosedur boleh disusun secara acak tanpa mempengaruhi hasil akhirnya.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Langkah-langkah dalam teks prosedur harus berurutan (sistematis dan kronologis). Jika urutannya diacak, hasil akhir atau prosesnya bisa gagal atau keliru.",
+        "hint": "Pikirkan apa yang terjadi jika langkah memasak mie instan dibolak-balik.",
+        "anagramWord": "RUNTUT",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-10",
+        "type": "multiple_choice",
+        "question": "Bagian penutup surat pribadi yang lazim dan sopan untuk seorang sahabat pena adalah...",
+        "options": [
+          "Demikian surat ini disampaikan untuk diperhatikan.",
+          "Atas perhatian Bapak/Ibu, kami ucapkan terima kasih.",
+          "Sekian dulu surat dariku, sampai jumpa di liburan berikutnya.",
+          "Hormat saya, Kepala Sekolah Dasar Nusantara."
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sekian dulu surat dariku, sampai jumpa di liburan berikutnya."
+        ],
+        "correctAnswer": "Sekian dulu surat dariku, sampai jumpa di liburan berikutnya.",
+        "explanation": "Surat pribadi kepada sahabat biasanya menggunakan bahasa yang akrab namun tetap sopan pada bagian penutupnya.",
+        "hint": "Pilih kalimat penutup yang menunjukkan keakraban dengan teman.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-11",
+        "type": "true_false",
+        "question": "Imbuhan -kan pada kata 'ambilkan' dalam kalimat prosedur memiliki fungsi untuk menyuruh seseorang melakukan sesuatu untuk orang lain.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Akhiran -kan sering digunakan dalam kalimat perintah (prosedur) yang bermakna 'memasukkan' atau 'melakukan sesuatu untuk orang lain'.",
+        "hint": "Pikirkan makna akhiran -kan saat ditambahkan pada kata dasar ambil.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-12",
+        "type": "fill_blank",
+        "question": "Dalam struktur teks prosedur, bagian yang berisi daftar bahan-bahan dan alat yang diperlukan berada tepat setelah bagian _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "judul",
+          "pengantar",
+          "tujuan pembuatan"
+        ],
+        "correctAnswer": "tujuan",
+        "explanation": "Struktur teks prosedur terdiri dari: 1. Judul dan Tujuan, 2. Alat dan Bahan, 3. Langkah-langkah, 4. Penutup.",
+        "hint": "Bagian pembuka teks prosedur yang menjelaskan apa yang akan dibuat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927726-13",
+        "type": "matching",
+        "question": "Jodohkan istilah atau jenis kata berikut dengan contoh atau fungsinya yang tepat dalam Bahasa Indonesia.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Lihat pada pasangan yang tersedia"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Imbuhan me- + cuci",
+            "right": "mencuci"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Akhiran -lah",
+            "right": "Pemberi penegas pada kalimat perintah"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Bagian surat pribadi",
+            "right": "Tempat dan tanggal penulisan"
+          }
+        ],
+        "correctAnswer": "Lihat pada pasangan yang tersedia",
+        "explanation": "Imbuhan me- berubah menjadi men- jika bertemu huruf awal t, c, s, dan j.",
+        "hint": "Perhatikan huruf awal kata dasar setelah diberi imbuhan me-.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-14",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Ibu memasak sayur di dapur.' Perubahan kata dasar 'masak' mendapat imbuhan me- menjadi 'memasak' karena bertemu dengan huruf awal...",
+        "options": [
+          "s",
+          "p",
+          "m",
+          "t"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "m"
+        ],
+        "correctAnswer": "m",
+        "explanation": "Huruf 'm' adalah konsonan nasal, dan awalan me- tetap menjadi me- (atau berubah melebur jika konsonan tertentu, namun pada kata 'masak' menjadi 'memasak' dengan tetap mempertahankan huruf m).",
+        "hint": "Lihat huruf pertama pada kata dasar 'masak'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-15",
+        "type": "true_false",
+        "question": "Surat pribadi wajib mencantumkan nomor surat dan kop surat di bagian paling atas sebelum menuliskan alamat tujuan.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Nomor surat dan kop surat hanya ada pada surat resmi atau dinas, bukan pada surat pribadi.",
+        "hint": "Ingat perbedaan utama antara surat resmi dan surat untuk teman atau keluarga.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-16",
+        "type": "fill_blank",
+        "question": "Kata dasar 'siram' jika diberi imbuhan me- dan akhiran -kan menjadi kata _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menyiramkan"
+        ],
+        "correctAnswer": "menyiramkan",
+        "explanation": "Gabungan awalan me- dan akhiran -kan pada kata dasar 'siram' (huruf s luluh) menghasilkan kata 'menyiramkan'.",
+        "hint": "Awalan me- pada huruf s akan melebur menjadi 'meny-' dan ditambah akhiran '-kan'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-17",
+        "type": "matching",
+        "question": "Jodohkan kalimat prosedur berikut dengan kata kerja imperatif (perintah) yang digunakan di dalamnya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Cocokkan kata kerja dengan kalimatnya"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-17-0",
+            "left": "_____ gula ke dalam gelas",
+            "right": "Masukkan"
+          },
+          {
+            "id": "mp-17-1",
+            "left": "_____ adonan hingga merata",
+            "right": "Aduk"
+          },
+          {
+            "id": "mp-17-2",
+            "left": "_____ kertas sesuai pola",
+            "right": "Guntinglah"
+          }
+        ],
+        "correctAnswer": "Cocokkan kata kerja dengan kalimatnya",
+        "explanation": "Kalimat prosedur selalu menggunakan kata kerja perintah seperti aduklah, potonglah, dan masukkan.",
+        "hint": "Cari kata kerja yang menyuruh melakukan suatu tindakan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-18",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan ciri khas bahasa dalam surat pribadi?",
+        "options": [
+          "Menggunakan bahasa baku dan resmi seperti instansi.",
+          "Selalu mencantumkan cap stempel sekolah.",
+          "Menggunakan sapaan akrab seperti 'Hai' atau 'Salam rindu'.",
+          "Memakai salam pembuka 'Dengan hormat'."
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menggunakan sapaan akrab seperti 'Hai' atau 'Salam rindu'."
+        ],
+        "correctAnswer": "Menggunakan sapaan akrab seperti 'Hai' atau 'Salam rindu'.",
+        "explanation": "Surat pribadi bersifat santai, bebas, dan menggunakan sapaan akrab karena ditujukan kepada orang yang sudah dikenal dekat.",
+        "hint": "Pilih ciri yang tidak kaku dan tidak menggunakan bahasa baku resmi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-19",
+        "type": "true_false",
+        "question": "Penggunaan akhiran -lah pada kalimat 'Bacalah buku itu dengan teliti!' berfungsi untuk memperhalus atau membuat kalimat perintah menjadi lebih sopan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Penambahan partikel atau akhiran -lah pada kata kerja perintah dapat membuat kalimat perintah terdengar lebih halus dan tidak terlalu keras.",
+        "hint": "Apakah perintah dengan kata 'bacalah' terdengar lebih baik daripada hanya 'baca'?",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-20",
+        "type": "multiple_choice",
+        "question": "Dalam sebuah teks prosedur membuat jus buah, terdapat kalimat: \"Blenderlah potongan buah tersebut hingga halus.\" Apa fungsi penggunaan akhiran -lah pada kata \"blenderlah\" dalam kalimat tersebut?",
+        "options": [
+          "Menunjukkan kepemilikan benda",
+          "Menyatakan waktu kejadian",
+          "Memperhalus atau mempertegas kalimat perintah",
+          "Mengubah kata kerja menjadi kata benda"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Memperhalus atau mempertegas kalimat perintah"
+        ],
+        "correctAnswer": "Memperhalus atau mempertegas kalimat perintah",
+        "explanation": "Akhiran -lah pada teks prosedur berfungsi untuk membuat kalimat perintah atau instruksi menjadi terdengar lebih halus, sopan, atau untuk menegaskan maksud dari instruksi tersebut.",
+        "hint": "Perhatikan bagaimana akhiran -lah mengubah nada sebuah kalimat perintah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-21",
+        "type": "true_false",
+        "question": "Pada penulisan surat pribadi kepada sahabat lama, bagian tempat dan tanggal penulisan surat wajib diletakkan di sebelah kanan atas tanpa perlu menuliskan nama kota lagi.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena pada surat pribadi, nama kota asal pengirim tetap harus dicantumkan sebelum tanggal surat, contohnya: Bandung, 12 Oktober 2023.",
+        "hint": "Ingat kembali format standar penulisan alamat dan tanggal pada surat pribadi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-22",
+        "type": "fill_blank",
+        "question": "Ibu meminta Adi untuk membelikan obat di apotek. Imbuhan -kan pada kata \"membelikan\" dalam kalimat tersebut berfungsi untuk menyatakan makna _____ sesuatu untuk orang lain.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "membuatkan",
+          "menyediakan",
+          "memberikan"
+        ],
+        "correctAnswer": "melakukan",
+        "explanation": "Imbuhan me-kan pada kata \"membelikan\" berarti melakukan suatu tindakan (membeli) demi atau untuk orang lain (Adi membelikan untuk Ibu).",
+        "hint": "Pikirkan apa arti awalan me- dan akhiran -kan jika digabung dalam konteks memberikan sesuatu untuk seseorang.",
+        "anagramWord": "MELAKUKAN",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-23",
+        "type": "matching",
+        "question": "Jodohkan bagian atau kaidah kebahasaan berikut dengan penjelasannya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan bagian surat pribadi dan teks prosedur"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-23-0",
+            "left": "Salam pembuka surat pribadi",
+            "right": "Contohnya: Salam rindu atau Salam manis dari sahabatmu"
+          },
+          {
+            "id": "mp-23-1",
+            "left": "Imbuhan me- pada kata 'menyapu'",
+            "right": "Berfungsi menyatakan melakukan suatu tindakan atau pekerjaan"
+          },
+          {
+            "id": "mp-23-2",
+            "left": "Bagian tujuan teks prosedur",
+            "right": "Berisi hasil akhir yang akan dicapai jika langkah dilakukan"
+          }
+        ],
+        "correctAnswer": "Menjodohkan bagian surat pribadi dan teks prosedur",
+        "explanation": "Setiap bagian dalam surat pribadi dan teks prosedur memiliki fungsi unik, seperti alinea pembuka yang berisi kabar atau sapaan hangat kepada penerima.",
+        "hint": "Hubungkan istilah struktur surat atau tata bahasa dengan fungsinya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791420927727-24",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: \"Tolong ambilkan buku itu di atas meja!\" Manakah analisis imbuhan yang paling tepat untuk kata \"ambilkan\"?",
+        "options": [
+          "Kata dasar 'ambil' mendapat awalan 'me-' dan akhiran '-kan'",
+          "Kata dasar 'ambil' mendapat akhiran '-kan' yang berarti melakukan pekerjaan untuk orang lain",
+          "Kata dasar 'mengambil' mendapat akhiran '-lah'",
+          "Kata dasar 'buku' mendapat imbuhan gabungan"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kata dasar 'ambil' mendapat akhiran '-kan' yang berarti melakukan pekerjaan untuk orang lain"
+        ],
+        "correctAnswer": "Kata dasar 'ambil' mendapat akhiran '-kan' yang berarti melakukan pekerjaan untuk orang lain",
+        "explanation": "Kata \"ambilkan\" berasal dari kata dasar \"ambil\" yang diberi akhiran \"-kan\", berfungsi meminta seseorang untuk mengambilkan sesuatu untuk orang yang menyuruh.",
+        "hint": "Cari tahu bentuk kata dasar dari kata kerja berimbuhan tersebut.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "8/10/2026"
+  },
+  {
+    "id": "custom-quiz-1791239411981",
+    "title": "Kuis Bahasa Indonesia Kelas 5: Surat, Teks Prosedur, dan Imbuhan",
+    "description": "Uji kemampuan literasi bahasa Indonesia kelas 5 mencakup surat pribadi, surat resmi, teks prosedur, serta imbuhan -kan, -lah, dan me-.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Tantangan",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1791239321877-0",
+        "type": "multiple_choice",
+        "question": "Perbedaan antara surat pribadi dan surat resmi ada pada bagian...",
+        "options": [
+          "Kepala surat atau kop surat",
+          "Tanggal pembuatan surat",
+          "Salam pembuka",
+          "Tanda tangan pengirim"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kepala surat atau kop surat"
+        ],
+        "correctAnswer": "Kepala surat atau kop surat",
+        "explanation": "Surat resmi selalu mencantumkan kepala surat (kop surat) di bagian atasnya yang menunjukkan instansi atau lembaga pengirim, sedangkan surat pribadi tidak memilikinya.",
+        "hint": "Perhatikan identitas instansi di bagian paling atas surat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-1",
+        "type": "true_false",
+        "question": "Surat resmi menggunakan bahasa yang santai, akrab, dan bebas seperti ketika berbicara dengan teman dekat.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena surat resmi wajib menggunakan bahasa yang baku, formal, dan sopan, berbeda dengan surat pribadi yang boleh menggunakan bahasa santai.",
+        "hint": "Pikirkan kepada siapa surat resmi biasanya dikirimkan (instansi/lembaga).",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-2",
+        "type": "fill_blank",
+        "question": "Teks yang berisi langkah-langkah atau tahapan yang harus ditempuh untuk melakukan suatu hal secara berurutan disebut teks _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "prosedur"
+        ],
+        "correctAnswer": "prosedur",
+        "explanation": "Teks prosedur adalah jenis teks yang memberikan petunjuk, panduan, atau instruksi agar seseorang dapat melakukan sesuatu dengan benar.",
+        "hint": "Berhubungan dengan cara membuat atau melakukan sesuatu.",
+        "anagramWord": "prosedur",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-3",
+        "type": "matching",
+        "question": "Jodohkan jenis imbuhan berikut dengan fungsinya yang tepat dalam kalimat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan imbuhan dengan fungsinya"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Akhiran -kan",
+            "right": "Membuat sesuatu menjadi atau melakukan untuk orang lain"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Akhiran -lah",
+            "right": "Menegaskan atau memperhalus kalimat perintah"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Awalan me-",
+            "right": "Menyatakan suatu tindakan atau perbuatan aktif"
+          }
+        ],
+        "correctAnswer": "Menjodohkan imbuhan dengan fungsinya",
+        "explanation": "Imbuhan -kan sering berfungsi membentuk kata kerja perintah (imperatif), -lah untuk memperhalus atau menegaskan, dan me- membentuk kata kerja aktif.",
+        "hint": "Perhatikan akhiran dan awalan pada kata dasar.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-4",
+        "type": "multiple_choice",
+        "question": "Dalam penulisan alamat pada surat resmi, singkatan 'Yth.' sebaiknya diikuti dengan...",
+        "options": [
+          "Salam pembuka yang panjang",
+          "Nama jabatan atau nama orang yang dituju tanpa gelar akademik di depan",
+          "Alamat rumah pengirim surat",
+          "Nomor telepon instansi tujuan"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Nama jabatan atau nama orang yang dituju tanpa gelar akademik di depan"
+        ],
+        "correctAnswer": "Nama jabatan atau nama orang yang dituju tanpa gelar akademik di depan",
+        "explanation": "Setelah kata Yth., biasanya diikuti nama jabatan atau nama orang. Jika menggunakan nama jabatan, tidak perlu menggunakan sapaan seperti Bapak/Ibu lagi.",
+        "hint": "Perhatikan aturan penulisan singkatan Yang Terhormat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-5",
+        "type": "true_false",
+        "question": "Kata dasar 'sapu' jika diberi awalan me- dan mengalami peluluhan huruf pertama menjadi menyapu.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Huruf pertama 's' pada kata dasar 'sapu' luluh ketika mendapat awalan me- sehingga berubah menjadi menyapu.",
+        "hint": "Ingat kaidah peluluhan huruf K, T, S, P.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-6",
+        "type": "fill_blank",
+        "question": "Tolong ambil_____ buku itu di atas meja perpustakaan!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kan"
+        ],
+        "correctAnswer": "kan",
+        "explanation": "Akhiran -kan pada kata ambil membentuk kata kerja perintah 'ambilkan' yang berarti melakukan pekerjaan mengambil untuk orang lain.",
+        "hint": "Gunakan imbuhan akhiran untuk melengkapi kalimat perintah tersebut.",
+        "anagramWord": "ambilkan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321877-7",
+        "type": "matching",
+        "question": "Jodohkan bagian surat pribadi dengan ciri-cirinya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan bagian surat pribadi"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Tempat dan tanggal surat",
+            "right": "Ditulis di bagian kanan atas tanpa menyebut nama kota jika dari kota yang sama"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Salam pembuka",
+            "right": "Bersifat akrab, contohnya 'Salam rindu' atau 'Halo sahabatku'"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Penutup surat",
+            "right": "Berisi salam akhir dan nama terang pengirim"
+          }
+        ],
+        "correctAnswer": "Menjodohkan bagian surat pribadi",
+        "explanation": "Surat pribadi memiliki bagian khusus seperti tempat dan tanggal, salam pembuka yang akrab, isi surat, serta salam penutup.",
+        "hint": "Pahami struktur surat pribadi untuk teman atau keluarga.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-8",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: \"Duduk_____ di kursi yang telah disediakan dengan tenang!\" Kata yang tepat untuk melengkapi kalimat perintah tersebut adalah...",
+        "options": [
+          "kan",
+          "lah",
+          "I",
+          "pun"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "lah"
+        ],
+        "correctAnswer": "lah",
+        "explanation": "Penggunaan akhiran -lah berfungsi untuk memperhalus kalimat perintah agar terdengar lebih sopan, sehingga menjadi 'Duduklah'.",
+        "hint": "Akhiran untuk memperhalus perintah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-9",
+        "type": "true_false",
+        "question": "Teks prosedur yang baik tidak memerlukan alat dan bahan, cukup langkah-langkah pembuatannya saja.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena sebagian besar teks prosedur (terutama resep atau cara membuat sesuatu) sangat memerlukan bagian alat dan bahan agar pembaca dapat mempersiapkannya terlebih dahulu.",
+        "hint": "Apakah bisa membuat kue tanpa tahu bahan-bahannya?",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-10",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Ibu memasak air di dapur.' Kata berimbuhan 'me-' pada kalimat tersebut berfungsi sebagai...",
+        "options": [
+          "Kata sifat yang menyatakan keadaan",
+          "Kata kerja yang menyatakan melakukan suatu tindakan",
+          "Kata benda yang menyatakan alat",
+          "Kata keterangan tempat"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kata kerja yang menyatakan melakukan suatu tindakan"
+        ],
+        "correctAnswer": "Kata kerja yang menyatakan melakukan suatu tindakan",
+        "explanation": "Awalan 'me-' pada kata 'memasak' berfungsi membentuk kata kerja yang menunjukkan subjek sedang melakukan suatu tindakan.",
+        "hint": "Perhatikan apa yang sedang dilakukan oleh Ibu.",
+        "anagramWord": "memasak",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-11",
+        "type": "true_false",
+        "question": "Pada surat resmi, penulisan salam pembuka dan salam penutup tidak wajib dicantumkan karena tidak penting.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Salam pembuka dan salam penutup tetap merupakan bagian penting dalam struktur surat resmi, meskipun bahasanya lebih formal dibandingkan surat pribadi.",
+        "hint": "Ingat kembali unsur-unsur penting dalam surat resmi.",
+        "anagramWord": "surat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-12",
+        "type": "fill_blank",
+        "question": "Bacalah kalimat berikut dengan cermat: 'Tolong ambil_____ buku itu di atas meja.' Kata yang tepat untuk melengkapi kalimat perintah dengan akhiran tersebut adalah...",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kan"
+        ],
+        "correctAnswer": "kan",
+        "explanation": "Akhiran '-kan' digunakan untuk membentuk kalimat perintah atau permohonan agar seseorang melakukan sesuatu untuk orang lain.",
+        "hint": "Akhiran yang tepat untuk menyempurnakan kata kerja perintah.",
+        "anagramWord": "ambilkan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-13",
+        "type": "matching",
+        "question": "Jodohkan istilah kebahasaan dan struktur teks berikut dengan definisi atau contoh yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Lihat pasangan pada matchingPairs"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Tujuan dalam Teks Prosedur",
+            "right": "Pengantar mengenai apa yang akan dibuat atau dilakukan"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Akhiran -lah",
+            "right": "Digunakan untuk memperhalus atau mempertegas kalimat perintah"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Alamat Pengirim",
+            "right": "Bagian yang wajib ada di surat pribadi maupun surat resmi"
+          }
+        ],
+        "correctAnswer": "Lihat pasangan pada matchingPairs",
+        "explanation": "Teks prosedur memiliki bagian tujuan dan langkah-langkah, sedangkan imbuhan memiliki fungsi tata bahasa yang berbeda.",
+        "hint": "Hubungkan bagian struktur teks dengan fungsinya yang benar.",
+        "anagramWord": "prosedur",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-14",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan ciri khas penggunaan bahasa pada surat pribadi?",
+        "options": [
+          "Menggunakan bahasa baku dan resmi sesuai EYD",
+          "Selalu menggunakan kop surat dan nomor surat",
+          "Menggunakan bahasa yang santai, akrab, dan komunikatif",
+          "Harus menggunakan cap instansi resmi"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menggunakan bahasa yang santai, akrab, dan komunikatif"
+        ],
+        "correctAnswer": "Menggunakan bahasa yang santai, akrab, dan komunikatif",
+        "explanation": "Surat pribadi ditujukan kepada orang yang sudah dikenal dekat (teman, keluarga), sehingga bahasanya tidak kaku dan bersifat pribadi.",
+        "hint": "Bayangkan kamu sedang menulis surat untuk sahabat karibmu.",
+        "anagramWord": "pribadi",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-15",
+        "type": "true_false",
+        "question": "Imbuhan 'me-' jika bertemu dengan kata dasar yang diawali huruf 'p', maka huruf 'p' tersebut akan luluh atau lebur menjadi huruf 'm'.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Aturan peluluhan bunyi: awalan me- bertemu huruf k, t, s, p (KTSP) akan meluluhkan huruf awal kata dasarnya, contohnya me- + pukul menjadi memukul.",
+        "hint": "Ingat kaidah peluluhan huruf K, T, S, P pada awalan me-.",
+        "anagramWord": "peluluhan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-16",
+        "type": "fill_blank",
+        "question": "Bagian surat resmi yang berisi nama instansi, alamat lengkap, dan nomor telepon yang terletak di paling atas surat disebut _____ surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kop",
+          "kop"
+        ],
+        "correctAnswer": "kop",
+        "explanation": "Kop surat atau kepala surat adalah identitas pengirim pada surat resmi yang memuat nama lembaga, alamat, dan logo.",
+        "hint": "Tiga huruf, sering juga disebut kepala surat.",
+        "anagramWord": "kopsurat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-17",
+        "type": "multiple_choice",
+        "question": "Dalam sebuah teks prosedur membuat jus buah, bagian yang berisi daftar bahan-bahan dan alat yang diperlukan terletak pada...",
+        "options": [
+          "Bagian pertengahan sebelum langkah-langkah pembuatan",
+          "Bagian penutup atau kesimpulan",
+          "Bagian paling akhir dari teks",
+          "Bagian salam pembuka surat"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Bagian pertengahan sebelum langkah-langkah pembuatan"
+        ],
+        "correctAnswer": "Bagian pertengahan sebelum langkah-langkah pembuatan",
+        "explanation": "Struktur teks prosedur secara berurutan adalah tujuan, material (bahan dan alat), lalu langkah-langkah pembuatan.",
+        "hint": "Setelah judul dan tujuan, apa yang harus disiapkan sebelum mulai memasak?",
+        "anagramWord": "material",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-18",
+        "type": "true_false",
+        "question": "Kalimat 'Bacalah buku itu dengan teliti!' menggunakan akhiran '-lah' yang berfungsi untuk melarang seseorang.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Akhiran '-lah' pada kalimat tersebut berfungsi untuk mempertegas atau memperhalus kalimat perintah, bukan kalimat larangan.",
+        "hint": "Perhatikan apakah kalimat tersebut menyuruh melakukan sesuatu atau melarang.",
+        "anagramWord": "perintah",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791239321878-19",
+        "type": "fill_blank",
+        "question": "Kata dasar 'tulis' jika diberi awalan 'me-' akan berubah menjadi kata _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menulis"
+        ],
+        "correctAnswer": "menulis",
+        "explanation": "Awalan 'me-' jika bertemu dengan huruf 't' akan meluluhkan huruf 't' tersebut menjadi 'n', sehingga membentuk kata 'menulis'.",
+        "hint": "Gabungkan awalan me- dengan kata tulis, ingat aturan lebur huruf t.",
+        "anagramWord": "menulis",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "6/10/2026"
+  },
+  {
+    "id": "custom-quiz-1791242986179",
+    "title": "Kuis Bahasa Indonesia Kelas 6: Majas, Fakta, Opini, Grafik, dan Laporan",
+    "description": "Latihan soal interaktif untuk kelas 6 SD mencakup majas, fakta dan opini, kalimat langsung dan tidak langsung, laporan hasil pengamatan, serta membaca grafik.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 6 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1791242645606-0",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Angin malam berbisik lembut menyentuh kulitku.' Majas apakah yang digunakan dalam kalimat tersebut?",
+        "options": [
+          "Majas Hiperbola",
+          "Majas Personifikasi",
+          "Majas Metafora",
+          "Majas Litotes"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Majas Personifikasi"
+        ],
+        "correctAnswer": "Majas Personifikasi",
+        "explanation": "Majas personifikasi adalah majas yang mengibaratkan benda mati atau makhluk hidup selain manusia seolah-olah memiliki sifat atau perilaku seperti manusia (berbisik).",
+        "hint": "Perhatikan kata 'berbisik' yang merupakan aktivitas manusia.",
+        "anagramWord": "Personifikasi",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-1",
+        "type": "true_false",
+        "question": "Pernyataan 'Menurut perkiraan saya, besok cuaca akan sangat panas sepanjang hari.' merupakan contoh kalimat fakta.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut adalah opini karena didasarkan pada perkiraan pribadi (subyektif) dan belum tentu kebenarannya dapat dibuktikan secara mutlak.",
+        "hint": "Cari kata kunci yang menunjukkan pendapat pribadi seperti 'menurut perkiraan'.",
+        "anagramWord": "Opini",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-2",
+        "type": "fill_blank",
+        "question": "Kalimat langsung ditandai dengan penggunaan tanda (_____) untuk mengapit ucapan langsung dari pembicara.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "tanda petik",
+          "petik dua"
+        ],
+        "correctAnswer": "petik",
+        "explanation": "Dalam menuliskan kalimat langsung, bagian yang diucapkan oleh pembicara wajib diapit menggunakan tanda petik dua ('...') untuk membedakannya dengan bagian kalimat pengantar.",
+        "hint": "Tanda baca ini biasanya berada di awal dan akhir kalimat ucapan.",
+        "anagramWord": "Petik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-3",
+        "type": "matching",
+        "question": "Jodohkan istilah kebahasaan berikut dengan definisi yang tepat.",
+        "options": [],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan konsep kebahasaan dan laporan"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Fakta",
+            "right": "Hal yang benar-benar terjadi dan dapat dibuktikan kebenarannya"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Opini",
+            "right": "Pendapat atau pandangan seseorang yang bersifat subjektif"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Laporan Pengamatan",
+            "right": "Teks yang menyajikan informasi berdasarkan hasil observasi langsung"
+          }
+        ],
+        "correctAnswer": "Menjodohkan konsep kebahasaan dan laporan",
+        "explanation": "Fakta bersifat objektif dan dapat dibuktikan, opini bersifat subjektif, dan laporan hasil pengamatan berisi fakta-fakta berdasarkan data objektif di lapangan.",
+        "hint": "Pahami perbedaan antara data nyata dan pendapat pribadi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-4",
+        "type": "multiple_choice",
+        "question": "Ibu berkata kepada Siti, 'Jangan lupa merapikan kamar tidurmu.' Bentuk kalimat tidak langsung dari kalimat tersebut adalah...",
+        "options": [
+          "Ibu mengatakan bahwa Siti jangan lupa merapikan kamar tidurnya.",
+          "Ibu menyuruh Siti, jangan lupa merapikan kamar tidurmu.",
+          "Ibu menyuruh Siti agar tidak lupa merapikan kamar tidurnya.",
+          "Ibu bertanya kepada Siti apakah sudah merapikan kamar tidurnya."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu menyuruh Siti agar tidak lupa merapikan kamar tidurnya."
+        ],
+        "correctAnswer": "Ibu menyuruh Siti agar tidak lupa merapikan kamar tidurnya.",
+        "explanation": "Kalimat langsung diubah menjadi kalimat tidak langsung dengan menghilangkan tanda petik, mengubah kata ganti orang (kamu menjadi nya), serta menambahkan konjungsi seperti 'agar' atau 'untuk'.",
+        "hint": "Perhatikan perubahan kata ganti orang dan hilangkan tanda petik dua.",
+        "anagramWord": "TidakLangsung",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-5",
+        "type": "true_false",
+        "question": "Grafik batang sangat efektif digunakan untuk menunjukkan perbandingan jumlah data dari waktu ke waktu atau antarkategori yang berbeda.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Grafik batang menggunakan tinggi atau panjang batang untuk memvisualisasikan perbedaan nilai dari berbagai kategori data secara jelas.",
+        "hint": "Pikirkan fungsi utama diagram atau grafik batang dalam menyajikan data.",
+        "anagramWord": "Grafik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-6",
+        "type": "fill_blank",
+        "question": "Bagian awal dari sebuah laporan hasil pengamatan biasanya memuat waktu, tempat, dan objek yang diamati yang disebut dengan _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "klasifikasi umum",
+          "pengantar"
+        ],
+        "correctAnswer": "Pendahuluan",
+        "explanation": "Laporan hasil pengamatan disusun secara sistematis mulai dari klasifikasi umum (pendahuluan), deskripsi bagian, hingga kesimpulan.",
+        "hint": "Sinonim dari kata 'pendahuluan' atau pengenalan garis besar.",
+        "anagramWord": "Pendahuluan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-7",
+        "type": "multiple_choice",
+        "question": "Perhatikan data pada grafik penjualan buku di koperasi sekolah selama 4 hari: Senin 10 buku, Selasa 15 buku, Rabu 20 buku, dan Kamis 10 buku. Hari apakah penjualan buku mencapai puncaknya?",
+        "options": [
+          "Senin",
+          "Selasa",
+          "Rabu",
+          "Kamis"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Rabu"
+        ],
+        "correctAnswer": "Rabu",
+        "explanation": "Puncak penjualan berarti jumlah penjualan tertinggi. Berdasarkan data, hari Rabu mencatatkan angka penjualan tertinggi yaitu sebanyak 20 buku.",
+        "hint": "Cari nilai data yang paling besar dari hari-hari yang disebutkan.",
+        "anagramWord": "Puncak",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-8",
+        "type": "matching",
+        "question": "Jodohkan jenis majas berikut dengan contoh kalimatnya yang tepat.",
+        "options": [],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan jenis majas dan contohnya"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-8-0",
+            "left": "Majas Hiperbola",
+            "right": "Suaranya mampu memecahkan gendang telinga."
+          },
+          {
+            "id": "mp-8-1",
+            "left": "Majas Metafora",
+            "right": "Dewi adalah anak emas di keluarga itu."
+          },
+          {
+            "id": "mp-8-2",
+            "left": "Majas Personifikasi",
+            "right": "Peluit panjang wasit menjerit mengakhiri pertandingan."
+          }
+        ],
+        "correctAnswer": "Menjodohkan jenis majas dan contohnya",
+        "explanation": "Hiperbola melebih-lebihkan, metafora menggunakan perumpamaan langsung tanpa kata pembanding, dan personifikasi memberikan sifat manusia pada benda mati.",
+        "hint": "Kenali ciri khas gaya bahasa pada setiap kalimat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-9",
+        "type": "true_false",
+        "question": "Dalam menulis laporan hasil pengamatan, kalimat yang digunakan harus berupa kalimat opini agar pembaca merasa tertarik.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Laporan hasil pengamatan harus disusun berdasarkan fakta dan data yang valid, objektif, serta dapat dipertanggungjawabkan, bukan berdasarkan opini atau pendapat pribadi.",
+        "hint": "Laporan pengamatan bersifat ilmiah dan nyata.",
+        "anagramWord": "Laporan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-10",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: \"Daun kelapa melambai-lambai menyambut kedatanganku di desa.\" Majas apakah yang digunakan dalam kalimat tersebut?",
+        "options": [
+          "Hiperbola",
+          "Personifikasi",
+          "Metafora",
+          "Litotes"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Personifikasi"
+        ],
+        "correctAnswer": "Personifikasi",
+        "explanation": "Majas personifikasi adalah majas yang membandingkan benda mati seolah-olah bernyawa atau memiliki sifat seperti manusia (daun kelapa melambai-lambai).",
+        "hint": "Cari majas yang membuat benda mati berperilaku seperti manusia.",
+        "anagramWord": "Personifikasi",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-11",
+        "type": "true_false",
+        "question": "Kalimat opini bersifat objektif dan dapat dibuktikan kebenarannya secara empiris di lapangan.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut salah karena kalimat opini bersifat subjektif, memuat pendapat atau pandangan pribadi, dan belum tentu bisa dibuktikan kebenarannya. Yang bersifat objektif dan dapat dibuktikan adalah kalimat fakta.",
+        "hint": "Ingat kembali perbedaan mendasar antara fakta (objektif) dan opini (subjektif).",
+        "anagramWord": "Opini",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-12",
+        "type": "fill_blank",
+        "question": "Ubahlah kalimat langsung berikut menjadi kalimat tidak langsung. Ibu berkata, \"Jangan lupa membawa payung karena cuaca mendung.\" Ibu berpesan agar aku _____ membawa payung karena cuaca mendung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "jangan lupa"
+        ],
+        "correctAnswer": "tidak lupa",
+        "explanation": "Dalam mengubah kalimat langsung ke tidak langsung, tanda petik dihilangkan, kata ganti orang disesuaikan, dan kata 'jangan' biasanya diubah menjadi 'agar tidak' atau 'tidak lupa'.",
+        "hint": "Perhatikan kata larangan 'jangan' yang diubah ke bentuk perintah tidak langsung.",
+        "anagramWord": "Kalimat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-13",
+        "type": "matching",
+        "question": "Jodohkan jenis majas berikut dengan contoh kalimatnya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan jenis majas dan contohnya"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Metafora",
+            "right": "Dewi malam bersinar terang di langit."
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Hiperbola",
+            "right": "Suaranya menggelegar membelah angkasa."
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Litotes",
+            "right": "Silakan mampir ke gubuk reot kami ini."
+          }
+        ],
+        "correctAnswer": "Menjodohkan jenis majas dan contohnya",
+        "explanation": "Metafora menggunakan perbandingan langsung, hiperbola melebih-lebihkan sesuatu, dan litotes merendahkan diri.",
+        "hint": "Perhatikan ciri khas kata pembanding atau tingkat keparahan arti pada kalimat.",
+        "anagramWord": "Majas",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-14",
+        "type": "multiple_choice",
+        "question": "Bagian awal dalam struktur teks laporan hasil pengamatan biasanya berisi tentang...",
+        "options": [
+          "Pernyataan umum atau klasifikasi",
+          "Kesimpulan akhir pengamatan",
+          "Saran dan kritik pembaca",
+          "Daftar pustaka pengamat"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pernyataan umum atau klasifikasi"
+        ],
+        "correctAnswer": "Pernyataan umum atau klasifikasi",
+        "explanation": "Laporan hasil pengamatan diawali dengan pernyataan umum atau definisi/klasifikasi objek yang diamati secara garis besar.",
+        "hint": "Pikirkan bagian pembuka yang memperkenalkan objek.",
+        "anagramWord": "Laporan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-15",
+        "type": "true_false",
+        "question": "Grafik garis sangat tepat digunakan untuk menunjukkan perkembangan data atau perubahan dari waktu ke waktu secara kontinu.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan ini benar. Grafik garis (line chart) memang dirancang khusus untuk memperlihatkan tren atau perubahan data secara kontinu dalam kurun waktu tertentu.",
+        "hint": "Pikirkan fungsi garis yang menghubungkan titik-titik data dari waktu ke waktu.",
+        "anagramWord": "Grafik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-16",
+        "type": "fill_blank",
+        "question": "Dalam sebuah grafik batang tentang penjualan buku, batang tertinggi menunjukkan bulan dengan jumlah penjualan yang paling _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "tinggi",
+          "besar"
+        ],
+        "correctAnswer": "banyak",
+        "explanation": "Pada grafik batang, semakin tinggi batang pada suatu kategori, semakin besar atau banyak jumlah nilai data tersebut.",
+        "hint": "Hubungkan tinggi batang dengan jumlah kuantitas.",
+        "anagramWord": "Batang",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-17",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan contoh kalimat fakta?",
+        "options": [
+          "Bunga melati ini sepertinya adalah bunga terwangi di dunia.",
+          "Besok sore sepertinya akan turun hujan lebat di kota kita.",
+          "Indonesia merdeka pada tanggal 17 Agustus 1945.",
+          "Menurutku pemandangan di pantai itu sangat membosankan."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Indonesia merdeka pada tanggal 17 Agustus 1945."
+        ],
+        "correctAnswer": "Indonesia merdeka pada tanggal 17 Agustus 1945.",
+        "explanation": "Kalimat \"Indonesia merdeka pada tanggal 17 Agustus 1945\" adalah fakta karena peristiwanya benar-benar terjadi dan tercatat secara historis. Pilihan lain bersifat pendapat atau perkiraan.",
+        "hint": "Cari kalimat yang berisi peristiwa sejarah atau data pasti yang tidak terbantahkan.",
+        "anagramWord": "Fakta",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-18",
+        "type": "matching",
+        "question": "Jodohkan istilah komponen laporan pengamatan dengan definisinya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan komponen laporan"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-18-0",
+            "left": "Objek pengamatan",
+            "right": "Hal atau benda yang menjadi pusat perhatian dalam penelitian."
+          },
+          {
+            "id": "mp-18-1",
+            "left": "Waktu pengamatan",
+            "right": "Kapan kegiatan peninjauan atau observasi itu dilaksanakan."
+          },
+          {
+            "id": "mp-18-2",
+            "left": "Kesimpulan",
+            "right": "Pendapat akhir berdasarkan uraian data hasil pengamatan."
+          }
+        ],
+        "correctAnswer": "Menjodohkan komponen laporan",
+        "explanation": "Objek adalah hal yang diamati, waktu adalah kapan pengamatan dilakukan, dan kesimpulan adalah inti sari akhir dari pengamatan.",
+        "hint": "Cocokkan kata kunci di sebelah kiri dengan arti di sebelah kanan.",
+        "anagramWord": "Pengamatan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-19",
+        "type": "fill_blank",
+        "question": "Kalimat yang menirukan ucapan seseorang tanpa perantara dan biasanya diapit oleh tanda petik dua disebut kalimat _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kalimat langsung"
+        ],
+        "correctAnswer": "langsung",
+        "explanation": "Kalimat langsung adalah kalimat yang mengutip secara persis apa yang dikatakan oleh narasumber dan ditandai dengan tanda petik ganda.",
+        "hint": "Lawan dari kalimat tidak langsung.",
+        "anagramWord": "Langsung",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-20",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Pohon kelapa di tepi pantai melambai-lambai menyambut kedatangan para wisatawan.' Majas yang digunakan dalam kalimat tersebut adalah...",
+        "options": [
+          "Majas hiperbola",
+          "Majas personifikasi",
+          "Majas metafora",
+          "Majas litotes"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Majas personifikasi"
+        ],
+        "correctAnswer": "Majas personifikasi",
+        "explanation": "Majas personifikasi adalah gaya bahasa yang membandingkan benda mati seolah-olah bernyawa atau memiliki sifat seperti manusia. Kata 'melambai-lambai menyambut' adalah ciri khas sifat manusia yang dilekatkan pada pohon kelapa.",
+        "hint": "Perhatikan sifat manusia yang diberikan kepada benda mati.",
+        "anagramWord": "Personifikasi",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645606-21",
+        "type": "true_false",
+        "question": "Pernyataan 'Berdasarkan data tahun 2023, jumlah penduduk Indonesia diperkirakan mencapai lebih dari 278 juta jiwa' merupakan kalimat opini karena belum tentu benar.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut adalah sebuah FAKTA, bukan opini. Kalimat tersebut didukung oleh data dan angka resmi dari badan berwenang serta dapat dibuktikan kebenarannya secara empiris.",
+        "hint": "Cek apakah kalimat tersebut didasarkan pada data/angka resmi atau hanya pendapat pribadi.",
+        "anagramWord": "Fakta",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645607-22",
+        "type": "fill_blank",
+        "question": "Kalimat langsung 'Ibu berkata, \"Jangan lupa membawa payung karena cuaca mendung!\"' jika diubah menjadi kalimat tidak langsung menjadi: Ibu berpesan agar _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "kita tidak lupa membawa payung karena cuaca mendung",
+          "saya tidak lupa membawa payung karena cuaca mendung"
+        ],
+        "correctAnswer": "tidak lupa membawa payung karena cuaca mendung",
+        "explanation": "Dalam mengubah kalimat langsung ke tidak langsung, tanda petik dihilangkan, kata ganti orang disesuaikan, dan kalimat berita/perintah ditandai dengan kata sambung seperti 'agar' atau 'supaya'.",
+        "hint": "Hilangkan tanda petik dan ubah sudut pandang penyampaiannya.",
+        "anagramWord": "Kalimat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645607-23",
+        "type": "matching",
+        "question": "Jodohkan istilah komponen laporan hasil pengamatan atau membaca grafik berikut dengan definisinya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Disesuaikan dengan pasangan konsep"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-23-0",
+            "left": "Objek Pengamatan",
+            "right": "Hal atau tempat yang menjadi pusat perhatian dalam penelitian"
+          },
+          {
+            "id": "mp-23-1",
+            "left": "Sumbu Horizontal (X)",
+            "right": "Garis mendatar pada grafik yang biasanya menunjukkan waktu atau kategori"
+          },
+          {
+            "id": "mp-23-2",
+            "left": "Kesimpulan Laporan",
+            "right": "Ringkasan akhir dari seluruh hasil pengamatan yang telah dilakukan"
+          }
+        ],
+        "correctAnswer": "Disesuaikan dengan pasangan konsep",
+        "explanation": "Memahami struktur laporan (objek, waktu, hasil) serta cara membaca grafik (sumbu dan data) sangat penting dalam literasi informasi siswa kelas 6.",
+        "hint": "Pahami fungsi masing-masing bagian dalam laporan atau grafik.",
+        "anagramWord": "Grafik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1791242645607-24",
+        "type": "multiple_choice",
+        "question": "Sebuah grafik batang menunjukkan kenaikan penjualan buku tulis dari bulan Januari (100 eksemplar) hingga April (400 eksemplar). Kesimpulan yang paling tepat berdasarkan grafik tersebut adalah...",
+        "options": [
+          "Penjualan buku tulis mengalami penurunan drastis pada bulan April.",
+          "Jumlah pembeli buku tulis tidak pernah berubah sejak bulan Januari.",
+          "Penjualan buku tulis mengalami peningkatan konsisten setiap bulan dari Januari hingga April.",
+          "Buku tulis tidak laku terjual sepanjang periode Januari sampai April."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Penjualan buku tulis mengalami peningkatan konsisten setiap bulan dari Januari hingga April."
+        ],
+        "correctAnswer": "Penjualan buku tulis mengalami peningkatan konsisten setiap bulan dari Januari hingga April.",
+        "explanation": "Dari angka 100 ke 400 secara bertahap dari Januari ke April, dapat disimpulkan bahwa tren penjualan tersebut mengalami peningkatan secara konsisten.",
+        "hint": "Lihat arah tren kenaikan angka dari bulan pertama ke bulan terakhir.",
+        "anagramWord": "Statistik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "6/10/2026"
+  },
+  {
+    "id": "custom-quiz-1791173234225",
+    "title": "Master Bahasa Indonesia Kelas 5: Teks Prosedur, Imbuhan, dan Surat Pribadi",
+    "description": "Uji kompetensi berpikir kritis materi Teks Prosedur, variasi imbuhan me-, -kan, partikel -lah, serta struktur penulisan Surat Pribadi untuk siswa kelas 5 SD.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Tantangan",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1791173122540-0",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Aduklah adonan kue hingga merata, lalu tuangkan ke dalam loyang cetakan!' Unsur kebahasaan yang menonjol pada kalimat teks prosedur tersebut adalah...",
+        "options": [
+          "Kata sifat dan kata keterangan waktu lampau",
+          "Kata kerja imperatif dengan partikel -lah dan akhiran -kan",
+          "Kata tanya retoris dan kalimat perumpamaan",
+          "Kata sapaan resmi dan konjungsi antarkalimat"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kata kerja imperatif dengan partikel -lah dan akhiran -kan"
+        ],
+        "correctAnswer": "Kata kerja imperatif dengan partikel -lah dan akhiran -kan",
+        "explanation": "Kalimat prosedur tersebut menggunakan kata kerja perintah (imperatif) berupa 'aduklah' (kata dasar 'aduk' + partikel penegas '-lah') dan 'tuangkan' (kata dasar 'tuang' + akhiran '-kan').",
+        "hint": "Cermati kata kerja perintah yang terdapat pada kalimat tersebut.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-1",
+        "type": "fill_blank",
+        "question": "Sesuai kaidah peluruhan fonem K-T-S-P, kata dasar 'tulis' jika diberi awalan me- dan akhiran -kan yang benar akan berubah menjadi kata bentukan '_____'.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menuliskan"
+        ],
+        "correctAnswer": "menuliskan",
+        "explanation": "Huruf awal 't' pada kata 'tulis' luluh menjadi bunyi sengau /n/ ketika bertemu awalan me-, sehingga penggabungan yang tepat adalah me- + tulis + -kan = menuliskan.",
+        "hint": "Huruf pertama 't' luluh menjadi bunyi sengau 'ny' atau 'n'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-2",
+        "type": "true_false",
+        "question": "Surat pribadi wajib mencantumkan kepala surat (kop surat) resmi dan nomor surat di bagian pembukanya.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Kop surat dan nomor surat hanya digunakan pada surat resmi/dinas lembaga atau instansi, sedangkan surat pribadi tidak menggunakan kop maupun nomor surat.",
+        "hint": "Ingat perbedaan utama antara surat resmi dan surat untuk teman atau kerabat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-3",
+        "type": "matching",
+        "question": "Jodohkan bentuk imbuhan berikut dengan contoh kata berimbuhannya yang tepat!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "me- luluh (menyapu), me- tidak luluh (memasak), akhiran -kan (rapikan), partikel -lah (dengarkanlah)"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "me- dengan peluruhan fonem",
+            "right": "menyapu"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "me- tanpa peluruhan fonem",
+            "right": "memasak"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "akhiran -kan pembentuk kata imperatif",
+            "right": "rapikan"
+          },
+          {
+            "id": "mp-3-3",
+            "left": "partikel -lah pelembut perintah",
+            "right": "dengarkanlah"
+          }
+        ],
+        "correctAnswer": "me- luluh (menyapu), me- tidak luluh (memasak), akhiran -kan (rapikan), partikel -lah (dengarkanlah)",
+        "explanation": "Kata 'sapu' luluh menjadi 'menyapu', kata 'masak' tidak luluh menjadi 'memasak', kata 'rapikan' mendapat akhiran -kan, dan 'dengarkanlah' mendapat partikel penegas -lah.",
+        "hint": "Perhatikan huruf awal kata dasar yang mengalami peluruhan bunyi dan penggunaan partikel penegas.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-4",
+        "type": "multiple_choice",
+        "question": "Manakah pilihan di bawah ini yang paling santun dan tepat digunakan sebagai kalimat salam pembuka dalam surat pribadi untuk sepupu yang tinggal jauh?",
+        "options": [
+          "Dengan hormat, sehubungan dengan rapat keluarga besok pagi,",
+          "Kepada Yth. Saudara Danu, di tempat,",
+          "Hai Danu, apa kabarmu di Surabaya? Semoga sehat selalu, ya!",
+          "Menindaklanjuti pemberitahuan kami sebelumnya via telepon,"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Hai Danu, apa kabarmu di Surabaya? Semoga sehat selalu, ya!"
+        ],
+        "correctAnswer": "Hai Danu, apa kabarmu di Surabaya? Semoga sehat selalu, ya!",
+        "explanation": "Salam pembuka surat pribadi menggunakan bahasa yang akrab, hangat, santai, namun tetap santun. Pilihan lain menggunakan bahasa dinas/resmi.",
+        "hint": "Pilihlah kalimat yang bernada akrab, hangat, dan ditujukan kepada kerabat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-5",
+        "type": "fill_blank",
+        "question": "Lengkapilah rumpang kalimat prosedur berikut: 'Sebelum jus buah disajikan, _____ daun min di atas gelas agar terlihat lebih segar!' Kata berimbuhan -kan dari kata dasar 'letak' yang tepat adalah '_____'.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "letakkan",
+          "Letakkan"
+        ],
+        "correctAnswer": "letakkan",
+        "explanation": "Kata dasar 'letak' ditambah akhiran '-kan' menghasilkan kata 'letakkan' dengan penulisan huruf 'k' ganda.",
+        "hint": "Gabungkan kata 'letak' dengan sufiks '-kan' tanpa mengurangi huruf dasarnya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-6",
+        "type": "true_false",
+        "question": "Kata dasar 'kupas' apabila diberi awalan me- akan berubah bentuk menjadi 'mengkupas'.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Kata berawalan huruf 'k' yang diikuti huruf vokal akan luluh jika diberi awalan me-. Bentuk yang tepat dan baku adalah 'mengupas', bukan 'mengkupas'.",
+        "hint": "Fonem 'k' yang diikuti huruf vokal luluh menjadi 'ng'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-7",
+        "type": "matching",
+        "question": "Jodohkan bagian-bagian struktur teks prosedur berikut dengan isi penjelasannya!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tujuan (Maksud pembuatan), Alat dan Bahan (Daftar keperluan), Langkah-langkah (Urutan tindakan), Penutup (Saran dan kesimpulan)"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Tujuan",
+            "right": "Menyatakan hasil akhir atau maksud yang ingin dicapai"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Alat dan Bahan",
+            "right": "Rincian benda atau perlengkapan yang perlu dipersiapkan"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Langkah-langkah",
+            "right": "Urutan tahapan kegiatan secara runtut dari awal hingga akhir"
+          },
+          {
+            "id": "mp-7-3",
+            "left": "Penutup",
+            "right": "Pernyataan simpulan atau ucapan selamat mencoba"
+          }
+        ],
+        "correctAnswer": "Tujuan (Maksud pembuatan), Alat dan Bahan (Daftar keperluan), Langkah-langkah (Urutan tindakan), Penutup (Saran dan kesimpulan)",
+        "explanation": "Teks prosedur terdiri atas tujuan (maksud pembuatan), alat dan bahan (rincian perlengkapan), langkah-langkah (urutan kerja logis), dan penutup (kesimpulan/ucapan).",
+        "hint": "Cocokkan nama struktur teks prosedur dengan fungsinya secara tepat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-8",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Ibu membikinkan adik baju pesta baru untuk pentas seni sekolah.' Makna imbuhan gabung me-kan pada kata 'membikinkan' adalah...",
+        "options": [
+          "Menyebabkan sesuatu menjadi terjadi",
+          "Melakukan tindakan untuk orang lain",
+          "Menuju ke suatu tempat atau arah tertentu",
+          "Menganggap subjek sebagai suatu benda"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Melakukan tindakan untuk orang lain"
+        ],
+        "correctAnswer": "Melakukan tindakan untuk orang lain",
+        "explanation": "Makna me-kan pada 'membikinkan adik' bermakna benefaktif atau melakukan suatu perbuatan demi kepentingan orang lain (dalam hal ini, membuatkan untuk adik).",
+        "hint": "Ibu membuat baju tersebut bukan untuk dirinya sendiri, melainkan untuk adik.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-9",
+        "type": "fill_blank",
+        "question": "Dalam penulisan surat pribadi, keterangan 'Semarang, 2 Mei 2024' yang terletak di pojok kanan atas menunjukkan informasi _____ pembuatan surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "tempat dan tanggal",
+          "tanggal dan tempat",
+          "tempat serta tanggal",
+          "waktu dan tempat"
+        ],
+        "correctAnswer": "tempat dan tanggal",
+        "explanation": "Bagian 'Semarang, 2 Mei 2024' adalah penunjuk tempat kota pengirim dan tanggal ketika surat pribadi tersebut ditulis.",
+        "hint": "Menyebutkan nama kota dan waktu penulisan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-10",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan ciri utama dari kalimat penutup dalam teks prosedur membuat sesuatu?",
+        "options": [
+          "Berisi daftar alat dan bahan yang wajib disiapkan",
+          "Berisi langkah-langkah kerja yang harus diurutkan",
+          "Berisi kalimat saran atau hasil akhir setelah langkah selesai",
+          "Berisi alamat penerima surat dan tanggal penulisan"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Berisi kalimat saran atau hasil akhir setelah langkah selesai"
+        ],
+        "correctAnswer": "Berisi kalimat saran atau hasil akhir setelah langkah selesai",
+        "explanation": "Bagian penutup teks prosedur biasanya berisi kesimpulan, ucapan selamat menikmati, atau saran agar pembaca berhasil melakukan langkah-langkah sebelumnya.",
+        "hint": "Perhatikan bagian akhir sebuah panduan memasak atau membuat kerajinan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122540-11",
+        "type": "true_false",
+        "question": "Kata 'mengambil' mengalami proses penggabungan imbuhan me- dengan kata dasar 'ambil' yang luluh huruf depannya.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Huruf 'a' adalah huruf vokal. Imbuhan me- jika bertemu dengan kata dasar berawalan vokal (a, i, u, e, o) akan berubah menjadi meng-, dan huruf depannya TIDAK luluh. Jadi tetap mengambil, bukan mangambil.",
+        "hint": "Ingat kembali aturan peluluhan huruf K, T, S, P (K-T-S-P).",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-12",
+        "type": "fill_blank",
+        "question": "Sifat bahasa yang digunakan dalam penulisan surat pribadi kepada teman akrab umumnya menggunakan ragam bahasa yang _____ dan santai.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "nonformal",
+          "akrab",
+          "informal"
+        ],
+        "correctAnswer": "tidak resmi",
+        "explanation": "Surat pribadi bersifat personal dan dikirimkan kepada orang yang sudah dikenal akrab seperti keluarga atau teman, sehingga bahasanya bebas, santai, dan tidak resmi.",
+        "hint": "Kebalikan dari bahasa formal.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-13",
+        "type": "matching",
+        "question": "Jodohkanlah bagian dari surat pribadi berikut dengan penjelasannya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan konsep surat pribadi"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Tempat dan Tanggal Surat",
+            "right": "Menunjukkan kapan dan di mana surat tersebut ditulis"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Salam Pembuka",
+            "right": "Contohnya seperti 'Salam rindu' atau 'Halo sahabatku'"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Salam Penutup",
+            "right": "Contohnya seperti 'Sahabatmu' atau 'Salam hangat'"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan konsep surat pribadi",
+        "explanation": "Setiap bagian surat pribadi memiliki fungsi khas, mulai dari tanggal pembuatan hingga bagian salam penutup yang menunjukkan keakraban.",
+        "hint": "Pahami struktur bagian awal hingga akhir surat pribadi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-14",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Tolong ambil_kan_ buku itu di atas meja!' Penggunaan akhiran -kan pada kalimat tersebut berfungsi sebagai...",
+        "options": [
+          "Menyatakan makna membuat jadi",
+          "Menyatakan makna melakukan sesuatu untuk orang lain",
+          "Menyatakan sifat yang melekat pada benda",
+          "Menyatakan tempat terjadinya suatu peristiwa"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menyatakan makna melakukan sesuatu untuk orang lain"
+        ],
+        "correctAnswer": "Menyatakan makna melakukan sesuatu untuk orang lain",
+        "explanation": "Akhiran -kan dalam kalimat perintah atau permintaan sering kali berfungsi untuk menyatakan makna melakukan suatu tindakan untuk orang lain (benefaktif).",
+        "hint": "Fokus pada siapa yang disuruh mengambilkan barang.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-15",
+        "type": "true_false",
+        "question": "Penggunaan partikel -lah dalam kalimat perintah dapat membuat perintah tersebut terdengar lebih halus atau sopan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Penambahan partikel -lah pada kata kerja dalam kalimat perintah (misal: 'Duduklah', 'Bacalah') berfungsi untuk memperhalus nada perintah agar tidak terkesan membentak.",
+        "hint": "Bandingkan 'Baca buku itu!' dengan 'Bacalah buku itu!'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-16",
+        "type": "fill_blank",
+        "question": "Kata dasar dari kata berimbuhan 'menyapu' adalah _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "sapu"
+        ],
+        "correctAnswer": "sapu",
+        "explanation": "Kata dasar 'sapu' berawalan huruf 's'. Ketika mendapat imbuhan me-, huruf 's' tersebut luluh (hilang) dan berubah menjadi nyapu, lalu disempurnakan menjadi menyapu.",
+        "hint": "Hilangkan awalan me- dan kembalikan huruf yang luluh.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-17",
+        "type": "matching",
+        "question": "Jodohkan kata berimbuhan me- berikut dengan kata dasarnya yang benar.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan kata dasar dan kata berimbuhan"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-17-0",
+            "left": "Menulis",
+            "right": "Tulis"
+          },
+          {
+            "id": "mp-17-1",
+            "left": "Memakai",
+            "right": "Pakai"
+          },
+          {
+            "id": "mp-17-2",
+            "left": "Mendengar",
+            "right": "Dengar"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan kata dasar dan kata berimbuhan",
+        "explanation": "Peluluhan huruf awal terjadi pada kata dasar berawalan K, T, S, dan P saat bertemu dengan awalan me-.",
+        "hint": "Cari kata dasar yang huruf awalnya luluh saat diberi me-.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-18",
+        "type": "multiple_choice",
+        "question": "Manakah susunan struktur teks prosedur yang paling runtut dan logis?",
+        "options": [
+          "Judul -> Langkah-langkah -> Alat dan Bahan -> Tujuan -> Penutup",
+          "Judul -> Tujuan -> Alat dan Bahan -> Langkah-langkah -> Penutup",
+          "Tujuan -> Judul -> Penutup -> Alat dan Bahan -> Langkah-langkah",
+          "Alat dan Bahan -> Judul -> Langkah-langkah -> Tujuan -> Penutup"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Judul -> Tujuan -> Alat dan Bahan -> Langkah-langkah -> Penutup"
+        ],
+        "correctAnswer": "Judul -> Tujuan -> Alat dan Bahan -> Langkah-langkah -> Penutup",
+        "explanation": "Teks prosedur yang baik diawali dengan judul, pengantar tujuan, rincian bahan/alat, urutan langkah kerja, dan ditutup dengan kesimpulan.",
+        "hint": "Urutan dari persiapan sebelum membuat sesuatu hingga selesai.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791173122541-19",
+        "type": "true_false",
+        "question": "Surat pribadi wajib menggunakan kop surat dan nomor surat resmi seperti layaknya surat dari instansi sekolah.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Kop surat dan nomor surat hanya digunakan pada surat resmi atau surat dinas, bukan pada surat pribadi.",
+        "hint": "Pikirkan apakah kamu menulis surat untuk teman pakai nomor surat sekolah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "5/10/2026"
+  },
+  {
+    "id": "custom-quiz-1790829260931",
+    "title": "Kuis Bahasa Indonesia Kelas 6 SD: Pesan Moral, Majas, Fakta-Opini, Kalimat, dan Laporan",
+    "description": "Latihan soal berkualitas tinggi untuk menguji pemahaman siswa kelas 6 SD mengenai amanat cerita, majas, fakta dan opini, kalimat langsung/tidak langsung, serta laporan pengamatan.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 6 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1790829218337-0",
+        "type": "multiple_choice",
+        "question": "Baca kutipan legenda berikut: Karena sifatnya yang sombong dan tidak mau mendengarkan nasihat orang tua, Malin Kundang akhirnya dikutuk menjadi batu. Pesan atau amanat yang dapat dipetik dari cerita tersebut adalah...",
+        "options": [
+          "Kita harus rajin merantau agar menjadi orang kaya.",
+          "Kita tidak boleh sombong dan harus menghormati orang tua.",
+          "Batu dapat berbicara jika dikutuk oleh ibu.",
+          "Kita harus mendengarkan nasihat semua orang di jalan."
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kita tidak boleh sombong dan harus menghormati orang tua."
+        ],
+        "correctAnswer": "Kita tidak boleh sombong dan harus menghormati orang tua.",
+        "explanation": "Amanat adalah pesan kebaikan yang ingin disampaikan pengarang melalui cerita. Sikap sombong Malin Kundang kepada ibunya berbuah petaka, sehingga pesan utamanya adalah untuk tidak durhaka dan tidak sombong.",
+        "hint": "Perhatikan akibat dari perbuatan tokoh utama di akhir cerita.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-1",
+        "type": "true_false",
+        "question": "Kalimat 'Semangat belajar siswa kelas 6 membara seperti api yang tak pernah padam' menggunakan majas personifikasi.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut Salah karena kalimat itu menggunakan majas asosiasi (perumpamaan), yang ditandai dengan kata 'seperti' untuk membandingkan dua hal yang berbeda. Majas personifikasi adalah majas yang seolah-olah membuat benda mati bernyawa.",
+        "hint": "Perhatikan kata pembanding 'seperti' yang menghubungkan dua hal.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-2",
+        "type": "fill_blank",
+        "question": "Kalimat yang berisi gagasan, pandangan, atau pendapat seseorang yang belum tentu terbukti kebenarannya disebut kalimat _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "pendapat",
+          "Opini"
+        ],
+        "correctAnswer": "opini",
+        "explanation": "Kalimat opini adalah kalimat yang memuat pendapat, ide, atau pandangan pribadi yang bersifat subjektif dan belum pasti kebenarannya, berbeda dengan fakta yang bersifat nyata.",
+        "hint": "Lawannya adalah kalimat fakta.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-3",
+        "type": "matching",
+        "question": "Jodohkan jenis majas berikut dengan contoh kalimatnya yang tepat!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan jenis majas dengan contoh kalimatnya"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Personifikasi",
+            "right": "Angin malam berbisik menyampaikan salam rindu."
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Hiperbola",
+            "right": "Suaranya menggelegar membelah angkasa raya."
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Metafora",
+            "right": "Buku adalah jendela dunia yang luas."
+          }
+        ],
+        "correctAnswer": "Menjodohkan jenis majas dengan contoh kalimatnya",
+        "explanation": "Personifikasi memberikan sifat manusia pada benda mati (angin berbisik), hiperbola melebih-lebihkan sesuatu (suara menggelegar membelah angkasa), dan metafora menggunakan perbandingan langsung (buku adalah jendela dunia).",
+        "hint": "Cermati sifat kata yang digunakan pada setiap kalimat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-4",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan kalimat fakta?",
+        "options": [
+          "Menurutku, pelajaran Bahasa Indonesia adalah pelajaran yang paling menyenangkan.",
+          "Indonesia memproklamasikan kemerdekaannya pada tanggal 17 Agustus 1945.",
+          "Bunga melati sepertinya adalah bunga yang paling harum di dunia ini.",
+          "Besok sore sepertinya akan turun hujan yang sangat lebat."
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Indonesia memproklamasikan kemerdekaannya pada tanggal 17 Agustus 1945."
+        ],
+        "correctAnswer": "Indonesia memproklamasikan kemerdekaannya pada tanggal 17 Agustus 1945.",
+        "explanation": "Kalimat fakta adalah peristiwa nyata yang benar-benar terjadi dan dapat dibuktikan kebenarannya. Tanggal kemerdekaan Indonesia adalah peristiwa sejarah yang nyata dan pasti.",
+        "hint": "Pilih kalimat yang berisi data atau peristiwa sejarah yang pasti.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-5",
+        "type": "true_false",
+        "question": "Dalam mengubah kalimat langsung menjadi kalimat tidak langsung, tanda petik dua (\"...\") pada kalimat asli harus dihilangkan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pernyataan tersebut Benar. Kalimat tidak langsung disajikan dalam bentuk berita atau cerita tanpa menggunakan tanda petik dua, biasanya dihubungkan dengan kata 'bahwa'.",
+        "hint": "Perhatikan penggunaan tanda baca petik dalam kalimat tidak langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-6",
+        "type": "fill_blank",
+        "question": "Laporan pengamatan harus disusun secara objektif, faktual, dan _____ agar mudah dipahami secara runtut.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "sistematis",
+          "Sistematis"
+        ],
+        "correctAnswer": "sistematik",
+        "explanation": "Ciri utama laporan pengamatan adalah objektif (sesuai keadaan nyata), faktual (berdasarkan fakta), dan sistematik (disusun secara berurutan atau terstruktur).",
+        "hint": "Berarti disusun menurut sistem atau urutan yang teratur.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-7",
+        "type": "matching",
+        "question": "Jodohkan komponen laporan pengamatan berikut dengan penjelasannya yang sesuai!",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan komponen laporan pengamatan"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Pendahuluan",
+            "right": "Berisi latar belakang dan tujuan dilakukannya pengamatan."
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Hasil Pengamatan",
+            "right": "Berisi uraian data atau fakta yang ditemukan di lapangan."
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Kesimpulan",
+            "right": "Berisi ringkasan atau pendapat akhir dari hasil pengamatan."
+          }
+        ],
+        "correctAnswer": "Menjodohkan komponen laporan pengamatan",
+        "explanation": "Pendahuluan berisi latar belakang pengamatan, isi/hasil melaporkan temuan data secara rinci, dan kesimpulan memuat ringkasan akhir dari seluruh pengamatan.",
+        "hint": "Pahami struktur teks laporan pengamatan dari awal hingga akhir.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-8",
+        "type": "multiple_choice",
+        "question": "Ubahan yang tepat dari kalimat langsung: Ibu berkata, \"Jangan lupa membawa payung, Nak!\" menjadi kalimat tidak langsung adalah...",
+        "options": [
+          "Ibu berkata bahwa jangan lupa membawa payung.",
+          "Ibu bertanya apakah aku lupa membawa payung.",
+          "Ibu berpesan agar aku tidak lupa membawa payung.",
+          "Ibu menyuruh supaya membawa payung sekarang."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu berpesan agar aku tidak lupa membawa payung."
+        ],
+        "correctAnswer": "Ibu berpesan agar aku tidak lupa membawa payung.",
+        "explanation": "Kalimat langsung yang berupa perintah atau larangan diubah menjadi kalimat tidak langsung dengan menggunakan kata 'agar' atau 'supaya', serta mengubah kata ganti orang (kamu/nak menjadi aku).",
+        "hint": "Perhatikan kata sambung yang digunakan untuk kalimat perintah/larangan tidak langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-9",
+        "type": "true_false",
+        "question": "Kalimat 'Gigi anak itu seputih kapas' adalah contoh penggunaan majas metafora.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut Salah. Kalimat tersebut menggunakan majas asosiasi (perumpamaan) karena membandingkan warna gigi dengan kapas menggunakan kata penghubung 'seputih' (seperti). Majas metafora membandingkan secara langsung tanpa kata pembanding.",
+        "hint": "Perhatikan kata 'seputih' yang menunjukkan perbandingan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-10",
+        "type": "multiple_choice",
+        "question": "Dalam legenda Danau Toba, Toba melanggar sumpah janjinya kepada istrinya dengan menyebut anaknya sebagai 'anak ikan'. Akibatnya, terjadilah musibah besar berupa gempa dan luapan air yang membentuk danau. Hubungan sebab-akibat dari cerita tersebut mengajarkan kita untuk...",
+        "options": [
+          "Menepati janji yang telah diucapkan dan tidak mudah mengingkarinya",
+          "Mencari ikan sebanyak-banyaknya di sungai terdekat",
+          "Marah kepada anggota keluarga demi kebaikan",
+          "Membuat danau buatan di tengah pegunungan"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menepati janji yang telah diucapkan dan tidak mudah mengingkarinya"
+        ],
+        "correctAnswer": "Menepati janji yang telah diucapkan dan tidak mudah mengingkarinya",
+        "explanation": "Pesan atau amanat dari cerita rakyat sering kali berakar dari hukum sebab-akibat. Pelanggaran janji oleh Toba menyebabkan kemarahan dan bencana, sehingga pesan moralnya adalah pentingnya menepati janji.",
+        "hint": "Perhatikan apa yang dilanggar oleh tokoh utama dan apa akibat yang diterimanya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-11",
+        "type": "multiple_choice",
+        "question": "Kalimat berikut yang menggunakan majas personifikasi adalah...",
+        "options": [
+          "Wajahnya bersinar bagaikan bulan purnama di malam hari",
+          "Angin malam berbisik lembut menyampaikan salamku kepadamu",
+          "Harga beras di pasar melonjak tinggi hingga menyentuh langit",
+          "Pemuda itu adalah tulang punggung keluarga sejak ayahnya tiada"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Angin malam berbisik lembut menyampaikan salamku kepadamu"
+        ],
+        "correctAnswer": "Angin malam berbisik lembut menyampaikan salamku kepadamu",
+        "explanation": "Majas personifikasi adalah gaya bahasa yang memanusiakan benda mati seolah-olah memiliki sifat atau perilaku seperti manusia. Angin yang 'berbisik' adalah contohnya.",
+        "hint": "Cari benda mati dalam kalimat yang melakukan tindakan seperti manusia.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-12",
+        "type": "true_false",
+        "question": "Pernyataan 'Berdasarkan data BPS, jumlah penduduk Indonesia pada tahun 2023 mencapai lebih dari 278 juta jiwa' merupakan contoh kalimat opini.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut adalah kalimat fakta karena didukung oleh data resmi dari lembaga yang kredibel (BPS) dan dapat dibuktikan kebenarannya secara nyata, bukan sekadar pendapat pribadi.",
+        "hint": "Perhatikan apakah kalimat tersebut memuat data dan angka resmi yang dapat dibuktikan kebenarannya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-13",
+        "type": "true_false",
+        "question": "Kalimat langsung 'Ibu berkata, \"Jangan lupa membawa payung ke sekolah!\"' jika diubah menjadi kalimat tidak langsung yang tepat adalah 'Ibu berpesan agar aku tidak lupa membawa payung ke sekolah.'",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Pengubahan kalimat langsung ke tidak langsung dilakukan dengan menghilangkan tanda petik, menyesuaikan kata ganti orang (aku/dia), dan sering kali menggunakan konjungsi seperti 'agar' atau 'bahwa'.",
+        "hint": "Perhatikan penghilangan tanda petik dan penambahan kata sambung pada kalimat tidak langsung.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-14",
+        "type": "fill_blank",
+        "question": "Gaya bahasa yang membandingkan dua hal yang hakikatnya berbeda tetapi sengaja dianggap sama dengan menggunakan kata pembanding seperti 'bagaikan', 'seperti', atau 'laksana' disebut majas _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Asosiasi",
+          "perumpamaan",
+          "Perumpamaan"
+        ],
+        "correctAnswer": "asosiasi",
+        "explanation": "Majas asosiasi (perumpamaan) adalah majas perbandingan yang menyamakan suatu hal dengan hal lain menggunakan kata pembanding seperti bagaikan, seperti, bak, atau laksana.",
+        "hint": "Kata kuncinya adalah perbandingan dua hal yang menggunakan kata seperti atau bagaikan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218337-15",
+        "type": "fill_blank",
+        "question": "Laporan pengamatan yang baik harus disusun secara objektif, faktual, dan _____ agar mudah dipahami serta dipertanggungjawabkan kebenarannya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sistematik",
+          "sistematis",
+          "Sistematis"
+        ],
+        "correctAnswer": "sistematik",
+        "explanation": "Ciri utama teks laporan pengamatan adalah objektif (sesuai keadaan nyata), faktual (berdasarkan fakta), dan sistematik (disusun secara berurutan dan terstruktur dengan baik).",
+        "hint": "Artinya disusun secara berurutan atau menurut sistem tertentu.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218338-16",
+        "type": "matching",
+        "question": "Jodohkan jenis kalimat atau majas di kolom kiri dengan contoh kalimat yang tepat di kolom kanan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Disesuaikan dengan pasangan yang tepat"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-16-0",
+            "left": "Majas Metafora",
+            "right": "Ayah bekerja keras sebagai tulang punggung keluarga"
+          },
+          {
+            "id": "mp-16-1",
+            "left": "Majas Hiperbola",
+            "right": "Suaranya menggelegar membelah angkasa raya"
+          },
+          {
+            "id": "mp-16-2",
+            "left": "Kalimat Opini",
+            "right": "Menurutku, tempat wisata itu adalah yang paling indah di dunia"
+          }
+        ],
+        "correctAnswer": "Disesuaikan dengan pasangan yang tepat",
+        "explanation": "Metafora membandingkan langsung tanpa kata pembanding (tulang punggung), hiperbola melebih-lebihkan (setengah mati), dan opini adalah pendapat subjektif (rasanya paling enak).",
+        "hint": "Cocokkan ciri khas majas atau jenis kalimat dengan contoh kalimatnya.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218338-17",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Pohon mangga di halaman rumahku menangis tersedu-sedu saat rantingnya dipangkas.' Majas apakah yang dominan digunakan dalam kalimat tersebut?",
+        "options": [
+          "Metafora",
+          "Hiperbola",
+          "Personifikasi",
+          "Asosiasi"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Personifikasi"
+        ],
+        "correctAnswer": "Personifikasi",
+        "explanation": "Pohon mangga digambarkan dapat 'menangis tersedu-sedu', yang merupakan sifat manusia. Ini adalah ciri khas dari majas personifikasi.",
+        "hint": "Benda mati melakukan tindakan layaknya manusia yang sedang bersedih.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218338-18",
+        "type": "true_false",
+        "question": "Dalam menyusun laporan pengamatan, bagian pendahuluan biasanya berisi latar belakang, tujuan, serta waktu dan tempat pengamatan dilakukan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Secara sistematika, laporan pengamatan diawali dengan bagian pendahuluan yang memuat latar belakang, tujuan, serta waktu dan tempat pelaksanaan pengamatan tersebut.",
+        "hint": "Pikirkan bagian awal dari sebuah laporan penelitian atau pengamatan lapangan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790829218338-19",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan kalimat fakta?",
+        "options": [
+          "Indonesia memiliki dua musim, yaitu musim hujan dan musim kemarau",
+          "Rasanya makanan tradisional di desa itu sangat lezat dan menggugah selera",
+          "Sepertinya besok sore akan turun hujan deras di kawasan puncak",
+          "Menurutku, pelajaran Bahasa Indonesia adalah pelajaran yang paling menyenangkan"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Indonesia memiliki dua musim, yaitu musim hujan dan musim kemarau"
+        ],
+        "correctAnswer": "Indonesia memiliki dua musim, yaitu musim hujan dan musim kemarau",
+        "explanation": "Kalimat tentang iklim Indonesia yang memiliki dua musim adalah kenyataan geografis yang tidak terbantahkan (fakta). Pilihan lainnya adalah pendapat atau perkiraan subjektif.",
+        "hint": "Cari pernyataan yang kebenarannya diakui secara ilmiah dan objektif oleh semua orang.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 6 SD",
+        "difficulty": "Sedang"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "1/10/2026"
+  },
+  {
+    "id": "custom-quiz-1791109619087",
+    "title": "Kuis Bahasa Indonesia Kelas 5 SD: Imbuhan, Teks Prosedur, dan Surat Pribadi",
+    "description": "Uji kemampuan literasi bahasa Indonesia kelas 5 SD dengan tingkat kesulitan tantangan yang mencakup imbuhan me-, akhiran -kan dan -lah, struktur teks prosedur, serta unsur surat pribadi.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Tantangan",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1791109055818-0",
+        "type": "multiple_choice",
+        "question": "Kata dasar 'tulis' jika mendapat imbuhan me- dan akhiran -kan menjadi 'menuliskan'. Apa arti gramatikal dari imbuhan gabung me-...-kan pada kata tersebut?",
+        "options": [
+          "Melakukan sesuatu pekerjaan atau kegiatan",
+          "Menjadi seperti tulis",
+          "Dalam keadaan menulis",
+          "Saling tulis-menulis"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Melakukan sesuatu untuk orang lain"
+        ],
+        "correctAnswer": "Melakukan sesuatu pekerjaan atau kegiatan",
+        "explanation": "Imbuhan gabung me-...-kan seringkali memiliki makna melakukan suatu perbuatan untuk orang lain, contohnya menuliskan (menulis untuk orang lain).",
+        "hint": "Perhatikan fungsi objek yang menerima manfaat dari tindakan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055818-1",
+        "type": "true_false",
+        "question": "Partikel -lah dalam kalimat perintah berfungsi untuk memperhalus atau menegaskan makna perintah tersebut agar tidak terdengar terlalu kasar.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Penambahan partikel -lah pada kalimat perintah (imperatif) memang berfungsi untuk memberikan penegasan sekaligus memperhalus nada bicara agar lebih sopan.",
+        "hint": "Pikirkan efek penggunaan kata 'tolong ambilkan buku itu-lah' atau 'bacalah' dalam percakapan sehari-hari.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055818-2",
+        "type": "fill_blank",
+        "question": "Bagian awal dalam struktur teks prosedur yang berisi tujuan atau pengantar mengenai apa yang akan dibuat atau dilakukan disebut _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Pernyataan Tujuan",
+          "Pengantar",
+          "Judul Teks Prosedur"
+        ],
+        "correctAnswer": "Tujuan",
+        "explanation": "Teks prosedur selalu diawali dengan bagian tujuan yang biasanya berupa judul atau paragraf pengantar mengenai hasil akhir yang akan dicapai.",
+        "hint": "Biasanya terletak di bagian paling atas sebelum alat dan bahan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-3",
+        "type": "matching",
+        "question": "Jodohkan bagian-bagian penting dalam surat pribadi di bawah ini dengan penjelasannya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan unsur-unsur surat pribadi dengan fungsinya."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Tempat dan tanggal surat",
+            "right": "Ditulis di pojok kanan atas tanpa titik"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Salam pembuka",
+            "right": "Bersifat akrab seperti 'Halo, sahabatku'"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Salam penutup",
+            "right": "Ungkapan keakraban di akhir surat"
+          }
+        ],
+        "correctAnswer": "Menjodohkan unsur-unsur surat pribadi dengan fungsinya.",
+        "explanation": "Surat pribadi memiliki unsur khas seperti tempat dan tanggal pembuatan, salam pembuka yang akrab, isi surat, dan salam penutup.",
+        "hint": "Perhatikan format penulisan surat kepada teman atau keluarga.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-4",
+        "type": "multiple_choice",
+        "question": "Manakah kalimat di bawah ini yang menggunakan imbuhan me- secara tepat sesuai kaidah peluluhan bunyi (K, T, P, S)?",
+        "options": [
+          "Ibu menyapu halaman rumah setiap pagi.",
+          "Ayah mentulis surat di ruang kerja.",
+          "Kakak mepilih baju warna biru.",
+          "Kucing mekap ikan asin di meja."
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu menyapu halaman rumah setiap pagi."
+        ],
+        "correctAnswer": "Ibu menyapu halaman rumah setiap pagi.",
+        "explanation": "Kata dasar 'sapu' diawali huruf S. Ketika mendapat imbuhan me-, huruf S luluh menjadi 'menyapu'. Pilihan lain salah karena tidak meluluhkan huruf pertama.",
+        "hint": "Ingat rumus K, T, P, S yang luluh jika bertemu awalan me-.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-5",
+        "type": "true_false",
+        "question": "Dalam menulis surat pribadi, bahasa yang digunakan harus selalu baku, resmi, dan menggunakan ragam bahasa instansi pemerintahan.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Surat pribadi ditujukan untuk orang terdekat seperti teman atau keluarga, sehingga menggunakan ragam bahasa santai, tidak baku, dan akrab.",
+        "hint": "Bandingkan bahasa surat pribadi dengan surat resmi sekolah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-6",
+        "type": "fill_blank",
+        "question": "Bagian tengah dalam teks prosedur yang memuat daftar benda, bahan, atau komponen yang diperlukan dinamakan bagian _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Alat dan Bahan",
+          "Bahan",
+          "Peralatan"
+        ],
+        "correctAnswer": "Material atau alat dan bahan",
+        "explanation": "Setelah bagian tujuan, teks prosedur umumnya menyajikan daftar bahan atau alat (material) yang dibutuhkan untuk menyelesaikan suatu pembuatan.",
+        "hint": "Sinonim dari bahan-bahan atau alat-alat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-7",
+        "type": "matching",
+        "question": "Jodohkan kata dasar berawalan me- berikut dengan bentuk kata jadian yang benar setelah mengalami peluluhan atau perubahan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan kata dasar dan kata berimbuhan me-."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "tulis + me-",
+            "right": "menulis"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "pilih + me-",
+            "right": "memilih"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "kupas + me-",
+            "right": "mengupas"
+          }
+        ],
+        "correctAnswer": "Menjodohkan kata dasar dan kata berimbuhan me-.",
+        "explanation": "Pemahaman kaidah peluluhan bunyi sangat penting dalam menulis bahasa Indonesia yang baik dan benar.",
+        "hint": "Perhatikan huruf awal kata dasar seperti k, t, p, s.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-8",
+        "type": "multiple_choice",
+        "question": "Bagian akhir dari sebuah teks prosedur yang berisi penegasan ulang atau kesimpulan disebut...",
+        "options": [
+          "Penutup",
+          "Abstrak",
+          "Koda",
+          "Orientasi"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Penutup"
+        ],
+        "correctAnswer": "Penutup",
+        "explanation": "Struktur teks prosedur terdiri atas: Tujuan, Material/Alat dan Bahan, Langkah-langkah, dan Penutup.",
+        "hint": "Bagian yang terletak di paling bawah teks prosedur.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-9",
+        "type": "true_false",
+        "question": "Kata dasar yang berawalan huruf \"k\" akan luluh atau melebur jika ditambahkan imbuhan \"me-\".",
+        "options": [],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "kata dasar berawalan K,T, S, P akan luluh atau melebur jika ditambah imbuhan \"me-\"",
+        "hint": "Perhatikan huruf awal kata dasar ",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-10",
+        "type": "multiple_choice",
+        "question": "Kata dasar 'tulis' jika mendapat awalan me- dan akhiran -kan akan menjadi kata kerja yang bermakna...",
+        "options": [
+          "membuat menjadi ditulis",
+          "melakukan penulisan untuk orang lain",
+          "mulai menulis sendiri",
+          "menjadi bahan tulisan"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "melakukan penulisan untuk orang lain"
+        ],
+        "correctAnswer": "melakukan penulisan untuk orang lain",
+        "explanation": "Awalan me- dan akhiran -kan pada kata dasar membentuk makna melakukan pekerjaan untuk atau demi orang lain.",
+        "hint": "Perhatikan fungsi gabungan imbuhan me-kan dalam kalimat aktif.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-11",
+        "type": "true_false",
+        "question": "Partikel -lah dalam kalimat perintah berfungsi untuk memperhalus dan menegaskan makna perintah tersebut agar tidak terdengar terlalu kasar.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Penggunaan partikel -lah pada akhir kata kerja dalam kalimat perintah bertujuan untuk memberikan penegasan sekaligus memperhalus intonasi perintah.",
+        "hint": "Renungkan fungsi partikel -lah saat seseorang meminta tolong secara sopan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-12",
+        "type": "fill_blank",
+        "question": "Bagian dalam teks prosedur yang berisi daftar perlengkapan yang dibutuhkan disebut dengan bagian _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "bahan",
+          "peralatan",
+          "alat dan bahan"
+        ],
+        "correctAnswer": "alat dan bahan",
+        "explanation": "Dalam struktur teks prosedur, bagian material berisi rincian bahan dan alat yang diperlukan untuk melakukan langkah-langkah berikutnya.",
+        "hint": "Sering juga disebut bahan-bahan atau alat-alat.",
+        "anagramWord": "material",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-13",
+        "type": "matching",
+        "question": "Jodohkan istilah struktur surat pribadi dengan ciri-cirinya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan pasangan struktur surat pribadi"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-13-0",
+            "left": "Salam pembuka",
+            "right": "Contoh: Salam rindu atau Halo sahabatku"
+          },
+          {
+            "id": "mp-13-1",
+            "left": "Tempat dan tanggal surat",
+            "right": "Ditulis di sudut kanan atas surat"
+          },
+          {
+            "id": "mp-13-2",
+            "left": "Salam penutup",
+            "right": "Contoh: Sahabatmu tercinta"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan pasangan struktur surat pribadi",
+        "explanation": "Surat pribadi memiliki bagian khusus seperti alamat, tanggal, salam pembuka, isi, dan salam penutup yang bersifat akrab.",
+        "hint": "Perhatikan letak dan fungsi bagian-bagian surat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-14",
+        "type": "multiple_choice",
+        "question": "Manakah kalimat di bawah ini yang menggunakan imbuhan me-kan secara tepat dan bermakna 'menyebabkan jadi'?",
+        "options": [
+          "Adik mengambilkan buku di atas meja untuk kakak.",
+          "Ayah membacakan koran pagi untuk kakek di teras.",
+          "Ibu memanaskan air di dalam panci hingga mendidih.",
+          "Petani menanamkan padi di sawah bersama warga."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu memanaskan air di dalam panci hingga mendidih."
+        ],
+        "correctAnswer": "Ibu memanaskan air di dalam panci hingga mendidih.",
+        "explanation": "Kata 'memanaskan' berasal dari kata panas + me-kan, yang berarti menyebabkan sesuatu menjadi panas.",
+        "hint": "Cari kata berimbuhan me-kan yang mengubah suatu keadaan benda.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-15",
+        "type": "true_false",
+        "question": "Teks prosedur kompleks tidak memerlukan urutan langkah-langkah yang sistematis, asalkan semua tujuannya tercapai.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Teks prosedur wajib disusun secara urut dan sistematis karena langkah yang terlewat atau terbalik dapat menggagalkan hasil akhir.",
+        "hint": "Pikirkan apa yang terjadi jika memasak mi instan dengan mendahulukan makan daripada merebus.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-16",
+        "type": "fill_blank",
+        "question": "Kata 'sapu' jika diberi imbuhan me- akan berubah menjadi kata _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menyapu"
+        ],
+        "correctAnswer": "menyapu",
+        "explanation": "Huruf pertama kata dasar 'sapu' (yaitu s) melebur saat mendapatkan awalan me-, sehingga menjadi 'menyapu'.",
+        "hint": "Ingat aturan peluruhan huruf k, t, s, p.",
+        "anagramWord": "menyapu",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-17",
+        "type": "matching",
+        "question": "Jodohkan kata dasar berikut dengan bentuk yang benar setelah mendapat imbuhan me-.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Sesuai dengan kaidah peluruhan huruf awal kata"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-17-0",
+            "left": "Tulis",
+            "right": "Menulis"
+          },
+          {
+            "id": "mp-17-1",
+            "left": "Pilih",
+            "right": "Memilih"
+          },
+          {
+            "id": "mp-17-2",
+            "left": "Kupas",
+            "right": "Mengupas"
+          }
+        ],
+        "correctAnswer": "Sesuai dengan kaidah peluruhan huruf awal kata",
+        "explanation": "Awalan me- mengalami peluruhan menjadi men-, meny-, mem-, atau meng- tergantung huruf awal kata dasarnya.",
+        "hint": "Perhatikan huruf pertama dari kata dasar yang dilebur.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-18",
+        "type": "multiple_choice",
+        "question": "Perbedaan utama antara surat pribadi dan surat resmi terletak pada...",
+        "options": [
+          "Jumlah kertas yang digunakan untuk menulis",
+          "Bahasa yang digunakan dan bentuk format penulisannya",
+          "Waktu pengiriman surat melalui kantor pos",
+          "Ada atau tidaknya alamat penerima surat"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Bahasa yang digunakan dan bentuk format penulisannya"
+        ],
+        "correctAnswer": "Bahasa yang digunakan dan bentuk format penulisannya",
+        "explanation": "Surat pribadi menggunakan bahasa sehari-hari yang santai, sedangkan surat resmi menggunakan bahasa baku dan format resmi.",
+        "hint": "Pikirkan kepada siapa surat itu biasanya dikirimkan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-19",
+        "type": "true_false",
+        "question": "Bagian penutup pada teks prosedur umumnya berisi kesimpulan atau ucapan selamat mencoba kepada pembaca.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Teks prosedur yang baik ditutup dengan kalimat penutup yang menegaskan keberhasilan atau ucapan selamat mencoba.",
+        "hint": "Biasanya kalimat terakhir berbunyi 'Selamat mencoba resep ini'.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-20",
+        "type": "multiple_choice",
+        "question": "Kalimat manakah yang penggunaan imbuhan me- mengalami lapalisasi (luluh) secara tepat pada huruf awal kata dasarnya?",
+        "options": [
+          "Ayah memproduksi kerajinan tangan dari bambu.",
+          "Kakak mensyaratkan nilai tinggi untuk hadiah itu.",
+          "Ibu menyapu halaman rumah setiap pagi menggunakan sapu ijuk.",
+          "Polisi memperiksa pengendara yang tidak memakai helm."
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Ibu menyapu halaman rumah setiap pagi menggunakan sapu ijuk."
+        ],
+        "correctAnswer": "Ibu menyapu halaman rumah setiap pagi menggunakan sapu ijuk.",
+        "explanation": "Kata dasar 'sapu' diawali huruf 's'. Ketika mendapat imbuhan me-, huruf 's' luluh menjadi 'menyapu'. Pilihan lain kurang tepat karena peluluhan tidak terjadi semestinya (misal: me- + protes -> memprotes, tidak luluh karena awalan klaster pr-).",
+        "hint": "Perhatikan huruf awal kata dasar setelah awalan me-. Huruf k, t, s, p biasanya luluh kecuali berupa gabungan konsonan (klaster).",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-21",
+        "type": "true_false",
+        "question": "Dalam sebuah teks prosedur membuat kerajinan, bagian yang memuat daftar bahan dan alat bersifat opsional dan boleh dihilangkan.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Pernyataan tersebut Salah karena daftar bahan dan alat merupakan bagian struktur yang sangat penting dalam teks prosedur pembuatan sesuatu agar pembaca dapat menyiapkan keperluan sebelum mulai merakit atau memasak.",
+        "hint": "Pikirkan apakah mungkin membuat sesuatu dari teks prosedur tanpa mengetahui bahan apa saja yang harus disiapkan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-22",
+        "type": "fill_blank",
+        "question": "Bagian awal pada surat pribadi yang biasanya berisi di mana dan kapan penulisan surat disebut _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Kepala surat",
+          "Tempat dan tanggal surat",
+          "Tanggal pembuatan surat"
+        ],
+        "correctAnswer": "tempat dan tanggal surat",
+        "explanation": "Tanggal surat atau tempat dan tanggal penulisan surat adalah bagian awal yang krusial dalam surat pribadi agar penerima tahu kapan dan dari mana surat tersebut dikirimkan.",
+        "hint": "Letaknya berada di pojok kanan atas atau kiri atas sebelum salam pembuka.",
+        "anagramWord": "tanggalsurat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-23",
+        "type": "matching",
+        "question": "Jodohkan bentuk penggabungan akhiran -kan atau -lah dengan fungsi maknanya dalam kalimat perintah atau perbuatan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan fungsi imbuhan -kan dan -lah dengan tepat"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-23-0",
+            "left": "Ambilkan",
+            "right": "Melakukan pekerjaan untuk orang lain"
+          },
+          {
+            "id": "mp-23-1",
+            "left": "Bacalah",
+            "right": "Menegaskan perintah dengan sopan"
+          },
+          {
+            "id": "mp-23-2",
+            "left": "Bersihkan",
+            "right": "Membuat suatu objek menjadi bersih"
+          }
+        ],
+        "correctAnswer": "Menjodohkan fungsi imbuhan -kan dan -lah dengan tepat",
+        "explanation": "Akhiran -kan sering berfungsi sebagai kausatif (membuat jadi) atau benefaktif (untuk orang lain), sedangkan akhiran -lah berfungsi untuk memperhalus atau menegaskan penekanan kalimat perintah.",
+        "hint": "Perhatikan makna penambahan akhiran di akhir kata dasar.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      },
+      {
+        "id": "ai-q-1791109055819-24",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Tolong ambil_____ buku cerita itu di atas meja.' Kata partikel yang tepat untuk melengkapi kalimat perintah tersebut adalah...",
+        "options": [
+          "kan",
+          "lah",
+          "pun",
+          "kah"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "lah"
+        ],
+        "correctAnswer": "kan",
+        "explanation": "Partikel '-lah' digunakan untuk memperhalus penekanan pada kalimat perintah atau permohonan. 'Ambillah' menjadi bentuk kata berpartikel yang tepat dalam konteks ini.",
+        "hint": "Partikel penegas atau penghalus perintah yang dilekatkan pada kata kerja di awal kalimat.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Tantangan"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "4/10/2026"
+  },
+  {
+    "id": "custom-quiz-1790828816273",
+    "title": "Kuis Bahasa Indonesia Kelas 5 SD: Teks Prosedur, Surat Pribadi, dan Kaidah Kebahasaan",
+    "description": "Latihan soal interaktif untuk menguji pemahaman peserta didik tentang penulisan teks prosedur, surat pribadi, serta penggunaan imbuhan me-, -lah, dan -kan.",
+    "category": "Bahasa Indonesia",
+    "grade": "SD",
+    "targetClass": "Kelas 5 SD",
+    "difficulty": "Sedang",
+    "icon": "BookOpen",
+    "color": "from-indigo-600 to-sky-700",
+    "questions": [
+      {
+        "id": "ai-q-1790828770409-0",
+        "type": "multiple_choice",
+        "question": "Bagian awal dalam sebuah teks prosedur sebelum masuk ke langkah-langkah pembuatan adalah...",
+        "options": [
+          "Kesimpulan dan penutup",
+          "Tujuan atau pengantar alat dan bahan",
+          "Kesan dan pesan pembuat",
+          "Tanda tangan penulis"
+        ],
+        "correctIndex": 1,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tujuan atau pengantar alat dan bahan"
+        ],
+        "correctAnswer": "Tujuan atau pengantar alat dan bahan",
+        "explanation": "Teks prosedur yang baik selalu diawali dengan judul dan bagian pengantar berupa tujuan pembuatan serta daftar alat dan bahan yang dibutuhkan.",
+        "hint": "Cari bagian yang menjelaskan apa yang akan dibuat serta bahan apa saja yang disiapkan.",
+        "anagramWord": "Tujuan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770409-1",
+        "type": "true_false",
+        "question": "Imbuhan awalan 'me-' jika bertemu dengan kata dasar yang diawali huruf 'p' (seperti kata 'pilih'), maka huruf 'p' tersebut akan luluh menjadi 'm'.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Aturan kaidah kebahasaan menyatakan bahwa awalan me- jika bertemu dengan kata dasar berhuruf awal p, t, k, dan s akan mengalami peluluhan, contohnya me- + pilih menjadi memilih.",
+        "hint": "Ingat kembali kaidah peluluhan huruf p, t, k, s pada awalan me-.",
+        "anagramWord": "Peluluhan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770409-2",
+        "type": "fill_blank",
+        "question": "Penulisan kata sapaan atau salam pembuka pada surat pribadi biasanya diikuti dengan tanda baca _____ di akhir sapaannya.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "koma",
+          "tanda koma"
+        ],
+        "correctAnswer": "koma",
+        "explanation": "Dalam menulis surat pribadi, setelah menuliskan salam pembuka (misalnya: Halo, Siti,) selalu diakhiri dengan tanda baca koma.",
+        "hint": "Tanda baca ini digunakan untuk perincian atau setelah kata sapaan di awal surat.",
+        "anagramWord": "Koma",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770409-3",
+        "type": "matching",
+        "question": "Jodohkan jenis imbuhan berikut dengan contoh penggunaannya yang tepat dalam kalimat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan imbuhan dengan contoh kata"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-3-0",
+            "left": "Awalan me-",
+            "right": "Menulis surat"
+          },
+          {
+            "id": "mp-3-1",
+            "left": "Akhiran -lah",
+            "right": "Bacalah buku"
+          },
+          {
+            "id": "mp-3-2",
+            "left": "Akhiran -kan",
+            "right": "Ambilkan pensil"
+          }
+        ],
+        "correctAnswer": "Menjodohkan imbuhan dengan contoh kata",
+        "explanation": "Awalan me- membentuk kata kerja aktif, akhiran -lah berfungsi untuk memperhalus perintah, dan akhiran -kan berfungsi membentuk kata kerja imperatif.",
+        "hint": "Perhatikan fungsi akhiran dan awalan pada setiap kata.",
+        "anagramWord": "Imbuhan",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770409-4",
+        "type": "multiple_choice",
+        "question": "Manakah di bawah ini yang merupakan kalimat berisi teks prosedur membuat suatu karya?",
+        "options": [
+          "Kemarin aku pergi ke rumah bibi di desa.",
+          "Wah, pemandangan di pantai ini sangat indah sekali!",
+          "Potonglah kertas origami menjadi dua bagian yang sama besar.",
+          "Mengapa kamu menangis di pojok ruangan?"
+        ],
+        "correctIndex": 2,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Potonglah kertas origami menjadi dua bagian yang sama besar."
+        ],
+        "correctAnswer": "Potonglah kertas origami menjadi dua bagian yang sama besar.",
+        "explanation": "Kalimat pada teks prosedur harus bersifat perintah atau instruksi yang runtut untuk melakukan sesuatu, seperti memotong kertas.",
+        "hint": "Pilih kalimat yang memberikan instruksi pembuatan.",
+        "anagramWord": "Prosedur",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770409-5",
+        "type": "true_false",
+        "question": "Surat pribadi adalah jenis surat yang bahasanya harus selalu menggunakan ragam resmi, baku, dan kaku seperti surat dinas.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Surat pribadi bersifat santai, akrab, dan menggunakan bahasa sehari-hari yang komunikatif karena biasanya dikirimkan kepada teman atau keluarga.",
+        "hint": "Perhatikan perbedaan antara surat resmi dan surat pribadi.",
+        "anagramWord": "Surat",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770409-6",
+        "type": "fill_blank",
+        "question": "Langkah-langkah dalam teks prosedur harus disusun secara runtut dan _____ agar mudah dipahami oleh pembaca.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "sistematis",
+          "logis",
+          "berurutan"
+        ],
+        "correctAnswer": "sistematis",
+        "explanation": "Runtut berarti berurutan dengan baik, sedangkan sistematis berarti tersusun secara teratur dan logis.",
+        "hint": "Sinonim dari teratur dan berurutan dengan baik.",
+        "anagramWord": "Sistematis",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-7",
+        "type": "matching",
+        "question": "Jodohkan bagian dari struktur surat pribadi dengan penjelasannya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menjodohkan struktur surat pribadi"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-7-0",
+            "left": "Tempat dan tanggal surat",
+            "right": "Menunjukkan kapan dan di mana surat ditulis"
+          },
+          {
+            "id": "mp-7-1",
+            "left": "Salam pembuka",
+            "right": "Sapaan akrab untuk mengawali surat"
+          },
+          {
+            "id": "mp-7-2",
+            "left": "Penutup surat",
+            "right": "Bagian akhir untuk menyampaikan salam perpisahan"
+          }
+        ],
+        "correctAnswer": "Menjodohkan struktur surat pribadi",
+        "explanation": "Setiap bagian surat pribadi memiliki fungsi masing-masing, mulai dari tempat tanggal surat hingga bagian penutup.",
+        "hint": "Ingat kembali unsur-unsur dalam menulis surat pribadi.",
+        "anagramWord": "Struktur",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-8",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: 'Ibu me... mangga di halaman rumah.' Kata dasar 'petik' yang tepat jika diberi awalan me- adalah...",
+        "options": [
+          "memetik",
+          "mepetik",
+          "mengetik",
+          "mempetik"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "memetik"
+        ],
+        "correctAnswer": "memetik",
+        "explanation": "Kata dasar 'petik' berhuruf awal 'p'. Ketika mendapat awalan me-, huruf 'p' luluh menjadi 'm', sehingga kata yang terbentuk adalah 'memetik'.",
+        "hint": "Ingat aturan peluluhan huruf p pada awalan me-.",
+        "anagramWord": "Memetik",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-9",
+        "type": "true_false",
+        "question": "Penambahan akhiran '-kan' pada kalimat 'Tolong ambilkan buku itu' berfungsi untuk menyatakan permintaan tolong melakukan sesuatu untuk orang lain.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Akhiran -kan pada kalimat perintah sering digunakan untuk meminta seseorang melakukan perbuatan demi kepentingan orang lain.",
+        "hint": "Perhatikan fungsi akhiran -kan dalam kalimat perintah.",
+        "anagramWord": "Akhiran",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-10",
+        "type": "multiple_choice",
+        "question": "Bagian awal yang biasanya terletak di sebelah kanan atas dalam sebuah surat pribadi adalah...",
+        "options": [
+          "Salam pembuka",
+          "Tanggal dan tempat surat dibuat",
+          "Penutup surat",
+          "Nama pengirim"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tanggal dan tempat surat dibuat"
+        ],
+        "correctAnswer": "Tanggal dan tempat surat dibuat",
+        "explanation": "Dalam menulis surat pribadi, tempat dan tanggal pembuatan surat dicantumkan di bagian pojok kanan atas sebelum salam pembuka.",
+        "hint": "Ingat kembali unsur-unsur pembangun surat pribadi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-11",
+        "type": "multiple_choice",
+        "question": "Tanggal dan tempat surat dibuat",
+        "options": [
+          "Opsi A",
+          "Opsi B",
+          "Opsi C",
+          "Opsi D"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tanggal dan tempat surat dibuat"
+        ],
+        "correctAnswer": "Tanggal dan tempat surat dibuat",
+        "explanation": "Bagian kanan atas pada surat pribadi diisi dengan informasi tempat dan waktu penulisan surat tersebut.",
+        "hint": "Perhatikan format penulisan surat pribadi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-12",
+        "type": "true_false",
+        "question": "Akhiran -lah pada kalimat perintah berfungsi untuk memperhalus atau menegaskan makna perintah tersebut agar terdengar lebih sopan.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Benar"
+        ],
+        "correctAnswer": "Benar",
+        "explanation": "Penambahan akhiran -lah pada kata dasar (contohnya: bacalah, ambillah) berfungsi sebagai penegas sekaligus penghalus kalimat perintah.",
+        "hint": "Pikirkan fungsi imbuhan -lah pada kalimat imperatif.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-13",
+        "type": "fill_blank",
+        "question": "Kata dasar 'sapu' jika diberi awalan me- dan mengalami peluluran huruf pertama akan menjadi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Menyapu",
+          "menyapu"
+        ],
+        "correctAnswer": "menyapu",
+        "explanation": "Awalan me- bertemu dengan huruf awal 's' akan luluh menjadi 'menyapu'.",
+        "hint": "Huruf pertama 's' luluh jika mendapat awalan me-.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-14",
+        "type": "matching",
+        "question": "Jodohkan istilah kebahasaan dan struktur teks berikut dengan penjelasannya yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Berbagai pasangan konsep kebahasaan dan teks prosedur."
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-14-0",
+            "left": "Tujuan Prosedur",
+            "right": "Hasil akhir yang akan dicapai dalam pembuatan karya"
+          },
+          {
+            "id": "mp-14-1",
+            "left": "Akhiran -kan",
+            "right": "Berfungsi membentuk kata kerja perintah (imperatif)"
+          },
+          {
+            "id": "mp-14-2",
+            "left": "Surat Pribadi",
+            "right": "Bersifat tidak resmi dan ditujukan kepada teman atau keluarga"
+          }
+        ],
+        "correctAnswer": "Berbagai pasangan konsep kebahasaan dan teks prosedur.",
+        "explanation": "Mengenal fungsi teks prosedur dan kaidah kebahasaannya membantu kita menulis dengan lebih terarah.",
+        "hint": "Cocokkan antara istilah di sebelah kiri dengan arti di sebelah kanan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-15",
+        "type": "multiple_choice",
+        "question": "Dalam menulis teks prosedur membuat hiasan dinding dari kertas, kalimat langkah-langkah yang paling tepat adalah...",
+        "options": [
+          "Hiasan dinding ini sangat indah dipandang mata.",
+          "Guntinglah kertas lipat sesuai pola yang telah digambar.",
+          "Mengapa kita harus membuat hiasan dinding dari kertas?",
+          "Wah, hebat sekali hasil karya kerajinan tanganmu!"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Guntinglah kertas lipat sesuai pola yang telah digambar."
+        ],
+        "correctAnswer": "Guntinglah kertas lipat sesuai pola yang telah digambar.",
+        "explanation": "Teks prosedur harus menggunakan kalimat perintah yang jelas dan runtut, biasanya menggunakan akhiran -lah atau -kan.",
+        "hint": "Cari kalimat yang berisi instruksi atau perintah kerja.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-16",
+        "type": "multiple_choice",
+        "question": "Guntinglah kertas lipat sesuai pola yang telah digambar.",
+        "options": [
+          "Opsi A",
+          "Opsi B",
+          "Opsi C",
+          "Opsi D"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Guntinglah kertas lipat sesuai pola yang telah digambar."
+        ],
+        "correctAnswer": "Guntinglah kertas lipat sesuai pola yang telah digambar.",
+        "explanation": "Pilihan ini adalah bentuk kalimat instruksi yang sesuai untuk teks prosedur.",
+        "hint": "Pilihlah kalimat perintah.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-17",
+        "type": "true_false",
+        "question": "Awalan me- pada kata 'tulis' akan berubah menjadi 'menulis' tanpa mengalami perubahan atau peluluran huruf 't'.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Huruf awal 't' pada kata 'tulis' luluh ketika mendapat awalan me- sehingga berubah menjadi 'menulis' (huruf t hilang digantikan ny/m/dll sesuai kaidah, khusus t menjadi n).",
+        "hint": "Perhatikan apakah huruf pertama luluh atau tetap.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-18",
+        "type": "fill_blank",
+        "question": "Bagian penutup dalam surat pribadi biasanya diisi dengan salam penutup dan nama _____ surat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "pengirim",
+          "pembuat"
+        ],
+        "correctAnswer": "pengirim",
+        "explanation": "Di akhir surat pribadi, selalu dicantumkan salam penutup diikuti tanda tangan dan nama pengirim.",
+        "hint": "Orang yang menulis surat disebut sebagai...",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-19",
+        "type": "multiple_choice",
+        "question": "Manakah kalimat di bawah ini yang menggunakan akhiran -kan dengan tepat?",
+        "options": [
+          "Ibu memasak di dapur kan?",
+          "Tolong ambilkan buku cerita itu di atas meja!",
+          "Mereka berjalan-kan kaki ke sekolah.",
+          "Adik menangis-kan mainannya yang rusak."
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tolong ambilkan buku cerita itu di atas meja!"
+        ],
+        "correctAnswer": "Tolong ambilkan buku cerita itu di atas meja!",
+        "explanation": "Akhiran -kan pada 'ambilkan' berfungsi menyatakan makna 'untuk orang lain' atau perintah melakukan sesuatu.",
+        "hint": "Cari kalimat yang menggunakan kata kerja berakhiran -kan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-20",
+        "type": "multiple_choice",
+        "question": "Tolong ambilkan buku cerita itu di atas meja!",
+        "options": [
+          "Opsi A",
+          "Opsi B",
+          "Opsi C",
+          "Opsi D"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tolong ambilkan buku cerita itu di atas meja!"
+        ],
+        "correctAnswer": "Tolong ambilkan buku cerita itu di atas meja!",
+        "explanation": "Kata 'ambilkan' tepat digunakan untuk meminta tolong kepada orang lain.",
+        "hint": "Perhatikan kata yang berakhiran -kan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-21",
+        "type": "true_false",
+        "question": "Surat pribadi menggunakan bahasa yang baku, resmi, dan sangat kaku seperti surat dinas.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Surat pribadi menggunakan ragam bahasa yang santai, akrab, dan tidak terlalu formal karena ditujukan kepada orang terdekat.",
+        "hint": "Pikirkan kepada siapa surat pribadi itu dikirimkan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-22",
+        "type": "fill_blank",
+        "question": "Langkah-langkah pembuatan dalam teks prosedur harus disusun secara _____ agar pembaca tidak bingung.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "sistematis",
+          "runtut",
+          "berurutan"
+        ],
+        "correctAnswer": "runtut",
+        "explanation": "Sifat utama teks prosedur adalah runtut atau berurutan dari awal sampai karya selesai dibuat.",
+        "hint": "Artinya teratur dan berurutan dari langkah pertama hingga akhir.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-23",
+        "type": "multiple_choice",
+        "question": "Bagian awal dalam sebuah teks prosedur membuat karya kerajinan tangan biasanya berisi tentang...",
+        "options": [
+          "Langkah-langkah terperinci pembuatan karya",
+          "Tujuan atau pengantar tentang karya yang akan dibuat",
+          "Daftar alat dan bahan yang harus dibeli",
+          "Penutup dan ucapan terima kasih kepada pembaca"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Tujuan atau pengantar tentang karya yang akan dibuat"
+        ],
+        "correctAnswer": "Tujuan atau pengantar tentang karya yang akan dibuat",
+        "explanation": "Teks prosedur selalu diawali dengan bagian tujuan yang menjelaskan apa yang akan dibuat atau dilakukan agar pembaca memahami hasil akhirnya.",
+        "hint": "Perhatikan fungsi awal dari sebuah teks panduan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-24",
+        "type": "true_false",
+        "question": "Dalam penulisan surat pribadi kepada teman sebaya, bahasa yang digunakan harus selalu menggunakan ragam resmi dan baku seperti surat dinas.",
+        "correctIndex": 0,
+        "isTrue": false,
+        "acceptableAnswers": [
+          "Salah"
+        ],
+        "correctAnswer": "Salah",
+        "explanation": "Surat pribadi ditujukan kepada orang terdekat seperti teman atau keluarga, sehingga bahasa yang digunakan lebih santai, akrab, dan tidak harus baku.",
+        "hint": "Ingat kembali perbedaan antara surat pribadi dan surat resmi instansi.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-25",
+        "type": "fill_blank",
+        "question": "Kata dasar 'sapu' jika diberi imbuhan awalan me- dan mengalami peluruhan huruf pertama menjadi _____.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "menyapu",
+          "Menyapu"
+        ],
+        "correctAnswer": "menyapu",
+        "explanation": "Huruf awal 's' pada kata dasar 'sapu' luluh ketika mendapat awalan me- menjadi 'menyapu'.",
+        "hint": "Perhatikan aturan peluruhan huruf s, p, t, k.",
+        "anagramWord": "menyapu",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-26",
+        "type": "matching",
+        "question": "Jodohkan kaidah kebahasaan dan struktur teks prosedur berikut dengan penjelasan yang tepat.",
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "Disesuaikan dengan pasangan konsep masing-masing"
+        ],
+        "matchingPairs": [
+          {
+            "id": "mp-26-0",
+            "left": "Akhiran -kan",
+            "right": "Berfungsi membentuk kata kerja perintah (imperatif)"
+          },
+          {
+            "id": "mp-26-1",
+            "left": "Alat dan Bahan",
+            "right": "Bagian rincian materi yang diperlukan dalam teks prosedur"
+          },
+          {
+            "id": "mp-26-2",
+            "left": "Surat Pribadi",
+            "right": "Bentuk tanggapan atau komunikasi tertulis antarindividu"
+          }
+        ],
+        "correctAnswer": "Disesuaikan dengan pasangan konsep masing-masing",
+        "explanation": "Akhiran -kan berfungsi membuat kalimat perintah atau permohonan, sedangkan bagian alat dan bahan memuat rincian kebutuhan karya.",
+        "hint": "Pahami fungsi akhiran kata kerja dan bagian struktur teks.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      },
+      {
+        "id": "ai-q-1790828770410-27",
+        "type": "multiple_choice",
+        "question": "Perhatikan kalimat berikut: \"Tolong ambil____ buku itu di atas meja!\" Akhiran yang tepat untuk melengkapi kata kerja di dalam kalimat perintah tersebut adalah...",
+        "options": [
+          "-lah",
+          "-kan",
+          "me-",
+          "ber-"
+        ],
+        "correctIndex": 0,
+        "isTrue": true,
+        "acceptableAnswers": [
+          "-kan"
+        ],
+        "correctAnswer": "-kan",
+        "explanation": "Akhiran -kan digunakan pada kata dasar ambil untuk membentuk kalimat perintah (ambillah atau ambilkan). Namun dalam konteks memberi bantuan, akhiran -kan lebih tepat.",
+        "hint": "Pilih akhiran yang sesuai untuk kalimat permohonan.",
+        "anagramWord": "KUIS",
+        "subject": "Bahasa Indonesia",
+        "grade": "SD",
+        "targetClass": "Kelas 5 SD",
+        "difficulty": "Sedang"
+      }
+    ],
+    "playCount": 1,
+    "isCustom": true,
+    "createdAt": "1/10/2026"
+  }
+];
