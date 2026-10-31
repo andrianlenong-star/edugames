@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Halaman Beranda Utama -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Bank Soal Pembelajaran Terlengkap -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?tab=bank-soal</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Pembuat Kuis & Soal Edukasi Interaktif -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?tab=creator</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Dashboard Guru & Manajemen Soal -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?tab=admin</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Mode Permainan Kuis Kilat -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?game=kuis-kilat</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Mode Permainan Labirin Kata -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?game=labirin-kata</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Mode Permainan Kartu Cocok -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?game=kartu-cocok</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Mode Permainan Roda Putar Keberuntungan -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?game=roda-putar</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Generator Lembar Kerja Siswa (LKS PDF/Cetak) -->
+  <url>
+    <loc>https://ais-pre-pmzx57gruf77apyjc56nz6-496673436177.asia-southeast1.run.app/?game=cetak-lks</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

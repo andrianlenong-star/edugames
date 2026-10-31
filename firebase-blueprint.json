@@ -1,0 +1,66 @@
+{
+  "entities": {
+    "Quiz": {
+      "title": "Quiz",
+      "description": "Represents an educational quiz set with its questions and metadata",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier of the quiz"
+        },
+        "title": {
+          "type": "string",
+          "description": "Title of the quiz"
+        },
+        "description": {
+          "type": "string",
+          "description": "Description of the quiz set"
+        },
+        "category": {
+          "type": "string",
+          "description": "Subject category"
+        },
+        "grade": {
+          "type": "string",
+          "description": "Education level grade"
+        },
+        "targetClass": {
+          "type": "string",
+          "description": "Specific class level target"
+        },
+        "difficulty": {
+          "type": "string",
+          "description": "Difficulty level"
+        },
+        "icon": {
+          "type": "string",
+          "description": "Icon identifier"
+        },
+        "color": {
+          "type": "string",
+          "description": "Gradient color classes"
+        },
+        "isCustom": {
+          "type": "boolean",
+          "description": "Whether the quiz was created or imported by a teacher"
+        },
+        "questions": {
+          "type": "string",
+          "description": "Serialized questions JSON string or structure"
+        },
+        "updatedAt": {
+          "type": "string",
+          "description": "Timestamp of last modification"
+        }
+      },
+      "required": ["id", "title"]
+    }
+  },
+  "firestore": {
+    "/quizzes/{quizId}": {
+      "schema": "Quiz",
+      "description": "Collection of educational quiz sets accessible across teacher and student devices"
+    }
+  }
+}
